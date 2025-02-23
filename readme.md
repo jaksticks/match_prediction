@@ -4,8 +4,6 @@ The notebook poisson_model.ipynb creates a simple poisson model for predicting t
 
 # Final league position predictions
 
-Example predictions on 16.2.2025
-
 ![Projected final league table](./league_distribution.png)
 
 # Team rankings
