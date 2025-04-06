@@ -83,8 +83,55 @@ def calculate_manager_points(outcome, home_goals, away_goals, home_team, away_te
 
     return manager_xp
 
-def simulate_season(league_table, fixtures, clf, final_gameweek=38):
-    '''Simulate a whole season or up to certain gameweek.'''
+def update_league_table(league_table, home_team_, away_team_, outcome, home_goals, away_goals, fixture):
+    '''Update league table after each match.'''
+    # update matches played
+    league_table.loc[league_table['Squad']==home_team_, 'MP'] += 1
+    league_table.loc[league_table['Squad']==away_team_, 'MP'] += 1
+    # update league table 
+    league_table.loc[league_table['Squad']==home_team_, 'GF'] += home_goals
+    league_table.loc[league_table['Squad']==home_team_, 'GA'] += away_goals
+    league_table.loc[league_table['Squad']==home_team_, 'GD'] += home_goals - away_goals
+    league_table.loc[league_table['Squad']==away_team_, 'GF'] += away_goals
+    league_table.loc[league_table['Squad']==away_team_, 'GA'] += home_goals
+    league_table.loc[league_table['Squad']==away_team_, 'GD'] += away_goals - home_goals
+    if outcome=='home_win':
+        league_table.loc[league_table['Squad']==home_team_, 'Pts'] += 3
+        league_table.loc[league_table['Squad']==home_team_, 'W'] += 1
+        league_table.loc[league_table['Squad']==away_team_, 'L'] += 1
+    elif outcome=='draw':
+        league_table.loc[league_table['Squad']==home_team_, 'Pts'] += 1
+        league_table.loc[league_table['Squad']==away_team_, 'Pts'] += 1
+        league_table.loc[league_table['Squad']==home_team_, 'D'] += 1
+        league_table.loc[league_table['Squad']==away_team_, 'D'] += 1
+    elif outcome=='away_win':
+        league_table.loc[league_table['Squad']==away_team_, 'Pts'] += 3
+        league_table.loc[league_table['Squad']==away_team_, 'W'] += 1
+        league_table.loc[league_table['Squad']==home_team_, 'L'] += 1
+    else: 
+        print('No valid result for:')
+        print(fixture)
+
+def simulate_season(league_table, fixtures, clf):
+    '''Simulate a whole season.'''
+    
+    for _, fixture in fixtures.iterrows():
+        home_team_ = fixture.Home
+        away_team_ = fixture.Away
+        # simulate match outcome
+        outcome, home_goals, away_goals = simulate_match(clf, home_team_, away_team_)
+        update_league_table(league_table, home_team_, away_team_, outcome, home_goals, away_goals, fixture)
+    
+    assert np.all(league_table['MP']==38), 'All teams have not played 38 games!'
+
+    league_table = league_table.sort_values(by=['Pts', 'GD', 'GF'], ascending=False)
+    league_table['Rk'] = np.arange(1,21)
+
+    return league_table
+
+
+def simulate_season_fpl(league_table, fixtures, clf, final_gameweek=38):
+    '''Simulate a whole FPL season or up to certain gameweek.'''
     first_index = fixtures.event.first_valid_index()
     current_week = fixtures.loc[first_index,'event'].copy()
     league_table_snapshot = league_table.copy()
@@ -113,33 +160,9 @@ def simulate_season(league_table, fixtures, clf, final_gameweek=38):
         # calculate manager points
         manager_xp = calculate_manager_points(outcome, home_goals, away_goals, home_team_, away_team_, current_week, league_table_snapshot, manager_xp)
 
-        # update matches played
-        league_table.loc[league_table['Squad']==home_team_, 'MP'] += 1
-        league_table.loc[league_table['Squad']==away_team_, 'MP'] += 1
-        # update league table 
-        league_table.loc[league_table['Squad']==home_team_, 'GF'] += home_goals
-        league_table.loc[league_table['Squad']==home_team_, 'GA'] += away_goals
-        league_table.loc[league_table['Squad']==home_team_, 'GD'] += home_goals - away_goals
-        league_table.loc[league_table['Squad']==away_team_, 'GF'] += away_goals
-        league_table.loc[league_table['Squad']==away_team_, 'GA'] += home_goals
-        league_table.loc[league_table['Squad']==away_team_, 'GD'] += away_goals - home_goals
-        if outcome=='home_win':
-            league_table.loc[league_table['Squad']==home_team_, 'Pts'] += 3
-            league_table.loc[league_table['Squad']==home_team_, 'W'] += 1
-            league_table.loc[league_table['Squad']==away_team_, 'L'] += 1
-        elif outcome=='draw':
-            league_table.loc[league_table['Squad']==home_team_, 'Pts'] += 1
-            league_table.loc[league_table['Squad']==away_team_, 'Pts'] += 1
-            league_table.loc[league_table['Squad']==home_team_, 'D'] += 1
-            league_table.loc[league_table['Squad']==away_team_, 'D'] += 1
-        elif outcome=='away_win':
-            league_table.loc[league_table['Squad']==away_team_, 'Pts'] += 3
-            league_table.loc[league_table['Squad']==away_team_, 'W'] += 1
-            league_table.loc[league_table['Squad']==home_team_, 'L'] += 1
-        else: 
-            print('No valid result for:')
-            print(fixture)
-    
+        # update league table
+        update_league_table(league_table, home_team_, away_team_, outcome, home_goals, away_goals, fixture)
+
     if final_gameweek==38:
         assert np.all(league_table['MP']==38), 'All teams have not played 38 games!'
 
@@ -147,3 +170,4 @@ def simulate_season(league_table, fixtures, clf, final_gameweek=38):
     league_table['Rk'] = np.arange(1,21)
 
     return league_table, manager_xp
+
