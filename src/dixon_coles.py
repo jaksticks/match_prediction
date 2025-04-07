@@ -104,7 +104,7 @@ def create_team_ratings(clf, teams, args):
 
     # Log the DataFrame
     logging.info("Team ratings:\n%s", ratings_df.to_string(index=True))
-    breakpoint()
+    
     league_name = args.league.replace(" ", "_")
     dfi.export(ratings_df, f"../output/ratings_{league_name}.png", table_conversion='matplotlib',)
     
