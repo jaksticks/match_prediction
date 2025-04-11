@@ -37,7 +37,10 @@ def fetch_data(league_name, urls):
     df['goals_home'] = df['Score'].apply(lambda x: x.split('–')[0])
     df['goals_away'] = df['Score'].apply(lambda x: x.split('–')[1])
     df.rename(columns={'Home': 'team_home', 'Away': 'team_away', 'Date': 'date'}, inplace=True)
-    #df = df.sort_values('date').reset_index(drop=True)
+    df = df.sort_values('date').reset_index(drop=True)
+    current_date = dt.datetime.today()
+    df['days_since'] = df['date'].apply(lambda x: (current_date-x).days)
+    df = df[df.days_since <= 365].copy()
     logging.info(f"Results retrieved up to {df['date'].max().date()}")
     
     return df, fixtures, league_table, teams
@@ -104,7 +107,7 @@ def create_team_ratings(clf, teams, args):
 
     # Log the DataFrame
     logging.info("Team ratings:\n%s", ratings_df.to_string(index=True))
-    
+
     league_name = args.league.replace(" ", "_")
     dfi.export(ratings_df, f"../output/ratings_{league_name}.png", table_conversion='matplotlib',)
     
