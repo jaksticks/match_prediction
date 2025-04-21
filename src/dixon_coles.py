@@ -10,6 +10,7 @@ from random import choices
 import json
 import requests
 from tqdm import tqdm
+import time
 from utils import (simulate_match, analyse_match, table_bonus_check, calculate_manager_points, simulate_season)
 
 import matplotlib.pyplot as plt
@@ -23,10 +24,19 @@ def fetch_data(league_name, urls):
     Fetch data for the specified league.
     """
 
-    logging.info(f"Fetching data for {league_name}...")
+    logging.info(f"Fetching data for the current season of {league_name}...")
     matches_season = pd.read_html(urls['url_current_season'])[0]
+     # Add a 5-second delay to avoid being blocked by the server
+    logging.info("Data fetched for current season. Sleeping for 10 seconds...")
+    time.sleep(10)
+
+    logging.info(f"Fetching data for the previous season of {league_name}...")
     matches_previous_season = pd.read_html(urls['url_previous_season'])[0]
+    logging.info("Data fetched for the previous season. Sleeping for 10 seconds...")
+    time.sleep(10)
+
     fixtures = matches_season[(matches_season.Home.notnull()) & (matches_season.Score.isnull())]
+    logging.info(f"Fetching league table for the current season of {league_name}...")
     league_table = pd.read_html(urls['url_league_table'])[0]
     teams = np.sort(league_table['Squad'].unique())
     
@@ -150,6 +160,13 @@ def process_simulation_results(simulation_results_df, nr_simulations, args):
     # Reorder the matrix based on average final league position
     sorted_teams = simulation_results_df.groupby(['Squad'])['Rk'].mean().sort_values().index
     sorted_matrix = result_matrix.loc[sorted_teams]
+    breakpoint()
+    if args.save_simulation_results:
+        # Get the current timestamp in YY-MM-DD_HR-MIN-SEC format
+        timestamp = dt.datetime.now().strftime("%y-%m-%d_%H-%M-%S")
+        # Use the timestamp as part of the file name
+        league_name = args.league.replace(" ", "_")
+        sorted_matrix.to_csv(f'../output/{timestamp}--{league_name}.csv')
 
     # Plot the reordered heatmap
     plt.figure(figsize=(10, 6))
@@ -164,7 +181,7 @@ def process_simulation_results(simulation_results_df, nr_simulations, args):
         league_name = args.league.replace(" ", "_")
         plt.savefig(f'../output/league_distribution_{league_name}.png')
 
-    plt.show()
+    #plt.show()
 
 
 def main(args, urls):
@@ -202,7 +219,7 @@ if __name__ == "__main__":
         "--save_simulation_results",
         type=bool,
         default=True,
-        help="Whether to save the simulation results as an image. Default is True."        
+        help="Whether to save the simulation results. Default is True."        
     )
     args = parser.parse_args()
 
