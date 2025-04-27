@@ -8,5 +8,10 @@
     "url_current_season": "https://fbref.com/en/comps/12/schedule/La-Liga-Scores-and-Fixtures",
     "url_previous_season": "https://fbref.com/en/comps/12/2023-2024/schedule/2023-2024-La-Liga-Scores-and-Fixtures",
     "url_league_table": "https://fbref.com/en/comps/12/La-Liga-Stats"
+  },
+  "FIN Veikkausliiga": {
+    "url_current_season": "https://fbref.com/en/comps/43/schedule/Veikkausliiga-Scores-and-Fixtures",
+    "url_previous_season": "https://fbref.com/en/comps/43/2024/schedule/2024-Veikkausliiga-Scores-and-Fixtures",
+    "url_league_table": "https://fbref.com/en/comps/43/Veikkausliiga-Stats" 
   }
 }

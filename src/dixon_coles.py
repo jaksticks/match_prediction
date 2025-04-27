@@ -38,6 +38,7 @@ def fetch_data(league_name, urls):
     fixtures = matches_season[(matches_season.Home.notnull()) & (matches_season.Score.isnull())]
     logging.info(f"Fetching league table for the current season of {league_name}...")
     league_table = pd.read_html(urls['url_league_table'])[0]
+    league_table = league_table[league_table.Squad.notnull()].reset_index(drop=True)
     teams = np.sort(league_table['Squad'].unique())
     
     logging.info(f"Processing data {league_name} data...")
@@ -45,7 +46,11 @@ def fetch_data(league_name, urls):
     matches['Date'] = pd.to_datetime(matches['Date'])
     df = matches[matches['Score'].notnull()].copy()
     df['goals_home'] = df['Score'].apply(lambda x: x.split('–')[0])
+    # handle matches with extra time / penalty shootout
+    df['goals_home'] = df['goals_home'].apply(lambda x: x.split()[-1]) 
     df['goals_away'] = df['Score'].apply(lambda x: x.split('–')[1])
+    # handle matches with extra time / penalty shootout
+    df['goals_away'] = df['goals_away'].apply(lambda x: x.split()[0])
     df.rename(columns={'Home': 'team_home', 'Away': 'team_away', 'Date': 'date'}, inplace=True)
     df = df.sort_values('date').reset_index(drop=True)
     current_date = dt.datetime.today()
@@ -72,6 +77,13 @@ def create_model(df):
 
     return clf
 
+def get_median_from_list(numbers):
+    # Sort the list
+    sorted_numbers = sorted(numbers)
+    # Get the middle index
+    middle_index = len(sorted_numbers) // 2
+    # Return the middle value
+    return sorted_numbers[middle_index]
 
 def create_team_ratings(clf, teams, args):
     """
@@ -85,9 +97,9 @@ def create_team_ratings(clf, teams, args):
     defense_params = {k: v for k, v in params.items() if k.startswith('defence_')}
 
     # Compute median values
-    median_attack = np.median(list(attack_params.values()))
-    median_defense = np.median(list(defense_params.values()))
-
+    median_attack = get_median_from_list(list(attack_params.values()))
+    median_defense = get_median_from_list(list(defense_params.values()))
+    
     # Find teams with median values
     median_attack_team = [team.split('attack_')[1] for team, value in attack_params.items() if value == median_attack]
     median_defense_team = [team.split('defence_')[1] for team, value in defense_params.items() if value == median_defense]
@@ -147,11 +159,12 @@ def process_simulation_results(simulation_results_df, nr_simulations, args):
 
     logging.info("Processing simulation results...")
     
+    max_rank = simulation_results_df['Rk'].max()
     result_matrix = (
         simulation_results_df.groupby(['Squad', 'Rk'])
         .size()
         .unstack(fill_value=0)
-        .reindex(columns=range(1, 21), fill_value=0)  # Ensure columns go from 1 to 20
+        .reindex(columns=range(1, max_rank+1), fill_value=0)  # Ensure columns go from 1 to max_rank
     )
 
     # normalize to percentage
@@ -160,7 +173,7 @@ def process_simulation_results(simulation_results_df, nr_simulations, args):
     # Reorder the matrix based on average final league position
     sorted_teams = simulation_results_df.groupby(['Squad'])['Rk'].mean().sort_values().index
     sorted_matrix = result_matrix.loc[sorted_teams]
-    breakpoint()
+    
     if args.save_simulation_results:
         # Get the current timestamp in YY-MM-DD_HR-MIN-SEC format
         timestamp = dt.datetime.now().strftime("%y-%m-%d_%H-%M-%S")
@@ -206,7 +219,7 @@ if __name__ == "__main__":
         "--league",
         type=str,
         default="ENG Premier League",
-        choices=["ENG Premier League", "ESP La Liga"],
+        choices=["ENG Premier League", "ESP La Liga", "FIN Veikkausliiga"],
         help="Name of the league to process (e.g., 'ENG Premier League'). Default is 'ENG Premier League'."
     )
     parser.add_argument(

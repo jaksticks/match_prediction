@@ -1,6 +1,6 @@
 # Introduction
 
-The notebook poisson_model.ipynb creates a simple poisson model for predicting the Premier League season final rankings. 
+The script src/dixon_coles.py can be used to evaluate the strenght of each football team in a given league and simulate season end rankings. Supported leagues currently are the English Premier League, Spanish La Liga and Finnish Veikkausliiga. 
 
 # Final league position predictions
 

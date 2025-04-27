@@ -122,10 +122,10 @@ def simulate_season(league_table, fixtures, clf):
         outcome, home_goals, away_goals = simulate_match(clf, home_team_, away_team_)
         update_league_table(league_table, home_team_, away_team_, outcome, home_goals, away_goals, fixture)
     
-    assert np.all(league_table['MP']==38), 'All teams have not played 38 games!'
+    assert len(np.unique(league_table['MP'])) == 1, 'Not all teams have played the same number of matches!'
 
     league_table = league_table.sort_values(by=['Pts', 'GD', 'GF'], ascending=False)
-    league_table['Rk'] = np.arange(1,21)
+    league_table['Rk'] = np.arange(1,league_table.shape[0]+1)
 
     return league_table
 
