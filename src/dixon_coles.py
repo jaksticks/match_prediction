@@ -179,7 +179,7 @@ def process_simulation_results(simulation_results_df, nr_simulations, args):
         timestamp = dt.datetime.now().strftime("%y-%m-%d_%H-%M-%S")
         # Use the timestamp as part of the file name
         league_name = args.league.replace(" ", "_")
-        sorted_matrix.to_csv(f'../output/{timestamp}--{league_name}.csv')
+        sorted_matrix.to_csv(f'../output/league_matrices/{timestamp}--{league_name}.csv')
 
     # Plot the reordered heatmap
     plt.figure(figsize=(10, 6))
