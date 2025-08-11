@@ -85,7 +85,7 @@ def get_median_from_list(numbers):
     # Return the middle value
     return sorted_numbers[middle_index]
 
-def create_team_ratings(clf, teams, args):
+def create_team_ratings(clf, teams, args, export_ratings=True):
     """
     Create team ratings based on the fitted model.
     """
@@ -130,8 +130,11 @@ def create_team_ratings(clf, teams, args):
     # Log the DataFrame
     logging.info("Team ratings:\n%s", ratings_df.to_string(index=True))
 
-    league_name = args.league.replace(" ", "_")
-    dfi.export(ratings_df, f"../output/ratings_{league_name}.png", table_conversion='matplotlib',)
+    if export_ratings:
+        league_name = args.league.replace(" ", "_")
+        dfi.export(ratings_df, f"../output/ratings_{league_name}.png", table_conversion='matplotlib',)
+
+    return ratings_df
     
 
 def simulate_league(clf, league_table, fixtures, nr_simulations):
