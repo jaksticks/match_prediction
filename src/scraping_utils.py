@@ -39,15 +39,18 @@ def scroll_page(driver):
 def get_results(driver):
 
     # Get teams
-    elements = driver.find_elements(By.CLASS_NAME, 'teamname')
+    #elements = driver.find_elements(By.CLASS_NAME, 'teamname')
+    elements = driver.find_elements(By.CSS_SELECTOR, ".matchrow.status-Played .teamname")
     teams = [elem.text for elem in elements]
 
     # Get goals
-    elements = driver.find_elements(By.CLASS_NAME, 'scorefs')
+    #elements = driver.find_elements(By.CLASS_NAME, 'scorefs')
+    elements = driver.find_elements(By.CSS_SELECTOR, ".matchrow.status-Played .scorefs")
     goals = [elem.text for elem in elements]
 
     # Check if the number of teams and goals match and only use games where the result is known
-    teams = teams[-len(goals):]
+    #teams = teams[-len(goals):]
+    assert len(teams) == len(goals), "Number of teams and goals do not match"
 
     # create dataframe
     df = pd.DataFrame(columns=['team_home', 'team_away', 'goals_home', 'goals_away'])
