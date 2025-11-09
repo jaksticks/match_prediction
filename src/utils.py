@@ -116,8 +116,8 @@ def simulate_season(league_table, fixtures, clf):
     '''Simulate a whole season.'''
     
     for _, fixture in fixtures.iterrows():
-        home_team_ = fixture.Home
-        away_team_ = fixture.Away
+        home_team_ = fixture.home_team
+        away_team_ = fixture.away_team
         # simulate match outcome
         outcome, home_goals, away_goals = simulate_match(clf, home_team_, away_team_)
         update_league_table(league_table, home_team_, away_team_, outcome, home_goals, away_goals, fixture)

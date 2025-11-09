@@ -1,17 +1,6 @@
 {
-  "ENG Premier League": {
-    "url_current_season": "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures",
-    "url_previous_season": "https://fbref.com/en/comps/9/2023-2024/schedule/2023-2024-Premier-League-Scores-and-Fixtures",
-    "url_league_table": "https://fbref.com/en/comps/9/Premier-League-Stats"
-  },
-  "ESP La Liga": {
-    "url_current_season": "https://fbref.com/en/comps/12/schedule/La-Liga-Scores-and-Fixtures",
-    "url_previous_season": "https://fbref.com/en/comps/12/2023-2024/schedule/2023-2024-La-Liga-Scores-and-Fixtures",
-    "url_league_table": "https://fbref.com/en/comps/12/La-Liga-Stats"
-  },
-  "FIN Veikkausliiga": {
-    "url_current_season": "https://fbref.com/en/comps/43/schedule/Veikkausliiga-Scores-and-Fixtures",
-    "url_previous_season": "https://fbref.com/en/comps/43/2024/schedule/2024-Veikkausliiga-Scores-and-Fixtures",
-    "url_league_table": "https://fbref.com/en/comps/43/Veikkausliiga-Stats" 
+  "seasons": {
+    "current": "2025",
+    "previous": "2024"
   }
 }

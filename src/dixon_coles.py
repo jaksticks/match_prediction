@@ -11,6 +11,8 @@ import json
 import requests
 from tqdm import tqdm
 import time
+import pytz
+import soccerdata as sd
 from utils import (simulate_match, analyse_match, table_bonus_check, calculate_manager_points, simulate_season)
 
 import matplotlib.pyplot as plt
@@ -19,41 +21,32 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-def fetch_data(league_name, urls):
+def fetch_data(league_name):
     """
     Fetch data for the specified league.
     """
 
     logging.info(f"Fetching data for the current season of {league_name}...")
-    matches_season = pd.read_html(urls['url_current_season'])[0]
-     # Add a 5-second delay to avoid being blocked by the server
-    logging.info("Data fetched for current season. Sleeping for 10 seconds...")
-    time.sleep(10)
+    fotmob = sd.FotMob(leagues=league_name, seasons=[previous_season, current_season])
+    matches = fotmob.read_schedule()
+    fixtures = matches[matches.home_score.isnull()].copy() # matches that have not been played yet
 
-    logging.info(f"Fetching data for the previous season of {league_name}...")
-    matches_previous_season = pd.read_html(urls['url_previous_season'])[0]
-    logging.info("Data fetched for the previous season. Sleeping for 10 seconds...")
-    time.sleep(10)
-
-    fixtures = matches_season[(matches_season.Home.notnull()) & (matches_season.Score.isnull())]
     logging.info(f"Fetching league table for the current season of {league_name}...")
-    league_table = pd.read_html(urls['url_league_table'])[0]
-    league_table = league_table[league_table.Squad.notnull()].reset_index(drop=True)
+    fotmob = sd.FotMob(leagues=league_name, seasons=current_season)
+    league_table = (fotmob.read_league_table()
+            .rename(columns={'team': 'Squad'})
+            .reset_index(drop=True)
+        )
+    league_table['Rk'] = league_table.index + 1
+    league_table['GF'] = league_table['GF'].astype(int)
+    league_table['GA'] = league_table['GA'].astype(int)
     teams = np.sort(league_table['Squad'].unique())
     
     logging.info(f"Processing data {league_name} data...")
-    matches = pd.concat([matches_season, matches_previous_season], ignore_index=True)
-    matches['Date'] = pd.to_datetime(matches['Date'])
-    df = matches[matches['Score'].notnull()].copy()
-    df['goals_home'] = df['Score'].apply(lambda x: x.split('–')[0])
-    # handle matches with extra time / penalty shootout
-    df['goals_home'] = df['goals_home'].apply(lambda x: x.split()[-1]) 
-    df['goals_away'] = df['Score'].apply(lambda x: x.split('–')[1])
-    # handle matches with extra time / penalty shootout
-    df['goals_away'] = df['goals_away'].apply(lambda x: x.split()[0])
-    df.rename(columns={'Home': 'team_home', 'Away': 'team_away', 'Date': 'date'}, inplace=True)
+    df = matches[matches['home_score'].notnull()].copy()
+    df.rename(columns={'home_team': 'team_home', 'away_team': 'team_away', 'home_score': 'goals_home', 'away_score': 'goals_away'}, inplace=True)
     df = df.sort_values('date').reset_index(drop=True)
-    current_date = dt.datetime.today()
+    current_date = dt.datetime.now(pytz.UTC)
     df['days_since'] = df['date'].apply(lambda x: (current_date-x).days)
     df = df[df.days_since <= 365].copy()
     logging.info(f"Results retrieved up to {df['date'].max().date()}")
@@ -185,7 +178,7 @@ def process_simulation_results(simulation_results_df, nr_simulations, args):
         sorted_matrix.to_csv(f'../output/league_matrices/{timestamp}--{league_name}.csv')
 
     # Plot the reordered heatmap
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(12, 6))
     sns.heatmap(sorted_matrix, annot=True, cmap="Blues", linewidths=0.5, cbar_kws={'label': 'Probability'})
 
     timestamp = dt.datetime.now().strftime("%d.%m.%Y")
@@ -200,13 +193,13 @@ def process_simulation_results(simulation_results_df, nr_simulations, args):
     #plt.show()
 
 
-def main(args, urls):
+def main(args, current_season, previous_season):
     """
     Fit Dixon-Coles model to the specified league and simulate match outcomes.
     """
     logging.info(f"Creating a Dixon-Coles model for {args.league}")
     
-    df, fixtures, league_table, teams = fetch_data(args.league, urls)
+    df, fixtures, league_table, teams = fetch_data(args.league)
     clf = create_model(df)
     create_team_ratings(clf, teams, args)
     simulation_results_df = simulate_league(clf, league_table, fixtures, args.nr_simulations)
@@ -221,8 +214,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--league",
         type=str,
-        default="ENG Premier League",
-        choices=["ENG Premier League", "ESP La Liga", "FIN Veikkausliiga"],
+        default="ENG-Premier League",
+        choices=["ENG-Premier League", "ESP-La Liga", "FRA-Ligue 1", "GER-Bundesliga", "ITA-Serie A"],
         help="Name of the league to process (e.g., 'ENG Premier League'). Default is 'ENG Premier League'."
     )
     parser.add_argument(
@@ -249,8 +242,8 @@ if __name__ == "__main__":
     config_file_path = "config"
     with open(config_file_path, "r") as config_file:
         config = json.load(config_file)
-    # Get urls from the config file
-    urls = config[args.league]
+    current_season = config["seasons"]["current"]
+    previous_season = config["seasons"]["previous"]
 
     # Call the main function 
-    main(args, urls)
+    main(args, current_season, previous_season)
