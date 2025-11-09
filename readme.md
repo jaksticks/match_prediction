@@ -10,4 +10,4 @@ The script src/dixon_coles.py can be used to evaluate the strenght of each footb
 
 In this dataframe, 'attack_rating' refers to expected number of goals the team would score against average PL opponents in a neutral venue. Similarly, 'defense_rating' refers to expected goals allowed against average PL opponents in a neutral venue. Finally, 'goal_difference_rating' is simply the difference of the previous two.
 
-![Dataframe of team ratings.](./output/ratings_ENG_Premier_League.png)
+![Dataframe of team ratings.](./output/ratings_ENG-Premier_League.png)
