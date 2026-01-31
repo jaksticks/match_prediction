@@ -21,19 +21,20 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-def fetch_data(league_name):
+def fetch_data(league_name, seasons:list):
     """
     Fetch data for the specified league.
     """
 
-    logging.info(f"Fetching data for the current season of {league_name}...")
-    fotmob = sd.FotMob(leagues=league_name, seasons=[previous_season, current_season])
-    matches = fotmob.read_schedule()
+    logging.info(f"Fetching data for current and previous season of {league_name}...")
+    #fotmob = sd.FotMob(leagues=league_name, seasons=seasons)
+    sofascore = sd.Sofascore(leagues=league_name, seasons=seasons)
+    matches = sofascore.read_schedule()
     fixtures = matches[matches.home_score.isnull()].copy() # matches that have not been played yet
 
     logging.info(f"Fetching league table for the current season of {league_name}...")
-    fotmob = sd.FotMob(leagues=league_name, seasons=current_season)
-    league_table = (fotmob.read_league_table()
+    sofascore = sd.Sofascore(leagues=league_name, seasons=current_season)
+    league_table = (sofascore.read_league_table()
             .rename(columns={'team': 'Squad'})
             .reset_index(drop=True)
         )
@@ -199,7 +200,8 @@ def main(args, current_season, previous_season):
     """
     logging.info(f"Creating a Dixon-Coles model for {args.league}")
     
-    df, fixtures, league_table, teams = fetch_data(args.league)
+    seasons = [previous_season, current_season]
+    df, fixtures, league_table, teams = fetch_data(args.league, seasons)
     clf = create_model(df)
     create_team_ratings(clf, teams, args)
     simulation_results_df = simulate_league(clf, league_table, fixtures, args.nr_simulations)
