@@ -26,14 +26,13 @@ def fetch_data(league_name, seasons:list):
     Fetch data for the specified league.
     """
 
-    logging.info(f"Fetching data for current and previous season of {league_name}...")
-    #fotmob = sd.FotMob(leagues=league_name, seasons=seasons)
+    logging.info(f"Fetching data for seasons {seasons} of {league_name}...")
     sofascore = sd.Sofascore(leagues=league_name, seasons=seasons)
     matches = sofascore.read_schedule()
     fixtures = matches[matches.home_score.isnull()].copy() # matches that have not been played yet
 
-    logging.info(f"Fetching league table for the current season of {league_name}...")
-    sofascore = sd.Sofascore(leagues=league_name, seasons=current_season)
+    logging.info(f"Fetching league table for the current season ({seasons[-1]}) of {league_name}...")
+    sofascore = sd.Sofascore(leagues=league_name, seasons=seasons[-1])
     league_table = (sofascore.read_league_table()
             .rename(columns={'team': 'Squad'})
             .reset_index(drop=True)
@@ -49,7 +48,7 @@ def fetch_data(league_name, seasons:list):
     df = df.sort_values('date').reset_index(drop=True)
     current_date = dt.datetime.now(pytz.UTC)
     df['days_since'] = df['date'].apply(lambda x: (current_date-x).days)
-    df = df[df.days_since <= 365].copy()
+    df = df[df.days_since <= 850].copy() # only keep matches within the last 850 days
     logging.info(f"Results retrieved up to {df['date'].max().date()}")
     
     return df, fixtures, league_table, teams
@@ -61,7 +60,7 @@ def create_model(df):
     """
 
     logging.info("Creating the Dixon-Coles model...")
-    xi = 0.0018
+    xi = 0.0009
     weights = pb.models.dixon_coles_weights(df["date"], xi)
 
     clf = pb.models.DixonColesGoalModel(
@@ -194,13 +193,12 @@ def process_simulation_results(simulation_results_df, nr_simulations, args):
     #plt.show()
 
 
-def main(args, current_season, previous_season):
+def main(args, seasons):
     """
     Fit Dixon-Coles model to the specified league and simulate match outcomes.
     """
     logging.info(f"Creating a Dixon-Coles model for {args.league}")
     
-    seasons = [previous_season, current_season]
     df, fixtures, league_table, teams = fetch_data(args.league, seasons)
     clf = create_model(df)
     create_team_ratings(clf, teams, args)
@@ -244,8 +242,7 @@ if __name__ == "__main__":
     config_file_path = "config"
     with open(config_file_path, "r") as config_file:
         config = json.load(config_file)
-    current_season = config["seasons"]["current"]
-    previous_season = config["seasons"]["previous"]
+    seasons = config["seasons"]
 
     # Call the main function 
-    main(args, current_season, previous_season)
+    main(args, seasons)
