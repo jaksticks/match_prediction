@@ -20,8 +20,70 @@ import seaborn as sns
 import plotly.express as px
 import plotly.graph_objects as go
 
+def generate_upcoming_fixtures(matches, all_teams):
+    """
+    Generate upcoming fixtures by calculating all possible matchups for the season
+    and removing games that have already been played.
+    
+    Parameters:
+    -----------
+    matches : pd.DataFrame
+        DataFrame containing all matches (played and unplayed)
+    
+    Returns:
+    --------
+    upcoming_fixtures : pd.DataFrame
+        DataFrame containing only the upcoming fixtures
+    """
+    
+    logging.info("Generating upcoming fixtures by deducing season schedule...")
+    
+    # Generate all possible matchups (each team plays each other team twice)
+    all_possible_fixtures = []
+    for home_team in all_teams:
+        for away_team in all_teams:
+            if home_team != away_team:
+                all_possible_fixtures.append({
+                    'home_team': home_team,
+                    'away_team': away_team
+                })
+    
+    all_fixtures_df = pd.DataFrame(all_possible_fixtures)
+    logging.info(f"Generated {len(all_fixtures_df)} possible matchups")
+    
+    # Get played matches
+    matches_aux = matches.reset_index()
+    current_season = matches_aux['season'].max()
+    # keep games from current season
+    played_matches = matches_aux[matches_aux['season']==current_season].copy()
+    # keep only games that have been played
+    played_matches = played_matches[played_matches['home_score'].notnull()]
+    # keep only home_team and away_team columns
+    played_matchups = played_matches[['home_team', 'away_team']]
+    logging.info(f"Found {len(played_matchups)} played matchups")
 
-def fetch_data(league_name, seasons:list):
+    # Find upcoming fixtures by removing played matches from all possible fixtures
+    upcoming_fixtures = all_fixtures_df.merge(
+        played_matchups,
+        on=['home_team', 'away_team'],
+        how='left',
+        indicator=True
+    )
+    upcoming_fixtures = upcoming_fixtures[upcoming_fixtures['_merge'] == 'left_only'].drop('_merge', axis=1)
+    
+    logging.info(f"Generated {len(upcoming_fixtures)} upcoming fixtures")
+    
+    # Keep only the columns that exist in the original matches DataFrame
+    # and fill with NaN for missing columns
+    for col in matches.columns:
+        if col not in upcoming_fixtures.columns:
+            upcoming_fixtures[col] = None
+    
+    upcoming_fixtures = upcoming_fixtures[matches.columns]
+    
+    return upcoming_fixtures
+
+def fetch_data(league_name, seasons:list, deduce_schedule=False):
     """
     Fetch data for the specified league.
     """
@@ -29,7 +91,6 @@ def fetch_data(league_name, seasons:list):
     logging.info(f"Fetching data for seasons {seasons} of {league_name}...")
     sofascore = sd.Sofascore(leagues=league_name, seasons=seasons)
     matches = sofascore.read_schedule()
-    fixtures = matches[matches.home_score.isnull()].copy() # matches that have not been played yet
 
     logging.info(f"Fetching league table for the current season ({seasons[-1]}) of {league_name}...")
     sofascore = sd.Sofascore(leagues=league_name, seasons=seasons[-1])
@@ -42,6 +103,14 @@ def fetch_data(league_name, seasons:list):
     league_table['GA'] = league_table['GA'].astype(int)
     teams = np.sort(league_table['Squad'].unique())
     
+    # get fixtures for the rest of the season
+    if deduce_schedule:
+        fixtures = generate_upcoming_fixtures(matches, teams)
+        logging.info(f"Generated upcoming fixtures using deduced schedule")
+    else:
+        fixtures = matches[matches.home_score.isnull()].copy()  # matches that have not been played yet
+        logging.info(f"Using fixtures from API")
+
     logging.info(f"Processing data {league_name} data...")
     df = matches[matches['home_score'].notnull()].copy()
     df.rename(columns={'home_team': 'team_home', 'away_team': 'team_away', 'home_score': 'goals_home', 'away_score': 'goals_away'}, inplace=True)
@@ -199,7 +268,7 @@ def main(args, seasons):
     """
     logging.info(f"Creating a Dixon-Coles model for {args.league}")
     
-    df, fixtures, league_table, teams = fetch_data(args.league, seasons)
+    df, fixtures, league_table, teams = fetch_data(args.league, seasons, args.deduce_schedule)
     clf = create_model(df)
     create_team_ratings(clf, teams, args)
     simulation_results_df = simulate_league(clf, league_table, fixtures, args.nr_simulations)
@@ -229,6 +298,12 @@ if __name__ == "__main__":
         type=bool,
         default=True,
         help="Whether to save the simulation results. Default is True."        
+    )
+    parser.add_argument(
+        "--deduce_schedule",
+        type=bool,
+        default=False,
+        help="Whether to deduce the season schedule to generate upcoming fixtures. Default is False (use API fixtures)."
     )
     args = parser.parse_args()
 

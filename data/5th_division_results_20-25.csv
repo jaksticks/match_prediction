@@ -1,0 +1,3652 @@
+team_home,team_away,goals_home,goals_away,league_division,season,group
+FC HIK,PEF,3,0,5,25,1
+FC Samba,KaPy,2,5,5,25,1
+LoPa/2,HooGee/23,0,0,5,25,1
+Olarin Kiksi,Hukat,6,2,5,25,1
+HooGee/23,FC HIK,3,7,5,25,1
+PEF,FC Samba,8,1,5,25,1
+PEF,HooGee/23,10,1,5,25,1
+Olarin Kiksi,FC HIK,1,2,5,25,1
+LoPa/2,FC Samba,4,4,5,25,1
+HooGee/23,KaPy,2,3,5,25,1
+KaPy,Hukat,2,2,5,25,1
+FC Samba,Olarin Kiksi,2,5,5,25,1
+PEF,LoPa/2,6,1,5,25,1
+Olarin Kiksi,PEF,0,0,5,25,1
+LoPa/2,KaPy,2,4,5,25,1
+Hukat,FC HIK,0,4,5,25,1
+FC HIK,FC Samba,9,0,5,25,1
+HooGee/23,Olarin Kiksi,1,3,5,25,1
+Hukat,PEF,2,7,5,25,1
+Olarin Kiksi,KaPy,13,2,5,25,1
+Hukat,HooGee/23,2,0,5,25,1
+LoPa/2,FC HIK,1,1,5,25,1
+KaPy,PEF,1,6,5,25,1
+HooGee/23,FC Samba,2,3,5,25,1
+Hukat,LoPa/2,5,0,5,25,1
+FC HIK,KaPy,1,0,5,25,1
+LoPa/2,Olarin Kiksi,0,4,5,25,1
+KaPy,FC Samba,2,9,5,25,1
+HooGee/23,LoPa/2,13,0,5,25,1
+PEF,FC HIK,1,0,5,25,1
+FC HIK,HooGee/23,4,3,5,25,1
+FC Samba,PEF,0,7,5,25,1
+Hukat,Olarin Kiksi,2,8,5,25,1
+KaPy,HooGee/23,1,8,5,25,1
+FC HIK,Olarin Kiksi,2,1,5,25,1
+FC Samba,LoPa/2,7,2,5,25,1
+Olarin Kiksi,FC Samba,9,2,5,25,1
+Hukat,KaPy,4,2,5,25,1
+LoPa/2,PEF,0,3,5,25,1
+KaPy,LoPa/2,3,1,5,25,1
+FC HIK,Hukat,6,1,5,25,1
+PEF,Olarin Kiksi,1,5,5,25,1
+PEF,Hukat,2,1,5,25,1
+Olarin Kiksi,HooGee/23,12,1,5,25,1
+FC Samba,FC HIK,2,13,5,25,1
+KaPy,Olarin Kiksi,2,5,5,25,1
+FC HIK,LoPa/2,13,0,5,25,1
+HooGee/23,Hukat,7,0,5,25,1
+FC Samba,HooGee/23,1,4,5,25,1
+PEF,KaPy,3,0,5,25,1
+LoPa/2,Hukat,2,3,5,25,1
+KaPy,FC HIK,1,7,5,25,1
+FC Samba,Hukat,0,1,5,25,1
+Olarin Kiksi,LoPa/2,3,0,5,25,1
+HooGee/23,PEF,5,2,5,25,1
+LePa/Cityboys,KY United,0,4,5,25,2
+FC Honka/Leopardit,PPV,4,4,5,25,2
+PiTa,RiRa,4,4,5,25,2
+HDS/Express,EsPa/Keltavihree,3,3,5,25,2
+Kilo IF,GrIFK/2,1,0,5,25,2
+EsPa/Keltavihree,PiTa,1,1,5,25,2
+KY United,FC Honka/Leopardit,5,3,5,25,2
+RiRa,LePa/Cityboys,4,3,5,25,2
+PPV,Kilo IF,3,2,5,25,2
+GrIFK/2,HDS/Express,8,0,5,25,2
+EsPa/Keltavihree,KY United,0,3,5,25,2
+FC Honka/Leopardit,RiRa,5,5,5,25,2
+PPV,GrIFK/2,0,3,5,25,2
+HDS/Express,LePa/Cityboys,4,6,5,25,2
+Kilo IF,PiTa,4,2,5,25,2
+KY United,PPV,8,1,5,25,2
+RiRa,HDS/Express,3,2,5,25,2
+LePa/Cityboys,Kilo IF,0,7,5,25,2
+PiTa,FC Honka/Leopardit,3,4,5,25,2
+GrIFK/2,EsPa/Keltavihree,0,0,5,25,2
+FC Honka/Leopardit,EsPa/Keltavihree,1,1,5,25,2
+LePa/Cityboys,GrIFK/2,1,2,5,25,2
+PPV,PiTa,4,2,5,25,2
+HDS/Express,KY United,0,8,5,25,2
+Kilo IF,RiRa,3,1,5,25,2
+KY United,GrIFK/2,5,2,5,25,2
+RiRa,PPV,3,5,5,25,2
+FC Honka/Leopardit,HDS/Express,6,3,5,25,2
+PiTa,LePa/Cityboys,1,0,5,25,2
+EsPa/Keltavihree,Kilo IF,4,1,5,25,2
+LePa/Cityboys,FC Honka/Leopardit,3,4,5,25,2
+PPV,EsPa/Keltavihree,0,3,5,25,2
+HDS/Express,PiTa,1,6,5,25,2
+Kilo IF,KY United,0,2,5,25,2
+GrIFK/2,RiRa,2,2,5,25,2
+EsPa/Keltavihree,LePa/Cityboys,8,1,5,25,2
+KY United,RiRa,3,1,5,25,2
+PPV,HDS/Express,7,0,5,25,2
+Kilo IF,FC Honka/Leopardit,6,1,5,25,2
+GrIFK/2,PiTa,3,3,5,25,2
+RiRa,EsPa/Keltavihree,0,5,5,25,2
+PiTa,KY United,2,5,5,25,2
+HDS/Express,Kilo IF,2,3,5,25,2
+LePa/Cityboys,PPV,2,4,5,25,2
+FC Honka/Leopardit,GrIFK/2,3,1,5,25,2
+EsPa/Keltavihree,HDS/Express,10,1,5,25,2
+KY United,LePa/Cityboys,5,1,5,25,2
+PPV,FC Honka/Leopardit,3,4,5,25,2
+RiRa,PiTa,0,3,5,25,2
+GrIFK/2,Kilo IF,2,3,5,25,2
+FC Honka/Leopardit,KY United,1,1,5,25,2
+LePa/Cityboys,RiRa,1,6,5,25,2
+PiTa,EsPa/Keltavihree,0,6,5,25,2
+Kilo IF,PPV,2,1,5,25,2
+HDS/Express,GrIFK/2,4,4,5,25,2
+KY United,EsPa/Keltavihree,0,5,5,25,2
+RiRa,FC Honka/Leopardit,2,3,5,25,2
+PiTa,Kilo IF,1,2,5,25,2
+LePa/Cityboys,HDS/Express,2,0,5,25,2
+GrIFK/2,PPV,1,4,5,25,2
+EsPa/Keltavihree,GrIFK/2,14,1,5,25,2
+PPV,KY United,1,5,5,25,2
+Kilo IF,LePa/Cityboys,3,1,5,25,2
+FC Honka/Leopardit,PiTa,0,1,5,25,2
+HDS/Express,RiRa,2,6,5,25,2
+EsPa/Keltavihree,FC Honka/Leopardit,3,1,5,25,2
+KY United,HDS/Express,7,3,5,25,2
+PiTa,PPV,2,1,5,25,2
+RiRa,Kilo IF,2,2,5,25,2
+GrIFK/2,LePa/Cityboys,5,1,5,25,2
+LePa/Cityboys,PiTa,1,5,5,25,2
+HDS/Express,FC Honka/Leopardit,2,2,5,25,2
+Kilo IF,EsPa/Keltavihree,2,10,5,25,2
+PPV,RiRa,4,0,5,25,2
+GrIFK/2,KY United,0,12,5,25,2
+KY United,Kilo IF,3,0,5,25,2
+FC Honka/Leopardit,LePa/Cityboys,7,2,5,25,2
+EsPa/Keltavihree,PPV,3,4,5,25,2
+RiRa,GrIFK/2,6,1,5,25,2
+PiTa,HDS/Express,6,0,5,25,2
+FC Honka/Leopardit,Kilo IF,7,0,5,25,2
+LePa/Cityboys,EsPa/Keltavihree,1,6,5,25,2
+PiTa,GrIFK/2,7,1,5,25,2
+HDS/Express,PPV,1,3,5,25,2
+KY United,PiTa,3,0,5,25,2
+GrIFK/2,FC Honka/Leopardit,2,4,5,25,2
+PPV,LePa/Cityboys,2,1,5,25,2
+EsPa/Keltavihree,RiRa,4,1,5,25,2
+Kilo IF,HDS/Express,2,3,5,25,2
+RiRa,KY United,0,4,5,25,2
+FC Pehmeet ja Märät,HIFK/2,4,1,5,25,3
+FC POHU/Simpsons,PETO,1,5,5,25,3
+ToTe/Keparoi,Tavastia,0,2,5,25,3
+FC POHU/United,Vesa/Töölö,8,1,5,25,3
+PPJ/LeJa,FC ST4Y,1,11,5,25,3
+Tavastia,FC POHU/United,1,3,5,25,3
+FC ST4Y,FC POHU/Simpsons,4,0,5,25,3
+PETO,FC Pehmeet ja Märät,1,6,5,25,3
+HIFK/2,ToTe/Keparoi,2,0,5,25,3
+Vesa/Töölö,PPJ/LeJa,10,1,5,25,3
+ToTe/Keparoi,PETO,2,1,5,25,3
+FC ST4Y,HIFK/2,3,2,5,25,3
+FC POHU/United,FC POHU/Simpsons,6,1,5,25,3
+Tavastia,Vesa/Töölö,1,0,5,25,3
+PPJ/LeJa,FC Pehmeet ja Märät,1,9,5,25,3
+FC Pehmeet ja Märät,FC POHU/United,0,3,5,25,3
+FC POHU/Simpsons,ToTe/Keparoi,1,1,5,25,3
+HIFK/2,Tavastia,0,4,5,25,3
+PETO,PPJ/LeJa,10,1,5,25,3
+Vesa/Töölö,FC ST4Y,2,5,5,25,3
+FC Pehmeet ja Märät,Vesa/Töölö,0,0,5,25,3
+Tavastia,FC POHU/Simpsons,2,1,5,25,3
+ToTe/Keparoi,FC ST4Y,0,14,5,25,3
+FC POHU/United,PETO,2,0,5,25,3
+PPJ/LeJa,HIFK/2,0,3,5,25,3
+FC POHU/Simpsons,FC Pehmeet ja Märät,2,2,5,25,3
+FC ST4Y,FC POHU/United,3,1,5,25,3
+ToTe/Keparoi,PPJ/LeJa,3,0,5,25,3
+PETO,Tavastia,2,2,5,25,3
+HIFK/2,Vesa/Töölö,2,0,5,25,3
+FC Pehmeet ja Märät,ToTe/Keparoi,2,1,5,25,3
+Tavastia,FC ST4Y,0,4,5,25,3
+FC POHU/United,HIFK/2,7,2,5,25,3
+Vesa/Töölö,PETO,1,1,5,25,3
+PPJ/LeJa,FC POHU/Simpsons,1,1,5,25,3
+Tavastia,PPJ/LeJa,4,0,5,25,3
+HIFK/2,PETO,2,2,5,25,3
+FC ST4Y,FC Pehmeet ja Märät,4,2,5,25,3
+Vesa/Töölö,FC POHU/Simpsons,2,1,5,25,3
+FC POHU/United,ToTe/Keparoi,11,1,5,25,3
+PETO,FC ST4Y,3,3,5,25,3
+FC POHU/Simpsons,HIFK/2,2,1,5,25,3
+PPJ/LeJa,FC POHU/United,0,2,5,25,3
+ToTe/Keparoi,Vesa/Töölö,1,3,5,25,3
+Tavastia,ToTe/Keparoi,4,0,5,25,3
+FC ST4Y,PPJ/LeJa,11,4,5,25,3
+HIFK/2,FC Pehmeet ja Märät,4,0,5,25,3
+PETO,FC POHU/Simpsons,5,0,5,25,3
+Vesa/Töölö,FC POHU/United,1,1,5,25,3
+FC ST4Y,PETO,1,1,5,25,3
+Vesa/Töölö,ToTe/Keparoi,4,1,5,25,3
+Tavastia,FC Pehmeet ja Märät,2,0,5,25,3
+HIFK/2,FC POHU/Simpsons,8,0,5,25,3
+FC POHU/United,Tavastia,1,2,5,25,3
+FC POHU/Simpsons,FC ST4Y,2,14,5,25,3
+ToTe/Keparoi,HIFK/2,2,1,5,25,3
+FC Pehmeet ja Märät,PETO,0,2,5,25,3
+PPJ/LeJa,Vesa/Töölö,1,4,5,25,3
+FC POHU/Simpsons,FC POHU/United,0,6,5,25,3
+Vesa/Töölö,Tavastia,2,6,5,25,3
+FC Pehmeet ja Märät,PPJ/LeJa,3,1,5,25,3
+PETO,ToTe/Keparoi,3,0,5,25,3
+HIFK/2,FC ST4Y,0,4,5,25,3
+FC POHU/United,FC Pehmeet ja Märät,4,4,5,25,3
+ToTe/Keparoi,FC POHU/Simpsons,2,2,5,25,3
+FC ST4Y,Vesa/Töölö,3,1,5,25,3
+PPJ/LeJa,PETO,1,4,5,25,3
+Tavastia,HIFK/2,8,1,5,25,3
+FC ST4Y,ToTe/Keparoi,4,0,5,25,3
+FC POHU/Simpsons,Tavastia,2,4,5,25,3
+Vesa/Töölö,FC Pehmeet ja Märät,1,4,5,25,3
+PETO,FC POHU/United,1,2,5,25,3
+HIFK/2,PPJ/LeJa,7,1,5,25,3
+FC POHU/United,FC ST4Y,3,3,5,25,3
+PPJ/LeJa,ToTe/Keparoi,1,2,5,25,3
+Vesa/Töölö,HIFK/2,3,1,5,25,3
+Tavastia,PETO,1,3,5,25,3
+FC Pehmeet ja Märät,FC POHU/Simpsons,3,0,5,25,3
+ToTe/Keparoi,FC Pehmeet ja Märät,0,3,5,25,3
+HIFK/2,FC POHU/United,1,5,5,25,3
+PETO,Vesa/Töölö,7,0,5,25,3
+FC POHU/Simpsons,PPJ/LeJa,1,0,5,25,3
+FC ST4Y,Tavastia,3,1,5,25,3
+PPJ/LeJa,Tavastia,0,3,5,25,3
+FC Pehmeet ja Märät,FC ST4Y,1,4,5,25,3
+ToTe/Keparoi,FC POHU/United,1,6,5,25,3
+FC POHU/Simpsons,Vesa/Töölö,3,4,5,25,3
+PETO,HIFK/2,4,1,5,25,3
+FC POHU/United,PPJ/LeJa,3,2,5,25,3
+LPS/Kuninkaat,Ponnistus/2,5,3,5,25,4
+SAPA/2,HePu,0,5,5,25,4
+FC Germania,ToTe/U23,1,3,5,25,4
+KäPa/NoLe,HJK/Lsalo,2,0,5,25,4
+StaPa De Royale,FC POHU/Gettopojat,7,0,5,25,4
+HJK/Lsalo,SAPA/2,5,2,5,25,4
+ToTe/U23,StaPa De Royale,0,6,5,25,4
+HePu,KäPa/NoLe,2,4,5,25,4
+FC POHU/Gettopojat,SAPA/2,2,0,5,25,4
+HJK/Lsalo,LPS/Kuninkaat,4,2,5,25,4
+Ponnistus/2,FC Germania,2,3,5,25,4
+ToTe/U23,HePu,7,0,5,25,4
+KäPa/NoLe,FC POHU/Gettopojat,0,1,5,25,4
+HJK/Lsalo,Ponnistus/2,3,4,5,25,4
+FC Germania,SAPA/2,4,1,5,25,4
+LPS/Kuninkaat,StaPa De Royale,1,4,5,25,4
+StaPa De Royale,KäPa/NoLe,8,1,5,25,4
+HePu,HJK/Lsalo,2,3,5,25,4
+Ponnistus/2,ToTe/U23,4,1,5,25,4
+FC POHU/Gettopojat,FC Germania,0,3,5,25,4
+SAPA/2,LPS/Kuninkaat,3,2,5,25,4
+HJK/Lsalo,StaPa De Royale,3,4,5,25,4
+FC Germania,HePu,3,1,5,25,4
+KäPa/NoLe,ToTe/U23,1,1,5,25,4
+SAPA/2,Ponnistus/2,2,6,5,25,4
+LPS/Kuninkaat,FC POHU/Gettopojat,3,0,5,25,4
+StaPa De Royale,SAPA/2,9,0,5,25,4
+HePu,Ponnistus/2,1,5,5,25,4
+KäPa/NoLe,FC Germania,0,5,5,25,4
+FC POHU/Gettopojat,HJK/Lsalo,3,2,5,25,4
+ToTe/U23,LPS/Kuninkaat,2,3,5,25,4
+FC Germania,StaPa De Royale,0,3,5,25,4
+SAPA/2,KäPa/NoLe,1,3,5,25,4
+HJK/Lsalo,ToTe/U23,2,1,5,25,4
+LPS/Kuninkaat,HePu,2,4,5,25,4
+Ponnistus/2,FC POHU/Gettopojat,5,3,5,25,4
+HJK/Lsalo,FC Germania,2,1,5,25,4
+Ponnistus/2,StaPa De Royale,1,1,5,25,4
+LPS/Kuninkaat,KäPa/NoLe,3,0,5,25,4
+HePu,FC POHU/Gettopojat,1,0,5,25,4
+ToTe/U23,SAPA/2,3,3,5,25,4
+FC Germania,LPS/Kuninkaat,2,3,5,25,4
+StaPa De Royale,HePu,7,0,5,25,4
+FC POHU/Gettopojat,ToTe/U23,3,3,5,25,4
+KäPa/NoLe,Ponnistus/2,0,2,5,25,4
+SAPA/2,HJK/Lsalo,3,1,5,25,4
+HePu,SAPA/2,1,1,5,25,4
+FC POHU/Gettopojat,StaPa De Royale,2,7,5,25,4
+ToTe/U23,FC Germania,2,5,5,25,4
+HJK/Lsalo,KäPa/NoLe,3,2,5,25,4
+Ponnistus/2,LPS/Kuninkaat,4,1,5,25,4
+LPS/Kuninkaat,HJK/Lsalo,2,1,5,25,4
+FC Germania,Ponnistus/2,2,2,5,25,4
+SAPA/2,FC POHU/Gettopojat,1,5,5,25,4
+StaPa De Royale,ToTe/U23,4,0,5,25,4
+KäPa/NoLe,HePu,3,3,5,25,4
+Ponnistus/2,KäPa/NoLe,3,4,5,25,4
+SAPA/2,FC Germania,0,11,5,25,4
+Ponnistus/2,HJK/Lsalo,12,1,5,25,4
+StaPa De Royale,LPS/Kuninkaat,4,2,5,25,4
+FC POHU/Gettopojat,KäPa/NoLe,2,2,5,25,4
+HePu,ToTe/U23,4,2,5,25,4
+FC Germania,FC POHU/Gettopojat,6,0,5,25,4
+ToTe/U23,Ponnistus/2,0,4,5,25,4
+KäPa/NoLe,StaPa De Royale,0,4,5,25,4
+HJK/Lsalo,HePu,3,4,5,25,4
+LPS/Kuninkaat,SAPA/2,5,2,5,25,4
+HePu,StaPa De Royale,1,12,5,25,4
+StaPa De Royale,HJK/Lsalo,0,0,5,25,4
+Ponnistus/2,SAPA/2,6,0,5,25,4
+ToTe/U23,KäPa/NoLe,1,1,5,25,4
+HePu,FC Germania,0,8,5,25,4
+FC POHU/Gettopojat,LPS/Kuninkaat,1,3,5,25,4
+Ponnistus/2,HePu,5,1,5,25,4
+SAPA/2,StaPa De Royale,0,7,5,25,4
+LPS/Kuninkaat,ToTe/U23,4,0,5,25,4
+HJK/Lsalo,FC POHU/Gettopojat,3,1,5,25,4
+FC Germania,KäPa/NoLe,5,3,5,25,4
+StaPa De Royale,FC Germania,6,1,5,25,4
+KäPa/NoLe,SAPA/2,4,1,5,25,4
+ToTe/U23,HJK/Lsalo,3,2,5,25,4
+FC POHU/Gettopojat,Ponnistus/2,1,3,5,25,4
+HePu,LPS/Kuninkaat,1,3,5,25,4
+SAPA/2,ToTe/U23,0,5,5,25,4
+FC Germania,HJK/Lsalo,1,1,5,25,4
+KäPa/NoLe,LPS/Kuninkaat,1,5,5,25,4
+StaPa De Royale,Ponnistus/2,1,1,5,25,4
+FC POHU/Gettopojat,HePu,0,2,5,25,4
+ToTe/U23,FC POHU/Gettopojat,2,2,5,25,4
+LPS/Kuninkaat,FC Germania,1,3,5,25,4
+MPS/AtleticoAkatemia,PK-35/2,5,2,5,25,5
+FC KaKe,IF Gnistan/3,3,4,5,25,5
+KPPK,HerTo,2,0,5,25,5
+LPS/reservi,FC Kontu/KoVa,8,4,5,25,5
+FC POHU,Kasiysi/2,12,3,5,25,5
+HerTo,FC POHU,1,13,5,25,5
+Kasiysi/2,FC KaKe,2,1,5,25,5
+FC Kontu/KoVa,MPS/AtleticoAkatemia,1,1,5,25,5
+IF Gnistan/3,LPS/reservi,1,2,5,25,5
+PK-35/2,KPPK,7,4,5,25,5
+MPS/AtleticoAkatemia,IF Gnistan/3,2,4,5,25,5
+FC POHU,LPS/reservi,3,2,5,25,5
+Kasiysi/2,FC Kontu/KoVa,0,11,5,25,5
+KPPK,FC KaKe,0,2,5,25,5
+PK-35/2,HerTo,1,8,5,25,5
+HerTo,Kasiysi/2,0,0,5,25,5
+IF Gnistan/3,FC POHU,2,6,5,25,5
+LPS/reservi,KPPK,10,0,5,25,5
+FC Kontu/KoVa,PK-35/2,4,0,5,25,5
+FC KaKe,MPS/AtleticoAkatemia,3,1,5,25,5
+MPS/AtleticoAkatemia,Kasiysi/2,4,0,5,25,5
+FC POHU,FC Kontu/KoVa,3,7,5,25,5
+LPS/reservi,HerTo,4,0,5,25,5
+KPPK,IF Gnistan/3,0,7,5,25,5
+PK-35/2,FC KaKe,3,2,5,25,5
+MPS/AtleticoAkatemia,FC POHU,1,2,5,25,5
+IF Gnistan/3,PK-35/2,4,0,5,25,5
+Kasiysi/2,KPPK,1,2,5,25,5
+FC Kontu/KoVa,HerTo,3,0,5,25,5
+FC KaKe,LPS/reservi,0,8,5,25,5
+FC POHU,FC KaKe,7,0,5,25,5
+HerTo,IF Gnistan/3,2,3,5,25,5
+LPS/reservi,MPS/AtleticoAkatemia,3,0,5,25,5
+KPPK,FC Kontu/KoVa,1,4,5,25,5
+PK-35/2,Kasiysi/2,7,2,5,25,5
+HerTo,FC KaKe,1,1,5,25,5
+Kasiysi/2,LPS/reservi,0,8,5,25,5
+FC Kontu/KoVa,IF Gnistan/3,3,4,5,25,5
+KPPK,MPS/AtleticoAkatemia,0,3,5,25,5
+PK-35/2,FC POHU,2,5,5,25,5
+MPS/AtleticoAkatemia,HerTo,2,1,5,25,5
+FC POHU,KPPK,5,2,5,25,5
+LPS/reservi,PK-35/2,6,1,5,25,5
+IF Gnistan/3,Kasiysi/2,1,0,5,25,5
+FC KaKe,FC Kontu/KoVa,2,5,5,25,5
+HerTo,LPS/reservi,2,3,5,25,5
+MPS/AtleticoAkatemia,FC KaKe,10,0,5,25,5
+FC Kontu/KoVa,LPS/reservi,1,4,5,25,5
+HerTo,KPPK,1,0,5,25,5
+Kasiysi/2,FC POHU,0,4,5,25,5
+IF Gnistan/3,FC KaKe,3,3,5,25,5
+PK-35/2,MPS/AtleticoAkatemia,3,6,5,25,5
+MPS/AtleticoAkatemia,KPPK,6,2,5,25,5
+LPS/reservi,Kasiysi/2,4,1,5,25,5
+FC KaKe,HerTo,3,0,5,25,5
+IF Gnistan/3,FC Kontu/KoVa,3,3,5,25,5
+FC POHU,HerTo,4,1,5,25,5
+KPPK,PK-35/2,1,4,5,25,5
+LPS/reservi,IF Gnistan/3,1,2,5,25,5
+FC KaKe,Kasiysi/2,1,1,5,25,5
+MPS/AtleticoAkatemia,FC Kontu/KoVa,1,3,5,25,5
+HerTo,PK-35/2,1,5,5,25,5
+FC KaKe,KPPK,2,2,5,25,5
+LPS/reservi,FC POHU,5,0,5,25,5
+IF Gnistan/3,MPS/AtleticoAkatemia,3,1,5,25,5
+FC Kontu/KoVa,Kasiysi/2,8,2,5,25,5
+FC POHU,IF Gnistan/3,0,1,5,25,5
+Kasiysi/2,HerTo,0,0,5,25,5
+PK-35/2,FC Kontu/KoVa,2,2,5,25,5
+KPPK,LPS/reservi,0,8,5,25,5
+FC KaKe,PK-35/2,5,6,5,25,5
+Kasiysi/2,MPS/AtleticoAkatemia,3,1,5,25,5
+FC Kontu/KoVa,FC POHU,2,3,5,25,5
+IF Gnistan/3,KPPK,4,2,5,25,5
+LPS/reservi,FC KaKe,2,2,5,25,5
+FC POHU,MPS/AtleticoAkatemia,1,1,5,25,5
+KPPK,Kasiysi/2,1,2,5,25,5
+PK-35/2,IF Gnistan/3,0,3,5,25,5
+HerTo,FC Kontu/KoVa,1,4,5,25,5
+MPS/AtleticoAkatemia,LPS/reservi,0,4,5,25,5
+Kasiysi/2,PK-35/2,4,1,5,25,5
+FC Kontu/KoVa,KPPK,5,1,5,25,5
+IF Gnistan/3,HerTo,4,1,5,25,5
+FC KaKe,FC POHU,2,2,5,25,5
+FC POHU,PK-35/2,3,2,5,25,5
+FC Kontu/KoVa,FC KaKe,0,1,5,25,5
+Kasiysi/2,IF Gnistan/3,0,8,5,25,5
+KPPK,FC POHU,0,3,5,25,5
+HerTo,MPS/AtleticoAkatemia,1,0,5,25,5
+PK-35/2,LPS/reservi,1,1,5,25,5
+Afro Foot Club,FC Viikingit/S.C.P,1,2,5,25,6
+FC Fortuna,Andalus FC,0,3,5,25,6
+Vietfin FC,FC Eagles,6,15,5,25,6
+Andalus FC,Valtti/3,1,4,5,25,6
+FC Eagles,FC Fortuna,3,2,5,25,6
+FC Mango,Vietfin FC,4,2,5,25,6
+Andalus FC,Vietfin FC,4,1,5,25,6
+FC Fortuna,Wartti/Wild Boars,10,4,5,25,6
+Vietfin FC,Valtti/3,4,0,5,25,6
+Afro Foot Club,Andalus FC,5,0,5,25,6
+FC Viikingit/S.C.P,FC Mango,3,2,5,25,6
+Andalus FC,FC Viikingit/S.C.P,1,1,5,25,6
+FC Fortuna,Afro Foot Club,2,3,5,25,6
+FC Mango,FC Eagles,0,7,5,25,6
+Wartti/Wild Boars,FC Viikingit/S.C.P,1,15,5,25,6
+FC Viikingit/S.C.P,FC Fortuna,7,1,5,25,6
+Afro Foot Club,FC Eagles,2,1,5,25,6
+Vietfin FC,Wartti/Wild Boars,2,4,5,25,6
+Valtti/3,FC Mango,6,1,5,25,6
+Wartti/Wild Boars,FC Mango,3,9,5,25,6
+FC Fortuna,Valtti/3,2,4,5,25,6
+Afro Foot Club,Vietfin FC,5,2,5,25,6
+Vietfin FC,FC Fortuna,0,5,5,25,6
+FC Mango,Andalus FC,2,4,5,25,6
+FC Viikingit/S.C.P,FC Eagles,4,1,5,25,6
+Valtti/3,Afro Foot Club,0,3,5,25,6
+FC Mango,FC Fortuna,4,4,5,25,6
+FC Eagles,Valtti/3,3,0,5,25,6
+Wartti/Wild Boars,Andalus FC,2,5,5,25,6
+FC Viikingit/S.C.P,Vietfin FC,5,1,5,25,6
+Andalus FC,FC Eagles,1,4,5,25,6
+Afro Foot Club,FC Mango,7,2,5,25,6
+Valtti/3,FC Viikingit/S.C.P,4,8,5,25,6
+Wartti/Wild Boars,Valtti/3,0,3,5,25,6
+Andalus FC,FC Fortuna,2,3,5,25,6
+FC Eagles,Vietfin FC,6,0,5,25,6
+FC Viikingit/S.C.P,Afro Foot Club,1,1,5,25,6
+FC Fortuna,FC Eagles,1,5,5,25,6
+Vietfin FC,FC Mango,3,4,5,25,6
+Afro Foot Club,Wartti/Wild Boars,3,0,5,25,6
+Valtti/3,Andalus FC,2,1,5,25,6
+FC Mango,FC Viikingit/S.C.P,6,1,5,25,6
+Valtti/3,Vietfin FC,3,0,5,25,6
+Andalus FC,Afro Foot Club,2,1,5,25,6
+Wartti/Wild Boars,FC Eagles,1,7,5,25,6
+Afro Foot Club,FC Fortuna,1,1,5,25,6
+Vietfin FC,Andalus FC,0,3,5,25,6
+FC Eagles,FC Mango,3,3,5,25,6
+FC Viikingit/S.C.P,Wartti/Wild Boars,15,0,5,25,6
+FC Fortuna,FC Viikingit/S.C.P,2,5,5,25,6
+FC Mango,Valtti/3,2,0,5,25,6
+Wartti/Wild Boars,Vietfin FC,3,4,5,25,6
+FC Eagles,Afro Foot Club,3,1,5,25,6
+FC Mango,Wartti/Wild Boars,4,1,5,25,6
+FC Viikingit/S.C.P,Andalus FC,5,0,5,25,6
+Valtti/3,FC Fortuna,2,5,5,25,6
+Vietfin FC,Afro Foot Club,2,5,5,25,6
+FC Fortuna,Vietfin FC,5,2,5,25,6
+FC Eagles,FC Viikingit/S.C.P,4,7,5,25,6
+Afro Foot Club,Valtti/3,4,2,5,25,6
+Andalus FC,FC Mango,3,1,5,25,6
+FC Fortuna,FC Mango,3,4,5,25,6
+Valtti/3,FC Eagles,4,5,5,25,6
+Vietfin FC,FC Viikingit/S.C.P,0,11,5,25,6
+Andalus FC,Wartti/Wild Boars,4,2,5,25,6
+Wartti/Wild Boars,FC Fortuna,5,7,5,25,6
+FC Viikingit/S.C.P,Valtti/3,7,2,5,25,6
+FC Mango,Afro Foot Club,1,2,5,25,6
+FC Eagles,Andalus FC,2,2,5,25,6
+RiPS/2,FC Korso/United,1,2,5,25,7
+JäPS/United,KoiPS/Dynamo,2,1,5,25,7
+KelA/Akatemia,FC Haxi,6,7,5,25,7
+Nikinmäki United,I-HK/Sensaatio,3,3,5,25,7
+TuPS/Skavaböle,HyPS/2,0,4,5,25,7
+I-HK/Sensaatio,JäPS/United,3,2,5,25,7
+HyPS/2,Nikinmäki United,3,0,5,25,7
+KoiPS/Dynamo,RiPS/2,4,1,5,25,7
+TuPS/Skavaböle,KelA/Akatemia,2,1,5,25,7
+FC Korso/United,FC Haxi,4,14,5,25,7
+KelA/Akatemia,FC Korso/United,2,2,5,25,7
+RiPS/2,I-HK/Sensaatio,3,2,5,25,7
+FC Haxi,Nikinmäki United,12,0,5,25,7
+HyPS/2,KoiPS/Dynamo,4,0,5,25,7
+TuPS/Skavaböle,JäPS/United,3,2,5,25,7
+JäPS/United,FC Haxi,2,2,5,25,7
+I-HK/Sensaatio,TuPS/Skavaböle,1,5,5,25,7
+HyPS/2,KelA/Akatemia,1,0,5,25,7
+KoiPS/Dynamo,FC Korso/United,1,3,5,25,7
+Nikinmäki United,RiPS/2,3,1,5,25,7
+KelA/Akatemia,JäPS/United,1,1,5,25,7
+RiPS/2,HyPS/2,12,2,5,25,7
+FC Haxi,I-HK/Sensaatio,5,1,5,25,7
+TuPS/Skavaböle,KoiPS/Dynamo,2,0,5,25,7
+FC Korso/United,Nikinmäki United,4,2,5,25,7
+FC Haxi,KelA/Akatemia,3,2,5,25,7
+RiPS/2,TuPS/Skavaböle,1,0,5,25,7
+I-HK/Sensaatio,FC Korso/United,4,3,5,25,7
+KoiPS/Dynamo,KelA/Akatemia,0,0,5,25,7
+HyPS/2,FC Haxi,4,6,5,25,7
+Nikinmäki United,JäPS/United,6,1,5,25,7
+JäPS/United,RiPS/2,0,4,5,25,7
+I-HK/Sensaatio,KelA/Akatemia,2,4,5,25,7
+FC Haxi,KoiPS/Dynamo,10,0,5,25,7
+TuPS/Skavaböle,Nikinmäki United,1,0,5,25,7
+FC Korso/United,HyPS/2,5,3,5,25,7
+KelA/Akatemia,Nikinmäki United,3,0,5,25,7
+FC Haxi,RiPS/2,3,1,5,25,7
+KoiPS/Dynamo,I-HK/Sensaatio,2,1,5,25,7
+FC Korso/United,TuPS/Skavaböle,2,3,5,25,7
+HyPS/2,JäPS/United,3,0,5,25,7
+JäPS/United,FC Korso/United,2,4,5,25,7
+RiPS/2,KelA/Akatemia,1,4,5,25,7
+I-HK/Sensaatio,HyPS/2,12,2,5,25,7
+TuPS/Skavaböle,FC Haxi,3,5,5,25,7
+Nikinmäki United,KoiPS/Dynamo,3,1,5,25,7
+I-HK/Sensaatio,Nikinmäki United,4,1,5,25,7
+FC Korso/United,RiPS/2,2,5,5,25,7
+HyPS/2,TuPS/Skavaböle,0,6,5,25,7
+KoiPS/Dynamo,JäPS/United,2,3,5,25,7
+JäPS/United,Nikinmäki United,3,0,5,25,7
+KelA/Akatemia,TuPS/Skavaböle,3,2,5,25,7
+JäPS/United,I-HK/Sensaatio,0,3,5,25,7
+RiPS/2,KoiPS/Dynamo,3,2,5,25,7
+FC Haxi,FC Korso/United,7,0,5,25,7
+Nikinmäki United,HyPS/2,4,2,5,25,7
+JäPS/United,TuPS/Skavaböle,1,2,5,25,7
+I-HK/Sensaatio,RiPS/2,3,2,5,25,7
+KoiPS/Dynamo,HyPS/2,7,3,5,25,7
+Nikinmäki United,FC Haxi,0,6,5,25,7
+FC Korso/United,KelA/Akatemia,3,4,5,25,7
+KelA/Akatemia,HyPS/2,3,0,5,25,7
+RiPS/2,Nikinmäki United,2,4,5,25,7
+FC Haxi,JäPS/United,4,0,5,25,7
+TuPS/Skavaböle,I-HK/Sensaatio,0,2,5,25,7
+FC Korso/United,KoiPS/Dynamo,2,2,5,25,7
+Nikinmäki United,KelA/Akatemia,3,2,5,25,7
+JäPS/United,KelA/Akatemia,1,2,5,25,7
+I-HK/Sensaatio,FC Haxi,1,4,5,25,7
+HyPS/2,RiPS/2,4,2,5,25,7
+KoiPS/Dynamo,TuPS/Skavaböle,0,3,5,25,7
+Nikinmäki United,FC Korso/United,1,5,5,25,7
+KelA/Akatemia,KoiPS/Dynamo,2,1,5,25,7
+FC Haxi,HyPS/2,7,2,5,25,7
+TuPS/Skavaböle,RiPS/2,3,2,5,25,7
+FC Korso/United,I-HK/Sensaatio,3,2,5,25,7
+KelA/Akatemia,I-HK/Sensaatio,4,4,5,25,7
+RiPS/2,JäPS/United,2,1,5,25,7
+HyPS/2,FC Korso/United,3,6,5,25,7
+KoiPS/Dynamo,FC Haxi,0,2,5,25,7
+Nikinmäki United,TuPS/Skavaböle,1,4,5,25,7
+RiPS/2,FC Haxi,1,6,5,25,7
+I-HK/Sensaatio,KoiPS/Dynamo,1,1,5,25,7
+JäPS/United,HyPS/2,7,0,5,25,7
+TuPS/Skavaböle,FC Korso/United,1,1,5,25,7
+KelA/Akatemia,RiPS/2,2,3,5,25,7
+FC Korso/United,JäPS/United,1,2,5,25,7
+FC Haxi,TuPS/Skavaböle,2,2,5,25,7
+HyPS/2,I-HK/Sensaatio,1,4,5,25,7
+KoiPS/Dynamo,Nikinmäki United,3,2,5,25,7
+AskU,Flamingo United,7,2,5,25,8
+OPedot,Jäppärä,6,1,5,25,8
+KyPa,FC Lahti/3,5,1,5,25,8
+Korian Klubi,HP-47,3,6,5,25,8
+Lahden United,PaPe,3,7,5,25,8
+OPedot,Lahden United,1,0,5,25,8
+HP-47,Jäppärä,6,2,5,25,8
+PaPe,KyPa,2,3,5,25,8
+FC Lahti/3,AskU,2,2,5,25,8
+Flamingo United,Korian Klubi,7,3,5,25,8
+OPedot,PaPe,8,3,5,25,8
+Lahden United,AskU,2,3,5,25,8
+Jäppärä,Flamingo United,3,2,5,25,8
+KyPa,Korian Klubi,11,1,5,25,8
+FC Lahti/3,HP-47,1,1,5,25,8
+AskU,Jäppärä,5,1,5,25,8
+HP-47,OPedot,4,4,5,25,8
+PaPe,FC Lahti/3,4,2,5,25,8
+Korian Klubi,Lahden United,2,13,5,25,8
+Flamingo United,KyPa,3,1,5,25,8
+OPedot,AskU,0,1,5,25,8
+Lahden United,Flamingo United,3,1,5,25,8
+Jäppärä,FC Lahti/3,3,3,5,25,8
+KyPa,HP-47,0,1,5,25,8
+Korian Klubi,PaPe,7,1,5,25,8
+AskU,Korian Klubi,5,1,5,25,8
+Jäppärä,KyPa,0,4,5,25,8
+FC Lahti/3,Lahden United,1,2,5,25,8
+Flamingo United,OPedot,3,1,5,25,8
+OPedot,FC Lahti/3,1,1,5,25,8
+KyPa,AskU,8,3,5,25,8
+PaPe,Flamingo United,5,3,5,25,8
+Korian Klubi,Jäppärä,4,5,5,25,8
+Lahden United,HP-47,2,5,5,25,8
+OPedot,KyPa,2,6,5,25,8
+Jäppärä,Lahden United,2,2,5,25,8
+HP-47,Flamingo United,3,2,5,25,8
+PaPe,AskU,1,7,5,25,8
+FC Lahti/3,Korian Klubi,4,2,5,25,8
+AskU,HP-47,1,3,5,25,8
+Jäppärä,PaPe,7,1,5,25,8
+KyPa,Lahden United,5,1,5,25,8
+Korian Klubi,OPedot,5,1,5,25,8
+Flamingo United,FC Lahti/3,2,2,5,25,8
+HP-47,Korian Klubi,5,1,5,25,8
+Jäppärä,OPedot,4,3,5,25,8
+PaPe,Lahden United,3,0,5,25,8
+FC Lahti/3,KyPa,3,1,5,25,8
+Flamingo United,AskU,2,2,5,25,8
+Jäppärä,Korian Klubi,2,5,5,25,8
+AskU,FC Lahti/3,3,1,5,25,8
+Jäppärä,HP-47,0,2,5,25,8
+KyPa,PaPe,15,0,5,25,8
+Korian Klubi,Flamingo United,4,0,5,25,8
+Lahden United,OPedot,0,5,5,25,8
+AskU,Lahden United,8,5,5,25,8
+HP-47,FC Lahti/3,4,0,5,25,8
+PaPe,OPedot,8,2,5,25,8
+Korian Klubi,KyPa,3,6,5,25,8
+Flamingo United,Jäppärä,2,2,5,25,8
+OPedot,HP-47,3,5,5,25,8
+FC Lahti/3,PaPe,4,2,5,25,8
+Lahden United,Korian Klubi,0,5,5,25,8
+Jäppärä,AskU,1,0,5,25,8
+KyPa,Flamingo United,7,3,5,25,8
+AskU,OPedot,9,0,5,25,8
+FC Lahti/3,Jäppärä,1,2,5,25,8
+HP-47,KyPa,3,5,5,25,8
+PaPe,Korian Klubi,1,6,5,25,8
+Flamingo United,Lahden United,2,1,5,25,8
+OPedot,Flamingo United,1,4,5,25,8
+Lahden United,FC Lahti/3,0,2,5,25,8
+KyPa,Jäppärä,0,1,5,25,8
+PaPe,HP-47,1,6,5,25,8
+Korian Klubi,AskU,4,0,5,25,8
+HP-47,Lahden United,1,1,5,25,8
+FC Lahti/3,OPedot,1,0,5,25,8
+AskU,KyPa,2,6,5,25,8
+Flamingo United,PaPe,8,0,5,25,8
+AskU,PaPe,0,2,5,25,8
+KyPa,OPedot,4,2,5,25,8
+Korian Klubi,FC Lahti/3,3,4,5,25,8
+Lahden United,Jäppärä,2,1,5,25,8
+Flamingo United,HP-47,1,2,5,25,8
+OPedot,Korian Klubi,2,0,5,25,8
+Lahden United,KyPa,0,2,5,25,8
+HP-47,AskU,2,0,5,25,8
+PaPe,Jäppärä,0,3,5,25,8
+FC Lahti/3,Flamingo United,3,2,5,25,8
+FC Samba,FC Kirkkonummi/2,0,4,5,24,1
+KaPy,EPS/2,1,3,5,24,1
+FC WILD,Hukat,3,2,5,24,1
+LJS/Reservi,GrIFK/2,5,6,5,24,1
+PEF,LoPa/2,0,3,5,24,1
+LoPa/2,FC WILD,3,2,5,24,1
+KaPy,Hukat,2,1,5,24,1
+EPS/2,FC Samba,2,5,5,24,1
+FC Kirkkonummi/2,LJS/Reservi,5,3,5,24,1
+GrIFK/2,PEF,1,9,5,24,1
+FC WILD,GrIFK/2,6,3,5,24,1
+EPS/2,Hukat,0,2,5,24,1
+KaPy,LJS/Reservi,1,1,5,24,1
+FC Kirkkonummi/2,LoPa/2,4,1,5,24,1
+FC Samba,PEF,2,4,5,24,1
+EPS/2,FC Kirkkonummi/2,2,5,5,24,1
+PEF,KaPy,4,0,5,24,1
+LoPa/2,Hukat,1,2,5,24,1
+LJS/Reservi,FC WILD,3,7,5,24,1
+GrIFK/2,FC Samba,4,0,5,24,1
+FC WILD,FC Kirkkonummi/2,1,4,5,24,1
+PEF,EPS/2,4,3,5,24,1
+KaPy,GrIFK/2,1,0,5,24,1
+FC Samba,LoPa/2,3,1,5,24,1
+Hukat,LJS/Reservi,2,5,5,24,1
+FC WILD,FC Samba,8,1,5,24,1
+FC Kirkkonummi/2,KaPy,6,0,5,24,1
+LoPa/2,EPS/2,3,1,5,24,1
+LJS/Reservi,PEF,0,2,5,24,1
+GrIFK/2,Hukat,2,3,5,24,1
+KaPy,LoPa/2,0,0,5,24,1
+EPS/2,GrIFK/2,2,2,5,24,1
+PEF,FC WILD,0,0,5,24,1
+Hukat,FC Kirkkonummi/2,4,1,5,24,1
+FC Samba,LJS/Reservi,1,1,5,24,1
+EPS/2,LJS/Reservi,1,4,5,24,1
+KaPy,FC WILD,1,4,5,24,1
+FC Kirkkonummi/2,PEF,2,0,5,24,1
+Hukat,FC Samba,3,1,5,24,1
+LoPa/2,GrIFK/2,1,0,5,24,1
+FC WILD,EPS/2,6,1,5,24,1
+FC Samba,KaPy,3,4,5,24,1
+Hukat,PEF,2,5,5,24,1
+GrIFK/2,FC Kirkkonummi/2,4,2,5,24,1
+LJS/Reservi,LoPa/2,2,3,5,24,1
+LoPa/2,PEF,1,1,5,24,1
+EPS/2,KaPy,1,3,5,24,1
+FC Kirkkonummi/2,FC Samba,5,0,5,24,1
+Hukat,FC WILD,0,1,5,24,1
+GrIFK/2,LJS/Reservi,4,2,5,24,1
+KaPy,FC Samba,0,2,5,24,1
+Hukat,GrIFK/2,1,2,5,24,1
+FC WILD,LoPa/2,2,0,5,24,1
+PEF,GrIFK/2,7,1,5,24,1
+FC Samba,EPS/2,3,0,5,24,1
+Hukat,KaPy,2,2,5,24,1
+LJS/Reservi,FC Kirkkonummi/2,2,1,5,24,1
+LoPa/2,FC Kirkkonummi/2,1,3,5,24,1
+PEF,FC Samba,5,2,5,24,1
+Hukat,EPS/2,10,0,5,24,1
+LJS/Reservi,KaPy,1,3,5,24,1
+GrIFK/2,FC WILD,1,5,5,24,1
+FC WILD,LJS/Reservi,3,3,5,24,1
+FC Kirkkonummi/2,EPS/2,5,1,5,24,1
+FC Samba,GrIFK/2,0,5,5,24,1
+KaPy,PEF,1,1,5,24,1
+Hukat,LoPa/2,2,1,5,24,1
+LoPa/2,FC Samba,3,1,5,24,1
+EPS/2,PEF,0,5,5,24,1
+FC Kirkkonummi/2,FC WILD,1,1,5,24,1
+LJS/Reservi,Hukat,2,3,5,24,1
+GrIFK/2,KaPy,1,1,5,24,1
+PEF,LJS/Reservi,6,0,5,24,1
+FC Samba,FC WILD,2,6,5,24,1
+KaPy,FC Kirkkonummi/2,0,2,5,24,1
+EPS/2,LoPa/2,2,7,5,24,1
+LoPa/2,KaPy,1,3,5,24,1
+FC WILD,PEF,1,2,5,24,1
+FC Kirkkonummi/2,Hukat,4,1,5,24,1
+LJS/Reservi,FC Samba,2,10,5,24,1
+GrIFK/2,EPS/2,3,1,5,24,1
+FC WILD,KaPy,2,1,5,24,1
+PEF,FC Kirkkonummi/2,3,0,5,24,1
+FC Samba,Hukat,2,4,5,24,1
+LJS/Reservi,EPS/2,1,1,5,24,1
+GrIFK/2,LoPa/2,0,3,5,24,1
+LoPa/2,LJS/Reservi,0,3,5,24,1
+PEF,Hukat,4,0,5,24,1
+EPS/2,FC WILD,1,3,5,24,1
+FC Kirkkonummi/2,GrIFK/2,1,3,5,24,1
+Kasiysi,EsPa/United,3,0,5,24,2
+FC Babylon,Olarin Kiksi,4,6,5,24,2
+Kilo IF,PEP,2,2,5,24,2
+PPV,Polin Pallo,2,3,5,24,2
+RiRa,FC POHU/KY United,0,9,5,24,2
+EsPa/United,RiRa,0,3,5,24,2
+Polin Pallo,Kilo IF,5,2,5,24,2
+PEP,FC Babylon,2,0,5,24,2
+Olarin Kiksi,Kasiysi,5,0,5,24,2
+FC POHU/KY United,PPV,8,3,5,24,2
+EsPa/United,Polin Pallo,1,2,5,24,2
+Kilo IF,FC POHU/KY United,0,3,5,24,2
+Kasiysi,PPV,2,4,5,24,2
+PEP,Olarin Kiksi,2,3,5,24,2
+FC Babylon,RiRa,0,4,5,24,2
+Polin Pallo,PEP,1,1,5,24,2
+RiRa,Kilo IF,1,1,5,24,2
+PPV,FC Babylon,3,0,5,24,2
+Olarin Kiksi,EsPa/United,2,5,5,24,2
+FC POHU/KY United,Kasiysi,5,0,5,24,2
+PPV,Olarin Kiksi,2,2,5,24,2
+Kilo IF,EsPa/United,1,3,5,24,2
+Kasiysi,Polin Pallo,1,10,5,24,2
+PEP,RiRa,0,2,5,24,2
+FC Babylon,FC POHU/KY United,2,8,5,24,2
+EsPa/United,FC Babylon,3,1,5,24,2
+Polin Pallo,Olarin Kiksi,4,1,5,24,2
+RiRa,PPV,3,5,5,24,2
+Kilo IF,Kasiysi,2,3,5,24,2
+FC POHU/KY United,PEP,0,2,5,24,2
+PPV,Kilo IF,3,1,5,24,2
+Kasiysi,RiRa,1,4,5,24,2
+PEP,EsPa/United,2,1,5,24,2
+Olarin Kiksi,FC POHU/KY United,1,1,5,24,2
+FC Babylon,Polin Pallo,0,4,5,24,2
+EsPa/United,PPV,0,4,5,24,2
+Polin Pallo,FC POHU/KY United,0,5,5,24,2
+PEP,Kasiysi,6,0,5,24,2
+Olarin Kiksi,RiRa,4,0,5,24,2
+FC Babylon,Kilo IF,2,3,5,24,2
+FC POHU/KY United,Polin Pallo,1,1,5,24,2
+PPV,PEP,1,1,5,24,2
+Kilo IF,Olarin Kiksi,0,7,5,24,2
+Kasiysi,FC Babylon,3,5,5,24,2
+FC POHU/KY United,EsPa/United,3,1,5,24,2
+RiRa,Polin Pallo,2,3,5,24,2
+Olarin Kiksi,Kilo IF,6,2,5,24,2
+EsPa/United,Kasiysi,8,4,5,24,2
+Polin Pallo,PPV,1,3,5,24,2
+PEP,Kilo IF,2,2,5,24,2
+Olarin Kiksi,FC Babylon,3,2,5,24,2
+FC POHU/KY United,RiRa,6,2,5,24,2
+Kilo IF,Polin Pallo,4,3,5,24,2
+PPV,FC POHU/KY United,4,2,5,24,2
+FC Babylon,PEP,0,1,5,24,2
+RiRa,EsPa/United,2,8,5,24,2
+Kasiysi,Olarin Kiksi,2,0,5,24,2
+Polin Pallo,EsPa/United,0,4,5,24,2
+RiRa,FC Babylon,2,3,5,24,2
+PPV,Kasiysi,0,1,5,24,2
+Olarin Kiksi,PEP,1,2,5,24,2
+FC POHU/KY United,Kilo IF,1,5,5,24,2
+Kilo IF,RiRa,3,3,5,24,2
+EsPa/United,Olarin Kiksi,5,1,5,24,2
+Kasiysi,FC POHU/KY United,3,2,5,24,2
+PEP,Polin Pallo,3,2,5,24,2
+FC Babylon,PPV,2,6,5,24,2
+EsPa/United,Kilo IF,3,1,5,24,2
+Polin Pallo,Kasiysi,10,1,5,24,2
+Olarin Kiksi,PPV,2,3,5,24,2
+RiRa,PEP,1,1,5,24,2
+FC POHU/KY United,FC Babylon,4,4,5,24,2
+Kasiysi,Kilo IF,1,3,5,24,2
+PEP,FC POHU/KY United,1,4,5,24,2
+Olarin Kiksi,Polin Pallo,1,3,5,24,2
+PPV,RiRa,1,3,5,24,2
+FC Babylon,EsPa/United,3,8,5,24,2
+Kilo IF,PPV,3,2,5,24,2
+EsPa/United,PEP,0,1,5,24,2
+Polin Pallo,FC Babylon,3,1,5,24,2
+RiRa,Kasiysi,5,0,5,24,2
+FC POHU/KY United,Olarin Kiksi,2,4,5,24,2
+PPV,EsPa/United,2,2,5,24,2
+Kasiysi,PEP,0,4,5,24,2
+Kilo IF,FC Babylon,4,3,5,24,2
+RiRa,Olarin Kiksi,4,0,5,24,2
+PEP,PPV,3,0,5,24,2
+EsPa/United,FC POHU/KY United,6,2,5,24,2
+Polin Pallo,RiRa,4,0,5,24,2
+FC Babylon,Kasiysi,1,3,5,24,2
+Colo-Colo,FC Hieho,1,3,5,24,3
+FC Pehmeet ja Märät,Vesa/Töölö,2,3,5,24,3
+FC Kiffen/2,Tavastia,1,5,5,24,3
+FC POHU/JäPa,HDS/Express,3,5,5,24,3
+PPJ/LeJa,KäPa/NoLe,4,1,5,24,3
+Vesa/Töölö,Colo-Colo,1,7,5,24,3
+KäPa/NoLe,FC Pehmeet ja Märät,2,4,5,24,3
+Tavastia,PPJ/LeJa,3,0,5,24,3
+FC Hieho,HDS/Express,2,3,5,24,3
+FC POHU/JäPa,PPJ/LeJa,0,4,5,24,3
+FC Kiffen/2,FC Pehmeet ja Märät,4,7,5,24,3
+Tavastia,Vesa/Töölö,3,2,5,24,3
+Colo-Colo,KäPa/NoLe,5,1,5,24,3
+Tavastia,FC Pehmeet ja Märät,4,1,5,24,3
+Vesa/Töölö,FC Hieho,0,3,5,24,3
+KäPa/NoLe,FC Kiffen/2,9,2,5,24,3
+HDS/Express,Tavastia,2,2,5,24,3
+FC Pehmeet ja Märät,FC POHU/JäPa,3,0,5,24,3
+PPJ/LeJa,Colo-Colo,0,4,5,24,3
+FC Pehmeet ja Märät,HDS/Express,3,5,5,24,3
+Colo-Colo,Tavastia,2,1,5,24,3
+FC POHU/JäPa,KäPa/NoLe,1,3,5,24,3
+FC Hieho,PPJ/LeJa,1,2,5,24,3
+FC Kiffen/2,Vesa/Töölö,0,5,5,24,3
+KäPa/NoLe,FC Hieho,1,3,5,24,3
+Tavastia,FC POHU/JäPa,8,1,5,24,3
+Colo-Colo,FC Kiffen/2,6,0,5,24,3
+Vesa/Töölö,HDS/Express,1,3,5,24,3
+PPJ/LeJa,FC Pehmeet ja Märät,5,3,5,24,3
+FC Hieho,Tavastia,2,2,5,24,3
+HDS/Express,KäPa/NoLe,4,3,5,24,3
+FC POHU/JäPa,Vesa/Töölö,4,2,5,24,3
+FC Kiffen/2,PPJ/LeJa,4,2,5,24,3
+FC Hieho,FC Kiffen/2,8,1,5,24,3
+Vesa/Töölö,KäPa/NoLe,2,0,5,24,3
+HDS/Express,PPJ/LeJa,3,3,5,24,3
+FC POHU/JäPa,Colo-Colo,0,8,5,24,3
+Colo-Colo,HDS/Express,9,1,5,24,3
+FC Pehmeet ja Märät,FC Hieho,0,3,5,24,3
+FC Kiffen/2,FC POHU/JäPa,3,2,5,24,3
+KäPa/NoLe,Tavastia,0,3,5,24,3
+PPJ/LeJa,Vesa/Töölö,3,4,5,24,3
+Vesa/Töölö,FC POHU/JäPa,1,0,5,24,3
+FC Hieho,Colo-Colo,4,3,5,24,3
+Tavastia,FC Kiffen/2,8,1,5,24,3
+KäPa/NoLe,PPJ/LeJa,5,2,5,24,3
+Vesa/Töölö,FC Pehmeet ja Märät,3,9,5,24,3
+HDS/Express,FC POHU/JäPa,2,1,5,24,3
+FC POHU/JäPa,FC Hieho,2,6,5,24,3
+Tavastia,KäPa/NoLe,1,3,5,24,3
+HDS/Express,FC Pehmeet ja Märät,4,3,5,24,3
+FC Kiffen/2,HDS/Express,3,7,5,24,3
+FC Pehmeet ja Märät,KäPa/NoLe,3,5,5,24,3
+Colo-Colo,Vesa/Töölö,2,3,5,24,3
+PPJ/LeJa,Tavastia,2,5,5,24,3
+FC Pehmeet ja Märät,FC Kiffen/2,8,0,5,24,3
+KäPa/NoLe,Colo-Colo,2,4,5,24,3
+Vesa/Töölö,Tavastia,0,4,5,24,3
+HDS/Express,FC Hieho,4,3,5,24,3
+PPJ/LeJa,FC POHU/JäPa,4,1,5,24,3
+FC Hieho,Vesa/Töölö,3,2,5,24,3
+Tavastia,HDS/Express,7,0,5,24,3
+Colo-Colo,PPJ/LeJa,3,0,5,24,3
+FC Kiffen/2,KäPa/NoLe,0,5,5,24,3
+FC POHU/JäPa,FC Pehmeet ja Märät,1,4,5,24,3
+Tavastia,Colo-Colo,0,3,5,24,3
+KäPa/NoLe,FC POHU/JäPa,3,5,5,24,3
+Vesa/Töölö,FC Kiffen/2,8,1,5,24,3
+PPJ/LeJa,FC Hieho,1,6,5,24,3
+FC Hieho,KäPa/NoLe,1,0,5,24,3
+FC Pehmeet ja Märät,PPJ/LeJa,5,3,5,24,3
+FC Kiffen/2,Colo-Colo,1,6,5,24,3
+HDS/Express,Vesa/Töölö,1,1,5,24,3
+FC POHU/JäPa,Tavastia,2,2,5,24,3
+Colo-Colo,FC Pehmeet ja Märät,4,4,5,24,3
+Tavastia,FC Hieho,4,1,5,24,3
+KäPa/NoLe,HDS/Express,6,0,5,24,3
+PPJ/LeJa,FC Kiffen/2,6,2,5,24,3
+FC Kiffen/2,FC Hieho,0,3,5,24,3
+Colo-Colo,FC POHU/JäPa,6,0,5,24,3
+FC Pehmeet ja Märät,Tavastia,3,5,5,24,3
+KäPa/NoLe,Vesa/Töölö,4,2,5,24,3
+PPJ/LeJa,HDS/Express,2,2,5,24,3
+HDS/Express,Colo-Colo,2,4,5,24,3
+Vesa/Töölö,PPJ/LeJa,2,0,5,24,3
+FC POHU/JäPa,FC Kiffen/2,7,0,5,24,3
+FC Hieho,FC Pehmeet ja Märät,3,0,5,24,3
+FC POHU/Simpsons,Gilla FC,1,6,5,24,4
+SAPA/2,HePu,3,0,5,24,4
+LPS/Kuninkaat,FC Spital,10,2,5,24,4
+HIFK/3,FC Degis,2,2,5,24,4
+PK-35/2,Ponnistus/2,4,5,5,24,4
+Gilla FC,LPS/Kuninkaat,6,3,5,24,4
+HePu,HIFK/3,4,1,5,24,4
+FC Degis,PK-35/2,3,3,5,24,4
+Ponnistus/2,FC POHU/Simpsons,7,5,5,24,4
+FC Spital,SAPA/2,3,0,5,24,4
+HIFK/3,Gilla FC,0,6,5,24,4
+Ponnistus/2,FC Spital,0,5,5,24,4
+PK-35/2,LPS/Kuninkaat,3,5,5,24,4
+SAPA/2,Gilla FC,1,4,5,24,4
+HIFK/3,FC POHU/Simpsons,0,2,5,24,4
+HePu,FC Degis,4,2,5,24,4
+Gilla FC,PK-35/2,3,1,5,24,4
+FC POHU/Simpsons,SAPA/2,0,0,5,24,4
+FC Degis,Ponnistus/2,0,6,5,24,4
+FC Spital,HePu,6,0,5,24,4
+LPS/Kuninkaat,HIFK/3,0,0,5,24,4
+FC POHU/Simpsons,FC Spital,0,4,5,24,4
+LPS/Kuninkaat,FC Degis,3,2,5,24,4
+SAPA/2,Ponnistus/2,4,5,5,24,4
+HePu,FC POHU/Simpsons,0,0,5,24,4
+PK-35/2,FC Spital,0,5,5,24,4
+FC Spital,FC Degis,8,1,5,24,4
+Ponnistus/2,HIFK/3,5,1,5,24,4
+Gilla FC,HePu,8,0,5,24,4
+SAPA/2,PK-35/2,1,3,5,24,4
+FC POHU/Simpsons,LPS/Kuninkaat,1,1,5,24,4
+FC Degis,Gilla FC,1,5,5,24,4
+PK-35/2,FC POHU/Simpsons,3,0,5,24,4
+LPS/Kuninkaat,SAPA/2,3,2,5,24,4
+HIFK/3,FC Spital,0,4,5,24,4
+HePu,Ponnistus/2,1,9,5,24,4
+Ponnistus/2,LPS/Kuninkaat,2,1,5,24,4
+HePu,PK-35/2,0,4,5,24,4
+FC Degis,FC POHU/Simpsons,3,2,5,24,4
+FC Spital,Gilla FC,1,3,5,24,4
+HIFK/3,SAPA/2,5,2,5,24,4
+LPS/Kuninkaat,HePu,10,1,5,24,4
+Gilla FC,Ponnistus/2,11,1,5,24,4
+PK-35/2,HIFK/3,3,3,5,24,4
+SAPA/2,FC Degis,1,2,5,24,4
+Gilla FC,HIFK/3,5,0,5,24,4
+Ponnistus/2,PK-35/2,2,5,5,24,4
+FC Degis,HIFK/3,1,7,5,24,4
+HePu,SAPA/2,3,6,5,24,4
+Gilla FC,FC POHU/Simpsons,5,0,5,24,4
+FC Spital,LPS/Kuninkaat,3,1,5,24,4
+Ponnistus/2,Gilla FC,0,4,5,24,4
+FC POHU/Simpsons,FC Degis,5,3,5,24,4
+LPS/Kuninkaat,Gilla FC,0,6,5,24,4
+HIFK/3,HePu,0,1,5,24,4
+FC POHU/Simpsons,Ponnistus/2,3,8,5,24,4
+PK-35/2,FC Degis,8,1,5,24,4
+SAPA/2,FC Spital,0,9,5,24,4
+Gilla FC,SAPA/2,5,2,5,24,4
+FC POHU/Simpsons,HIFK/3,0,3,5,24,4
+LPS/Kuninkaat,PK-35/2,2,0,5,24,4
+FC Spital,Ponnistus/2,2,1,5,24,4
+FC Degis,HePu,0,5,5,24,4
+PK-35/2,Gilla FC,2,7,5,24,4
+SAPA/2,FC POHU/Simpsons,2,0,5,24,4
+Ponnistus/2,FC Degis,4,1,5,24,4
+HIFK/3,LPS/Kuninkaat,2,1,5,24,4
+HePu,FC Spital,0,3,5,24,4
+FC Spital,FC POHU/Simpsons,5,4,5,24,4
+FC Degis,SAPA/2,0,4,5,24,4
+FC Degis,LPS/Kuninkaat,2,4,5,24,4
+Ponnistus/2,SAPA/2,1,0,5,24,4
+FC POHU/Simpsons,HePu,1,1,5,24,4
+FC Spital,PK-35/2,1,3,5,24,4
+HIFK/3,Ponnistus/2,3,1,5,24,4
+FC Degis,FC Spital,0,3,5,24,4
+HePu,Gilla FC,0,5,5,24,4
+PK-35/2,SAPA/2,1,0,5,24,4
+LPS/Kuninkaat,FC POHU/Simpsons,0,3,5,24,4
+FC Spital,HIFK/3,4,2,5,24,4
+Gilla FC,FC Degis,13,0,5,24,4
+FC POHU/Simpsons,PK-35/2,1,2,5,24,4
+SAPA/2,LPS/Kuninkaat,1,9,5,24,4
+Ponnistus/2,HePu,1,1,5,24,4
+PK-35/2,HePu,4,0,5,24,4
+SAPA/2,HIFK/3,1,3,5,24,4
+Gilla FC,FC Spital,0,3,5,24,4
+LPS/Kuninkaat,Ponnistus/2,3,2,5,24,4
+HIFK/3,PK-35/2,3,6,5,24,4
+HePu,LPS/Kuninkaat,1,6,5,24,4
+HJK/Lsalo,SUMU,2,5,5,24,5
+MPS/AtleticoAkatemia,I-HK/Sensaatio,7,1,5,24,5
+ToTe/Keparoi,FC KaKe,0,0,5,24,5
+FC Honka/Leopardit,FC POHU/Futboleros,7,1,5,24,5
+I-HK/Sensaatio,PuiU/Akatemia 86,2,1,5,24,5
+FC KaKe,HJK/Lsalo,2,1,5,24,5
+SUMU,FC Honka/Leopardit,3,2,5,24,5
+FC POHU/Futboleros,MPS/AtleticoAkatemia,1,2,5,24,5
+FC Nile,ToTe/Keparoi,5,1,5,24,5
+MPS/AtleticoAkatemia,ToTe/Keparoi,0,0,5,24,5
+PuiU/Akatemia 86,HJK/Lsalo,1,8,5,24,5
+FC POHU/Futboleros,I-HK/Sensaatio,1,4,5,24,5
+FC Nile,SUMU,5,1,5,24,5
+FC Honka/Leopardit,FC KaKe,3,3,5,24,5
+I-HK/Sensaatio,FC POHU/Futboleros,3,0,5,24,5
+I-HK/Sensaatio,FC Nile,0,6,5,24,5
+FC KaKe,PuiU/Akatemia 86,4,2,5,24,5
+ToTe/Keparoi,FC Honka/Leopardit,0,1,5,24,5
+HJK/Lsalo,MPS/AtleticoAkatemia,1,6,5,24,5
+SUMU,FC POHU/Futboleros,6,1,5,24,5
+MPS/AtleticoAkatemia,FC KaKe,3,2,5,24,5
+HJK/Lsalo,I-HK/Sensaatio,3,3,5,24,5
+FC POHU/Futboleros,ToTe/Keparoi,1,2,5,24,5
+PuiU/Akatemia 86,SUMU,1,2,5,24,5
+FC Honka/Leopardit,FC Nile,2,3,5,24,5
+FC KaKe,FC POHU/Futboleros,7,2,5,24,5
+ToTe/Keparoi,HJK/Lsalo,0,3,5,24,5
+FC Nile,MPS/AtleticoAkatemia,3,0,5,24,5
+SUMU,I-HK/Sensaatio,1,0,5,24,5
+FC Honka/Leopardit,PuiU/Akatemia 86,3,3,5,24,5
+FC KaKe,FC Nile,1,9,5,24,5
+MPS/AtleticoAkatemia,SUMU,0,5,5,24,5
+HJK/Lsalo,FC Honka/Leopardit,3,1,5,24,5
+PuiU/Akatemia 86,ToTe/Keparoi,2,4,5,24,5
+FC POHU/Futboleros,FC Nile,3,0,5,24,5
+I-HK/Sensaatio,FC KaKe,2,3,5,24,5
+I-HK/Sensaatio,ToTe/Keparoi,2,2,5,24,5
+FC POHU/Futboleros,PuiU/Akatemia 86,0,4,5,24,5
+FC Nile,HJK/Lsalo,4,3,5,24,5
+SUMU,FC KaKe,1,2,5,24,5
+MPS/AtleticoAkatemia,FC Honka/Leopardit,9,0,5,24,5
+PuiU/Akatemia 86,MPS/AtleticoAkatemia,4,7,5,24,5
+HJK/Lsalo,FC POHU/Futboleros,11,0,5,24,5
+ToTe/Keparoi,SUMU,1,3,5,24,5
+FC Honka/Leopardit,I-HK/Sensaatio,2,0,5,24,5
+FC KaKe,ToTe/Keparoi,5,2,5,24,5
+FC Nile,PuiU/Akatemia 86,5,3,5,24,5
+I-HK/Sensaatio,MPS/AtleticoAkatemia,2,4,5,24,5
+SUMU,HJK/Lsalo,4,2,5,24,5
+FC Honka/Leopardit,FC POHU/Futboleros,7,5,5,24,5
+HJK/Lsalo,FC KaKe,2,1,5,24,5
+FC Honka/Leopardit,SUMU,1,8,5,24,5
+PuiU/Akatemia 86,I-HK/Sensaatio,6,3,5,24,5
+ToTe/Keparoi,FC Nile,2,4,5,24,5
+MPS/AtleticoAkatemia,FC POHU/Futboleros,3,1,5,24,5
+SUMU,ToTe/Keparoi,1,0,5,24,5
+FC KaKe,FC Honka/Leopardit,2,4,5,24,5
+ToTe/Keparoi,MPS/AtleticoAkatemia,1,2,5,24,5
+HJK/Lsalo,PuiU/Akatemia 86,4,1,5,24,5
+SUMU,FC Nile,2,2,5,24,5
+MPS/AtleticoAkatemia,HJK/Lsalo,4,4,5,24,5
+PuiU/Akatemia 86,FC KaKe,0,0,5,24,5
+FC Honka/Leopardit,ToTe/Keparoi,1,2,5,24,5
+FC Nile,I-HK/Sensaatio,7,3,5,24,5
+FC POHU/Futboleros,SUMU,0,3,5,24,5
+ToTe/Keparoi,FC POHU/Futboleros,4,3,5,24,5
+FC KaKe,MPS/AtleticoAkatemia,5,1,5,24,5
+SUMU,PuiU/Akatemia 86,4,1,5,24,5
+I-HK/Sensaatio,HJK/Lsalo,1,1,5,24,5
+FC Nile,FC Honka/Leopardit,5,0,5,24,5
+MPS/AtleticoAkatemia,FC Nile,0,7,5,24,5
+I-HK/Sensaatio,SUMU,0,4,5,24,5
+FC POHU/Futboleros,FC KaKe,0,2,5,24,5
+PuiU/Akatemia 86,FC Honka/Leopardit,1,6,5,24,5
+HJK/Lsalo,ToTe/Keparoi,6,3,5,24,5
+FC Honka/Leopardit,HJK/Lsalo,7,1,5,24,5
+FC Nile,FC POHU/Futboleros,5,2,5,24,5
+ToTe/Keparoi,PuiU/Akatemia 86,1,1,5,24,5
+SUMU,MPS/AtleticoAkatemia,4,1,5,24,5
+FC KaKe,I-HK/Sensaatio,7,3,5,24,5
+ToTe/Keparoi,I-HK/Sensaatio,2,3,5,24,5
+HJK/Lsalo,FC Nile,1,5,5,24,5
+FC KaKe,SUMU,4,3,5,24,5
+PuiU/Akatemia 86,FC POHU/Futboleros,3,4,5,24,5
+FC Honka/Leopardit,MPS/AtleticoAkatemia,1,3,5,24,5
+MPS/AtleticoAkatemia,PuiU/Akatemia 86,5,4,5,24,5
+I-HK/Sensaatio,FC Honka/Leopardit,1,3,5,24,5
+FC POHU/Futboleros,HJK/Lsalo,1,3,5,24,5
+FC Nile,FC KaKe,3,3,5,24,5
+Millbrook FC,FC Parseh,4,7,5,24,6
+MK-United,Afro Foot Club,2,2,5,24,6
+Wartti/Wild Boars,Andalus FC,0,6,5,24,6
+Chicken Wings/2,FC Kontu/KoVa,1,3,5,24,6
+Millbrook FC,MK-United,3,2,5,24,6
+Andalus FC,Chicken Wings/2,4,6,5,24,6
+FC Kontu/KoVa,FC Parseh,2,2,5,24,6
+Afro Foot Club,Valtti/3,5,2,5,24,6
+Andalus FC,Millbrook FC,2,2,5,24,6
+MK-United,FC Kontu/KoVa,4,1,5,24,6
+Wartti/Wild Boars,FC Parseh,5,4,5,24,6
+Valtti/3,Chicken Wings/2,2,0,5,24,6
+FC Kontu/KoVa,Wartti/Wild Boars,6,0,5,24,6
+FC Parseh,Valtti/3,1,12,5,24,6
+Chicken Wings/2,MK-United,1,3,5,24,6
+Millbrook FC,Afro Foot Club,4,1,5,24,6
+MK-United,Andalus FC,4,3,5,24,6
+Wartti/Wild Boars,Millbrook FC,1,14,5,24,6
+Afro Foot Club,Chicken Wings/2,5,1,5,24,6
+Valtti/3,FC Kontu/KoVa,0,1,5,24,6
+Andalus FC,Valtti/3,2,3,5,24,6
+MK-United,Wartti/Wild Boars,8,0,5,24,6
+Chicken Wings/2,FC Parseh,3,3,5,24,6
+FC Kontu/KoVa,Afro Foot Club,2,1,5,24,6
+Afro Foot Club,Andalus FC,0,3,5,24,6
+FC Parseh,MK-United,0,4,5,24,6
+Wartti/Wild Boars,Chicken Wings/2,2,2,5,24,6
+Valtti/3,Millbrook FC,1,12,5,24,6
+Millbrook FC,FC Kontu/KoVa,6,1,5,24,6
+Andalus FC,FC Parseh,3,2,5,24,6
+Afro Foot Club,Wartti/Wild Boars,5,1,5,24,6
+Valtti/3,MK-United,1,5,5,24,6
+Wartti/Wild Boars,Valtti/3,1,0,5,24,6
+Chicken Wings/2,Millbrook FC,1,8,5,24,6
+FC Kontu/KoVa,Andalus FC,2,3,5,24,6
+FC Parseh,Afro Foot Club,3,6,5,24,6
+Andalus FC,Wartti/Wild Boars,2,1,5,24,6
+FC Parseh,Millbrook FC,4,12,5,24,6
+FC Kontu/KoVa,Chicken Wings/2,2,4,5,24,6
+Afro Foot Club,MK-United,2,1,5,24,6
+Chicken Wings/2,Andalus FC,1,4,5,24,6
+MK-United,Millbrook FC,0,5,5,24,6
+FC Parseh,FC Kontu/KoVa,2,7,5,24,6
+Valtti/3,Afro Foot Club,2,1,5,24,6
+FC Parseh,Wartti/Wild Boars,2,3,5,24,6
+Chicken Wings/2,Valtti/3,5,3,5,24,6
+FC Kontu/KoVa,MK-United,2,3,5,24,6
+Millbrook FC,Andalus FC,2,0,5,24,6
+Afro Foot Club,Millbrook FC,5,2,5,24,6
+MK-United,Chicken Wings/2,2,1,5,24,6
+Wartti/Wild Boars,FC Kontu/KoVa,1,2,5,24,6
+Valtti/3,FC Parseh,2,2,5,24,6
+Millbrook FC,Wartti/Wild Boars,6,0,5,24,6
+FC Kontu/KoVa,Valtti/3,5,2,5,24,6
+Chicken Wings/2,Afro Foot Club,2,0,5,24,6
+Andalus FC,MK-United,1,1,5,24,6
+Afro Foot Club,FC Kontu/KoVa,4,3,5,24,6
+Millbrook FC,Chicken Wings/2,2,2,5,24,6
+FC Parseh,Chicken Wings/2,0,6,5,24,6
+Wartti/Wild Boars,MK-United,1,3,5,24,6
+Valtti/3,Andalus FC,4,1,5,24,6
+Andalus FC,Afro Foot Club,1,2,5,24,6
+Millbrook FC,Valtti/3,7,2,5,24,6
+Chicken Wings/2,Wartti/Wild Boars,2,3,5,24,6
+MK-United,FC Parseh,6,0,5,24,6
+FC Kontu/KoVa,Millbrook FC,0,9,5,24,6
+Wartti/Wild Boars,Afro Foot Club,2,3,5,24,6
+FC Parseh,Andalus FC,3,5,5,24,6
+MK-United,Valtti/3,4,5,5,24,6
+Andalus FC,FC Kontu/KoVa,5,0,5,24,6
+Afro Foot Club,FC Parseh,2,3,5,24,6
+Valtti/3,Wartti/Wild Boars,2,3,5,24,6
+FCFJ,Nikinmäki United,4,0,5,24,7
+RiPS/2,HyPS/2,2,1,5,24,7
+FC Korso/United,KP-75/SaPo,11,1,5,24,7
+I-HK,Gnistan/3,12,8,5,24,7
+Pelikaani,KoiPS/Dynamo,0,3,5,24,7
+RiPS/2,I-HK,2,1,5,24,7
+KP-75/SaPo,Pelikaani,2,4,5,24,7
+HyPS/2,I-HK,6,1,5,24,7
+HyPS/2,KP-75/SaPo,8,0,5,24,7
+Gnistan/3,FC Korso/United,6,1,5,24,7
+KoiPS/Dynamo,FCFJ,2,3,5,24,7
+Nikinmäki United,RiPS/2,3,4,5,24,7
+RiPS/2,FC Korso/United,5,1,5,24,7
+Pelikaani,Gnistan/3,2,3,5,24,7
+KoiPS/Dynamo,Nikinmäki United,3,2,5,24,7
+KP-75/SaPo,KoiPS/Dynamo,1,2,5,24,7
+FC Korso/United,FCFJ,4,6,5,24,7
+I-HK,Pelikaani,5,1,5,24,7
+Gnistan/3,RiPS/2,6,2,5,24,7
+Nikinmäki United,HyPS/2,5,5,5,24,7
+FC Korso/United,Nikinmäki United,5,1,5,24,7
+Pelikaani,HyPS/2,2,5,5,24,7
+KoiPS/Dynamo,I-HK,2,3,5,24,7
+FCFJ,Gnistan/3,3,2,5,24,7
+KP-75/SaPo,Nikinmäki United,1,5,5,24,7
+HyPS/2,FCFJ,2,6,5,24,7
+I-HK,FC Korso/United,1,4,5,24,7
+Pelikaani,RiPS/2,1,5,5,24,7
+Gnistan/3,KoiPS/Dynamo,4,7,5,24,7
+FC Korso/United,Pelikaani,7,3,5,24,7
+KoiPS/Dynamo,HyPS/2,1,2,5,24,7
+Nikinmäki United,Gnistan/3,5,5,5,24,7
+FCFJ,KP-75/SaPo,10,0,5,24,7
+KP-75/SaPo,Gnistan/3,1,6,5,24,7
+HyPS/2,FC Korso/United,2,5,5,24,7
+KoiPS/Dynamo,RiPS/2,1,3,5,24,7
+Nikinmäki United,I-HK,6,2,5,24,7
+FCFJ,Pelikaani,9,1,5,24,7
+RiPS/2,FCFJ,2,2,5,24,7
+I-HK,KP-75/SaPo,7,0,5,24,7
+FC Korso/United,KoiPS/Dynamo,5,2,5,24,7
+Pelikaani,Nikinmäki United,1,2,5,24,7
+Gnistan/3,HyPS/2,2,4,5,24,7
+KP-75/SaPo,FC Korso/United,1,6,5,24,7
+Gnistan/3,I-HK,8,1,5,24,7
+HyPS/2,RiPS/2,2,1,5,24,7
+KoiPS/Dynamo,Pelikaani,2,1,5,24,7
+Nikinmäki United,FCFJ,4,4,5,24,7
+KoiPS/Dynamo,FC Korso/United,6,3,5,24,7
+I-HK,HyPS/2,3,2,5,24,7
+FC Korso/United,Gnistan/3,3,3,5,24,7
+RiPS/2,Nikinmäki United,3,3,5,24,7
+Pelikaani,KP-75/SaPo,6,1,5,24,7
+FCFJ,KoiPS/Dynamo,6,1,5,24,7
+KP-75/SaPo,HyPS/2,4,8,5,24,7
+I-HK,FCFJ,2,3,5,24,7
+FC Korso/United,RiPS/2,5,0,5,24,7
+Gnistan/3,Pelikaani,1,1,5,24,7
+Nikinmäki United,KoiPS/Dynamo,1,2,5,24,7
+HyPS/2,Nikinmäki United,4,1,5,24,7
+RiPS/2,Gnistan/3,5,1,5,24,7
+Pelikaani,I-HK,1,3,5,24,7
+KoiPS/Dynamo,KP-75/SaPo,4,1,5,24,7
+FCFJ,FC Korso/United,0,3,5,24,7
+KP-75/SaPo,RiPS/2,1,6,5,24,7
+I-HK,KoiPS/Dynamo,4,2,5,24,7
+HyPS/2,Pelikaani,4,2,5,24,7
+Gnistan/3,FCFJ,1,3,5,24,7
+Nikinmäki United,FC Korso/United,5,1,5,24,7
+FC Korso/United,I-HK,1,1,5,24,7
+RiPS/2,Pelikaani,1,3,5,24,7
+KoiPS/Dynamo,Gnistan/3,3,3,5,24,7
+Nikinmäki United,KP-75/SaPo,8,1,5,24,7
+FCFJ,HyPS/2,0,4,5,24,7
+KP-75/SaPo,FCFJ,2,12,5,24,7
+I-HK,RiPS/2,1,3,5,24,7
+HyPS/2,KoiPS/Dynamo,6,1,5,24,7
+Pelikaani,FC Korso/United,3,7,5,24,7
+Gnistan/3,Nikinmäki United,2,1,5,24,7
+RiPS/2,KoiPS/Dynamo,1,1,5,24,7
+I-HK,Nikinmäki United,2,1,5,24,7
+FC Korso/United,HyPS/2,2,2,5,24,7
+Gnistan/3,KP-75/SaPo,6,3,5,24,7
+Pelikaani,FCFJ,0,6,5,24,7
+KP-75/SaPo,I-HK,0,7,5,24,7
+HyPS/2,Gnistan/3,15,1,5,24,7
+FCFJ,RiPS/2,2,2,5,24,7
+Nikinmäki United,Pelikaani,2,1,5,24,7
+OPedot,Union Plaani/17,6,0,5,24,8
+HP-47,Flamingo United,3,3,5,24,8
+Nopsa,KyPa,7,4,5,24,8
+FC Kuusysi/2,Korian Klubi,3,1,5,24,8
+HaPK Edustus/2,Jäppärä,0,5,5,24,8
+Jäppärä,HP-47,8,4,5,24,8
+Union Plaani/17,FC Kuusysi/2,1,2,5,24,8
+Flamingo United,Nopsa,4,4,5,24,8
+Korian Klubi,HaPK Edustus/2,2,3,5,24,8
+OPedot,HaPK Edustus/2,8,0,5,24,8
+KyPa,Union Plaani/17,7,2,5,24,8
+Nopsa,Jäppärä,1,4,5,24,8
+Korian Klubi,Flamingo United,2,1,5,24,8
+FC Kuusysi/2,HP-47,1,0,5,24,8
+Jäppärä,FC Kuusysi/2,2,5,5,24,8
+HP-47,OPedot,3,1,5,24,8
+HaPK Edustus/2,Nopsa,1,12,5,24,8
+Jäppärä,OPedot,3,1,5,24,8
+KyPa,HaPK Edustus/2,3,2,5,24,8
+HP-47,Union Plaani/17,4,1,5,24,8
+Nopsa,Korian Klubi,5,3,5,24,8
+FC Kuusysi/2,Flamingo United,2,5,5,24,8
+Jäppärä,KyPa,1,5,5,24,8
+Flamingo United,Union Plaani/17,4,1,5,24,8
+Korian Klubi,OPedot,2,3,5,24,8
+Nopsa,FC Kuusysi/2,3,1,5,24,8
+HaPK Edustus/2,HP-47,3,5,5,24,8
+Union Plaani/17,Jäppärä,3,0,5,24,8
+OPedot,Flamingo United,0,1,5,24,8
+HP-47,Nopsa,2,3,5,24,8
+KyPa,Korian Klubi,4,0,5,24,8
+FC Kuusysi/2,HaPK Edustus/2,2,0,5,24,8
+Union Plaani/17,HaPK Edustus/2,4,1,5,24,8
+OPedot,Nopsa,1,3,5,24,8
+Jäppärä,Flamingo United,1,7,5,24,8
+KyPa,FC Kuusysi/2,6,0,5,24,8
+Korian Klubi,HP-47,7,0,5,24,8
+Jäppärä,Korian Klubi,2,1,5,24,8
+HP-47,KyPa,5,2,5,24,8
+Nopsa,Union Plaani/17,3,2,5,24,8
+FC Kuusysi/2,OPedot,3,2,5,24,8
+HaPK Edustus/2,Flamingo United,2,3,5,24,8
+Union Plaani/17,Korian Klubi,1,4,5,24,8
+Korian Klubi,Jäppärä,9,2,5,24,8
+Union Plaani/17,OPedot,0,2,5,24,8
+Jäppärä,HaPK Edustus/2,2,3,5,24,8
+KyPa,Nopsa,4,8,5,24,8
+Flamingo United,HP-47,0,0,5,24,8
+Korian Klubi,FC Kuusysi/2,2,3,5,24,8
+Jäppärä,Union Plaani/17,6,1,5,24,8
+OPedot,KyPa,4,1,5,24,8
+HP-47,Jäppärä,2,3,5,24,8
+FC Kuusysi/2,Union Plaani/17,2,1,5,24,8
+Nopsa,Flamingo United,4,1,5,24,8
+HaPK Edustus/2,Korian Klubi,6,2,5,24,8
+Union Plaani/17,KyPa,2,4,5,24,8
+Jäppärä,Nopsa,2,3,5,24,8
+HP-47,FC Kuusysi/2,1,1,5,24,8
+Flamingo United,Korian Klubi,1,4,5,24,8
+HaPK Edustus/2,OPedot,3,0,5,24,8
+OPedot,HP-47,1,1,5,24,8
+KyPa,Flamingo United,1,3,5,24,8
+Korian Klubi,Union Plaani/17,5,0,5,24,8
+Nopsa,HaPK Edustus/2,10,2,5,24,8
+FC Kuusysi/2,Jäppärä,1,0,5,24,8
+Union Plaani/17,HP-47,0,2,5,24,8
+OPedot,Jäppärä,0,2,5,24,8
+Flamingo United,FC Kuusysi/2,7,2,5,24,8
+Korian Klubi,Nopsa,5,1,5,24,8
+HaPK Edustus/2,KyPa,4,10,5,24,8
+Union Plaani/17,Flamingo United,10,2,5,24,8
+OPedot,Korian Klubi,2,5,5,24,8
+HP-47,HaPK Edustus/2,4,0,5,24,8
+KyPa,Jäppärä,3,2,5,24,8
+FC Kuusysi/2,Nopsa,2,2,5,24,8
+Flamingo United,OPedot,0,5,5,24,8
+Nopsa,HP-47,5,3,5,24,8
+Korian Klubi,KyPa,0,0,5,24,8
+HaPK Edustus/2,FC Kuusysi/2,0,0,5,24,8
+Nopsa,OPedot,5,1,5,24,8
+HP-47,Korian Klubi,5,0,5,24,8
+Flamingo United,Jäppärä,0,7,5,24,8
+HaPK Edustus/2,Union Plaani/17,4,4,5,24,8
+FC Kuusysi/2,KyPa,0,5,5,24,8
+OPedot,FC Kuusysi/2,5,3,5,24,8
+KyPa,HP-47,6,3,5,24,8
+Flamingo United,HaPK Edustus/2,3,1,5,24,8
+Union Plaani/17,Nopsa,3,7,5,24,8
+LoPa/2,EBK/Reservi,6,0,5,23,1
+KaPy,EsPa/United,0,4,5,23,1
+PEF,FC Kirkkonummi/2,13,0,5,23,1
+Olarin Kiksi,FC WILD,2,5,5,23,1
+EPS/2,Atleettiklubi,5,3,5,23,1
+FC Kirkkonummi/2,FC WILD,3,0,5,23,1
+EBK/Reservi,PEF,5,4,5,23,1
+Atleettiklubi,KaPy,0,7,5,23,1
+FC Kirkkonummi/2,Olarin Kiksi,3,2,5,23,1
+EsPa/United,LoPa/2,1,1,5,23,1
+FC WILD,EPS/2,0,1,5,23,1
+FC WILD,LoPa/2,1,4,5,23,1
+KaPy,PEF,0,4,5,23,1
+Olarin Kiksi,EBK/Reservi,3,0,5,23,1
+EPS/2,LoPa/2,1,5,5,23,1
+EsPa/United,FC Kirkkonummi/2,5,1,5,23,1
+FC WILD,Atleettiklubi,5,2,5,23,1
+PEF,EPS/2,4,0,5,23,1
+EBK/Reservi,KaPy,4,3,5,23,1
+Atleettiklubi,EsPa/United,4,13,5,23,1
+LoPa/2,Olarin Kiksi,2,4,5,23,1
+KaPy,FC Kirkkonummi/2,1,0,5,23,1
+EPS/2,EBK/Reservi,0,5,5,23,1
+Olarin Kiksi,EsPa/United,2,3,5,23,1
+PEF,Atleettiklubi,3,2,5,23,1
+EsPa/United,EPS/2,2,1,5,23,1
+Olarin Kiksi,KaPy,2,1,5,23,1
+FC Kirkkonummi/2,Atleettiklubi,5,0,5,23,1
+LoPa/2,PEF,2,0,5,23,1
+EBK/Reservi,FC WILD,12,2,5,23,1
+PEF,Olarin Kiksi,4,0,5,23,1
+EPS/2,FC Kirkkonummi/2,1,5,5,23,1
+Atleettiklubi,EBK/Reservi,1,11,5,23,1
+KaPy,LoPa/2,2,2,5,23,1
+FC WILD,EsPa/United,1,4,5,23,1
+EPS/2,Olarin Kiksi,3,5,5,23,1
+EsPa/United,PEF,3,2,5,23,1
+Atleettiklubi,LoPa/2,0,3,5,23,1
+FC Kirkkonummi/2,EBK/Reservi,0,3,5,23,1
+FC WILD,KaPy,0,6,5,23,1
+KaPy,EPS/2,1,0,5,23,1
+PEF,FC WILD,12,0,5,23,1
+Olarin Kiksi,Atleettiklubi,8,0,5,23,1
+EBK/Reservi,EsPa/United,5,2,5,23,1
+LoPa/2,FC Kirkkonummi/2,4,1,5,23,1
+EsPa/United,KaPy,3,1,5,23,1
+FC Kirkkonummi/2,PEF,3,0,5,23,1
+Atleettiklubi,EPS/2,1,1,5,23,1
+EBK/Reservi,LoPa/2,4,0,5,23,1
+FC WILD,Olarin Kiksi,3,1,5,23,1
+PEF,EBK/Reservi,2,2,5,23,1
+Olarin Kiksi,FC Kirkkonummi/2,1,5,5,23,1
+LoPa/2,EsPa/United,5,1,5,23,1
+KaPy,Atleettiklubi,4,1,5,23,1
+EPS/2,FC WILD,5,2,5,23,1
+PEF,KaPy,1,0,5,23,1
+Atleettiklubi,FC WILD,0,6,5,23,1
+EBK/Reservi,Olarin Kiksi,2,0,5,23,1
+FC Kirkkonummi/2,EsPa/United,2,0,5,23,1
+LoPa/2,EPS/2,2,1,5,23,1
+EPS/2,PEF,0,6,5,23,1
+EsPa/United,Atleettiklubi,2,2,5,23,1
+Olarin Kiksi,LoPa/2,3,0,5,23,1
+KaPy,EBK/Reservi,0,4,5,23,1
+FC WILD,FC Kirkkonummi/2,0,4,5,23,1
+EsPa/United,Olarin Kiksi,3,0,5,23,1
+EBK/Reservi,EPS/2,4,3,5,23,1
+Atleettiklubi,PEF,1,14,5,23,1
+FC Kirkkonummi/2,KaPy,2,2,5,23,1
+LoPa/2,FC WILD,4,2,5,23,1
+KaPy,Olarin Kiksi,1,1,5,23,1
+EPS/2,EsPa/United,1,1,5,23,1
+PEF,LoPa/2,1,4,5,23,1
+Atleettiklubi,FC Kirkkonummi/2,0,6,5,23,1
+FC WILD,EBK/Reservi,0,1,5,23,1
+EsPa/United,FC WILD,12,4,5,23,1
+Olarin Kiksi,PEF,1,1,5,23,1
+EBK/Reservi,Atleettiklubi,2,1,5,23,1
+FC Kirkkonummi/2,EPS/2,5,1,5,23,1
+LoPa/2,KaPy,3,3,5,23,1
+KaPy,FC WILD,6,0,5,23,1
+Olarin Kiksi,EPS/2,2,0,5,23,1
+EBK/Reservi,FC Kirkkonummi/2,2,2,5,23,1
+PEF,EsPa/United,3,1,5,23,1
+LoPa/2,Atleettiklubi,3,0,5,23,1
+EsPa/United,EBK/Reservi,1,3,5,23,1
+EPS/2,KaPy,1,4,5,23,1
+Atleettiklubi,Olarin Kiksi,1,3,5,23,1
+FC Kirkkonummi/2,LoPa/2,8,1,5,23,1
+FC WILD,PEF,0,1,5,23,1
+PPV,PEP,1,4,5,23,2
+Pöxyt/TN,FC Babylon,9,1,5,23,2
+LePa/2,AC Rastaala,5,1,5,23,2
+Colo-Colo,Kasiysi,3,1,5,23,2
+FC Kirkkonummi/3,FC POHU/JäPa,2,2,5,23,2
+FC POHU/JäPa,LePa/2,2,2,5,23,2
+Kasiysi,Pöxyt/TN,2,7,5,23,2
+PEP,Colo-Colo,4,1,5,23,2
+AC Rastaala,PPV,2,6,5,23,2
+FC Babylon,FC Kirkkonummi/3,3,4,5,23,2
+FC POHU/JäPa,PEP,2,2,5,23,2
+Kasiysi,FC Babylon,3,0,5,23,2
+Pöxyt/TN,LePa/2,0,2,5,23,2
+Colo-Colo,AC Rastaala,6,1,5,23,2
+FC Kirkkonummi/3,PPV,5,5,5,23,2
+PPV,Pöxyt/TN,0,10,5,23,2
+PEP,Kasiysi,0,1,5,23,2
+AC Rastaala,FC Kirkkonummi/3,1,5,5,23,2
+FC Babylon,FC POHU/JäPa,2,3,5,23,2
+LePa/2,Colo-Colo,6,1,5,23,2
+Kasiysi,LePa/2,0,6,5,23,2
+PPV,FC Babylon,3,0,5,23,2
+FC Kirkkonummi/3,PEP,3,4,5,23,2
+Pöxyt/TN,AC Rastaala,5,2,5,23,2
+Colo-Colo,FC POHU/JäPa,3,2,5,23,2
+FC POHU/JäPa,Pöxyt/TN,2,3,5,23,2
+PEP,FC Babylon,5,0,5,23,2
+AC Rastaala,Kasiysi,2,0,5,23,2
+Colo-Colo,FC Kirkkonummi/3,4,4,5,23,2
+LePa/2,PPV,6,0,5,23,2
+Kasiysi,FC POHU/JäPa,2,2,5,23,2
+PPV,Colo-Colo,2,2,5,23,2
+Pöxyt/TN,PEP,6,0,5,23,2
+FC Babylon,AC Rastaala,1,0,5,23,2
+FC Kirkkonummi/3,LePa/2,1,5,5,23,2
+Kasiysi,FC Kirkkonummi/3,0,2,5,23,2
+PEP,AC Rastaala,5,1,5,23,2
+Pöxyt/TN,Colo-Colo,10,0,5,23,2
+FC POHU/JäPa,PPV,1,5,5,23,2
+FC Babylon,LePa/2,0,5,5,23,2
+PPV,Kasiysi,7,1,5,23,2
+AC Rastaala,FC POHU/JäPa,2,4,5,23,2
+Colo-Colo,FC Babylon,2,0,5,23,2
+LePa/2,PEP,5,0,5,23,2
+FC Kirkkonummi/3,Pöxyt/TN,1,0,5,23,2
+FC POHU/JäPa,FC Kirkkonummi/3,1,1,5,23,2
+Kasiysi,Colo-Colo,2,4,5,23,2
+PEP,PPV,2,3,5,23,2
+AC Rastaala,LePa/2,0,8,5,23,2
+FC Babylon,Pöxyt/TN,0,10,5,23,2
+FC Babylon,Colo-Colo,0,2,5,23,2
+PPV,AC Rastaala,1,1,5,23,2
+Pöxyt/TN,Kasiysi,11,1,5,23,2
+Colo-Colo,PEP,2,0,5,23,2
+LePa/2,FC POHU/JäPa,4,2,5,23,2
+FC Kirkkonummi/3,FC Babylon,2,4,5,23,2
+PPV,FC Kirkkonummi/3,2,2,5,23,2
+PEP,FC POHU/JäPa,1,3,5,23,2
+AC Rastaala,Colo-Colo,2,2,5,23,2
+LePa/2,Pöxyt/TN,0,0,5,23,2
+FC Babylon,Kasiysi,1,0,5,23,2
+Colo-Colo,LePa/2,1,3,5,23,2
+Kasiysi,PEP,1,6,5,23,2
+Pöxyt/TN,PPV,2,2,5,23,2
+FC POHU/JäPa,FC Babylon,1,2,5,23,2
+FC Kirkkonummi/3,AC Rastaala,2,1,5,23,2
+FC POHU/JäPa,Colo-Colo,0,4,5,23,2
+PEP,FC Kirkkonummi/3,1,0,5,23,2
+AC Rastaala,Pöxyt/TN,1,4,5,23,2
+FC Babylon,PPV,1,2,5,23,2
+LePa/2,Kasiysi,6,2,5,23,2
+Kasiysi,AC Rastaala,6,1,5,23,2
+PPV,LePa/2,0,7,5,23,2
+Pöxyt/TN,FC POHU/JäPa,7,1,5,23,2
+FC Babylon,PEP,0,3,5,23,2
+FC Kirkkonummi/3,Colo-Colo,3,4,5,23,2
+FC POHU/JäPa,Kasiysi,1,1,5,23,2
+PEP,Pöxyt/TN,0,3,5,23,2
+AC Rastaala,FC Babylon,1,6,5,23,2
+Colo-Colo,PPV,6,1,5,23,2
+LePa/2,FC Kirkkonummi/3,8,1,5,23,2
+PPV,FC POHU/JäPa,2,1,5,23,2
+AC Rastaala,PEP,1,6,5,23,2
+Colo-Colo,Pöxyt/TN,0,1,5,23,2
+LePa/2,FC Babylon,5,0,5,23,2
+FC Kirkkonummi/3,Kasiysi,0,0,5,23,2
+FC POHU/JäPa,AC Rastaala,3,1,5,23,2
+Kasiysi,PPV,4,1,5,23,2
+PEP,LePa/2,1,4,5,23,2
+Pöxyt/TN,FC Kirkkonummi/3,6,0,5,23,2
+HePu,FC Spital,1,6,5,23,3
+SAPA/Savanna,ToTe/Tapio,3,4,5,23,3
+Tavastia,HIFK/3,1,1,5,23,3
+PPJ/LeJa,PPV/Seos,2,2,5,23,3
+FC POHU/KY United,HJK/Kantsu,1,6,5,23,3
+FC Spital,FC POHU/KY United,1,1,5,23,3
+HIFK/3,HePu,1,2,5,23,3
+PPV/Seos,SAPA/Savanna,1,1,5,23,3
+ToTe/Tapio,Tavastia,6,2,5,23,3
+SAPA/Savanna,HePu,3,1,5,23,3
+HJK/Kantsu,PPV/Seos,10,0,5,23,3
+ToTe/Tapio,FC Spital,4,1,5,23,3
+PPJ/LeJa,Tavastia,1,0,5,23,3
+FC POHU/KY United,HIFK/3,2,4,5,23,3
+FC Spital,HJK/Kantsu,1,0,5,23,3
+HIFK/3,SAPA/Savanna,0,1,5,23,3
+PPV/Seos,ToTe/Tapio,3,7,5,23,3
+Tavastia,FC POHU/KY United,1,3,5,23,3
+HePu,PPJ/LeJa,0,8,5,23,3
+SAPA/Savanna,FC Spital,2,7,5,23,3
+HJK/Kantsu,Tavastia,7,0,5,23,3
+PPJ/LeJa,HIFK/3,0,0,5,23,3
+FC POHU/KY United,ToTe/Tapio,1,6,5,23,3
+HePu,PPV/Seos,0,1,5,23,3
+FC Spital,PPV/Seos,5,1,5,23,3
+HIFK/3,HJK/Kantsu,1,12,5,23,3
+ToTe/Tapio,PPJ/LeJa,7,4,5,23,3
+FC POHU/KY United,SAPA/Savanna,3,2,5,23,3
+Tavastia,HePu,2,1,5,23,3
+SAPA/Savanna,Tavastia,1,1,5,23,3
+HJK/Kantsu,ToTe/Tapio,8,0,5,23,3
+HePu,FC POHU/KY United,0,4,5,23,3
+PPV/Seos,HIFK/3,0,1,5,23,3
+PPJ/LeJa,FC Spital,2,3,5,23,3
+FC Spital,HIFK/3,1,2,5,23,3
+HJK/Kantsu,SAPA/Savanna,9,2,5,23,3
+PPV/Seos,Tavastia,2,2,5,23,3
+ToTe/Tapio,HePu,3,1,5,23,3
+PPJ/LeJa,FC POHU/KY United,1,3,5,23,3
+SAPA/Savanna,PPJ/LeJa,2,2,5,23,3
+Tavastia,FC Spital,2,3,5,23,3
+HIFK/3,ToTe/Tapio,1,4,5,23,3
+HePu,HJK/Kantsu,0,2,5,23,3
+FC POHU/KY United,PPV/Seos,1,1,5,23,3
+HJK/Kantsu,FC POHU/KY United,5,2,5,23,3
+PPV/Seos,PPJ/LeJa,1,3,5,23,3
+FC Spital,HePu,3,2,5,23,3
+ToTe/Tapio,SAPA/Savanna,2,0,5,23,3
+HIFK/3,Tavastia,3,4,5,23,3
+Tavastia,ToTe/Tapio,1,6,5,23,3
+HePu,HIFK/3,2,0,5,23,3
+PPJ/LeJa,HJK/Kantsu,2,3,5,23,3
+FC POHU/KY United,FC Spital,0,2,5,23,3
+SAPA/Savanna,PPV/Seos,4,2,5,23,3
+HePu,SAPA/Savanna,2,1,5,23,3
+HIFK/3,FC POHU/KY United,1,0,5,23,3
+PPV/Seos,HJK/Kantsu,0,1,5,23,3
+Tavastia,PPJ/LeJa,2,2,5,23,3
+FC Spital,ToTe/Tapio,4,1,5,23,3
+SAPA/Savanna,HIFK/3,3,3,5,23,3
+HJK/Kantsu,FC Spital,1,6,5,23,3
+ToTe/Tapio,PPV/Seos,4,1,5,23,3
+PPJ/LeJa,HePu,3,3,5,23,3
+FC POHU/KY United,Tavastia,4,1,5,23,3
+HIFK/3,PPJ/LeJa,0,2,5,23,3
+PPV/Seos,HePu,0,0,5,23,3
+FC Spital,SAPA/Savanna,1,1,5,23,3
+ToTe/Tapio,FC POHU/KY United,3,0,5,23,3
+Tavastia,HJK/Kantsu,2,4,5,23,3
+SAPA/Savanna,FC POHU/KY United,0,5,5,23,3
+HJK/Kantsu,HIFK/3,2,0,5,23,3
+PPV/Seos,FC Spital,0,3,5,23,3
+PPJ/LeJa,ToTe/Tapio,2,4,5,23,3
+HePu,Tavastia,3,1,5,23,3
+FC Spital,PPJ/LeJa,3,1,5,23,3
+HIFK/3,PPV/Seos,2,2,5,23,3
+Tavastia,SAPA/Savanna,4,1,5,23,3
+ToTe/Tapio,HJK/Kantsu,1,5,5,23,3
+FC POHU/KY United,HePu,3,1,5,23,3
+Tavastia,PPV/Seos,2,0,5,23,3
+HePu,ToTe/Tapio,0,0,5,23,3
+HIFK/3,FC Spital,2,3,5,23,3
+SAPA/Savanna,HJK/Kantsu,1,2,5,23,3
+FC POHU/KY United,PPJ/LeJa,3,2,5,23,3
+FC Spital,Tavastia,0,0,5,23,3
+PPV/Seos,FC POHU/KY United,0,7,5,23,3
+HJK/Kantsu,HePu,6,2,5,23,3
+ToTe/Tapio,HIFK/3,10,0,5,23,3
+PPJ/LeJa,SAPA/Savanna,2,2,5,23,3
+Etu-Töölön Urhot,Arkki,4,0,5,23,4
+LPS/Kuninkaat,Vesa/Töölö,2,1,5,23,4
+Ponnistus/2,FC KaKe,7,0,5,23,4
+ToTe/Ratapihan Dynamo,FC Kiffen/2,1,4,5,23,4
+FC Pehmeet ja Märät,FC Dons,0,8,5,23,4
+FC Kiffen/2,Etu-Töölön Urhot,0,4,5,23,4
+FC Dons,LPS/Kuninkaat,3,1,5,23,4
+FC Kiffen/2,Ponnistus/2,2,6,5,23,4
+Arkki,FC Pehmeet ja Märät,1,3,5,23,4
+Vesa/Töölö,ToTe/Ratapihan Dynamo,4,2,5,23,4
+FC KaKe,Etu-Töölön Urhot,1,6,5,23,4
+ToTe/Ratapihan Dynamo,FC Dons,0,14,5,23,4
+Etu-Töölön Urhot,LPS/Kuninkaat,6,3,5,23,4
+Arkki,Vesa/Töölö,4,6,5,23,4
+FC Kiffen/2,FC KaKe,1,4,5,23,4
+Ponnistus/2,FC Pehmeet ja Märät,3,4,5,23,4
+Vesa/Töölö,FC Dons,3,3,5,23,4
+FC Dons,Etu-Töölön Urhot,2,0,5,23,4
+FC Pehmeet ja Märät,ToTe/Ratapihan Dynamo,5,1,5,23,4
+LPS/Kuninkaat,Ponnistus/2,6,3,5,23,4
+Vesa/Töölö,FC Kiffen/2,7,1,5,23,4
+FC KaKe,Arkki,4,0,5,23,4
+FC KaKe,LPS/Kuninkaat,2,2,5,23,4
+Etu-Töölön Urhot,Vesa/Töölö,6,2,5,23,4
+ToTe/Ratapihan Dynamo,Arkki,0,3,5,23,4
+FC Kiffen/2,FC Pehmeet ja Märät,4,0,5,23,4
+Ponnistus/2,FC Dons,2,2,5,23,4
+FC Pehmeet ja Märät,Vesa/Töölö,2,3,5,23,4
+ToTe/Ratapihan Dynamo,Etu-Töölön Urhot,0,3,5,23,4
+Arkki,Ponnistus/2,3,3,5,23,4
+Vesa/Töölö,FC KaKe,3,6,5,23,4
+FC Pehmeet ja Märät,LPS/Kuninkaat,6,3,5,23,4
+FC Dons,FC Kiffen/2,3,0,5,23,4
+Etu-Töölön Urhot,Ponnistus/2,3,1,5,23,4
+ToTe/Ratapihan Dynamo,FC KaKe,2,1,5,23,4
+FC Dons,Arkki,4,2,5,23,4
+LPS/Kuninkaat,FC Kiffen/2,2,0,5,23,4
+Arkki,LPS/Kuninkaat,2,5,5,23,4
+Ponnistus/2,ToTe/Ratapihan Dynamo,4,0,5,23,4
+FC KaKe,FC Pehmeet ja Märät,3,4,5,23,4
+LPS/Kuninkaat,ToTe/Ratapihan Dynamo,4,2,5,23,4
+Ponnistus/2,Vesa/Töölö,1,3,5,23,4
+FC KaKe,FC Dons,1,4,5,23,4
+FC Kiffen/2,Arkki,4,0,5,23,4
+Etu-Töölön Urhot,FC Pehmeet ja Märät,3,0,5,23,4
+FC Pehmeet ja Märät,Arkki,2,3,5,23,4
+Vesa/Töölö,FC Pehmeet ja Märät,4,2,5,23,4
+FC KaKe,Ponnistus/2,0,3,5,23,4
+FC Kiffen/2,ToTe/Ratapihan Dynamo,1,1,5,23,4
+FC Dons,FC Pehmeet ja Märät,6,0,5,23,4
+Arkki,Etu-Töölön Urhot,2,4,5,23,4
+LPS/Kuninkaat,FC Dons,1,2,5,23,4
+Etu-Töölön Urhot,FC KaKe,3,1,5,23,4
+ToTe/Ratapihan Dynamo,Vesa/Töölö,0,6,5,23,4
+Ponnistus/2,FC Kiffen/2,7,2,5,23,4
+FC KaKe,FC Kiffen/2,7,4,5,23,4
+FC Pehmeet ja Märät,Ponnistus/2,3,1,5,23,4
+FC Dons,ToTe/Ratapihan Dynamo,2,1,5,23,4
+LPS/Kuninkaat,Etu-Töölön Urhot,2,4,5,23,4
+Vesa/Töölö,Arkki,3,2,5,23,4
+Etu-Töölön Urhot,FC Dons,1,1,5,23,4
+Arkki,FC KaKe,0,4,5,23,4
+FC Kiffen/2,Vesa/Töölö,1,1,5,23,4
+ToTe/Ratapihan Dynamo,FC Pehmeet ja Märät,2,1,5,23,4
+Ponnistus/2,LPS/Kuninkaat,0,3,5,23,4
+FC Pehmeet ja Märät,FC Kiffen/2,1,3,5,23,4
+Arkki,ToTe/Ratapihan Dynamo,2,1,5,23,4
+LPS/Kuninkaat,FC KaKe,2,5,5,23,4
+FC Dons,Ponnistus/2,4,1,5,23,4
+Vesa/Töölö,Etu-Töölön Urhot,1,4,5,23,4
+Ponnistus/2,Arkki,3,2,5,23,4
+FC Kiffen/2,FC Dons,0,6,5,23,4
+Etu-Töölön Urhot,ToTe/Ratapihan Dynamo,3,0,5,23,4
+LPS/Kuninkaat,FC Pehmeet ja Märät,3,2,5,23,4
+FC KaKe,Vesa/Töölö,1,2,5,23,4
+ToTe/Ratapihan Dynamo,LPS/Kuninkaat,1,7,5,23,4
+Arkki,FC Kiffen/2,9,0,5,23,4
+Vesa/Töölö,Ponnistus/2,0,6,5,23,4
+FC Dons,FC KaKe,5,3,5,23,4
+FC Pehmeet ja Märät,Etu-Töölön Urhot,2,1,5,23,4
+ToTe/Ratapihan Dynamo,Ponnistus/2,3,4,5,23,4
+FC Pehmeet ja Märät,FC KaKe,1,6,5,23,4
+FC Dons,Vesa/Töölö,4,1,5,23,4
+Etu-Töölön Urhot,FC Kiffen/2,4,1,5,23,4
+LPS/Kuninkaat,Arkki,2,4,5,23,4
+Vesa/Töölö,LPS/Kuninkaat,3,5,5,23,4
+Arkki,FC Dons,1,1,5,23,4
+FC Kiffen/2,LPS/Kuninkaat,1,3,5,23,4
+FC KaKe,ToTe/Ratapihan Dynamo,3,0,5,23,4
+Ponnistus/2,Etu-Töölön Urhot,2,4,5,23,4
+MPS/Atletico Akatemia,PuiU/86,2,3,5,23,5
+Afro Foot Club,SAPA/2,3,3,5,23,5
+FC POHU/Futboleros,FC Parseh,4,1,5,23,5
+ToTe/Taiskin Tykit,FC Viikingit,4,4,5,23,5
+Nikinmäki United,PK-35/2,2,6,5,23,5
+FC POHU/Futboleros,PuiU/86,1,2,5,23,5
+FC Viikingit,Afro Foot Club,3,6,5,23,5
+FC Parseh,MPS/Atletico Akatemia,1,2,5,23,5
+PuiU/86,ToTe/Taiskin Tykit,1,6,5,23,5
+PK-35/2,Afro Foot Club,5,3,5,23,5
+SAPA/2,FC POHU/Futboleros,3,2,5,23,5
+FC Viikingit,Nikinmäki United,2,4,5,23,5
+MPS/Atletico Akatemia,Nikinmäki United,4,4,5,23,5
+FC Parseh,PuiU/86,2,2,5,23,5
+ToTe/Taiskin Tykit,Afro Foot Club,2,0,5,23,5
+FC Viikingit,SAPA/2,6,1,5,23,5
+FC POHU/Futboleros,PK-35/2,3,1,5,23,5
+MPS/Atletico Akatemia,SAPA/2,6,2,5,23,5
+SAPA/2,FC Parseh,2,4,5,23,5
+PK-35/2,ToTe/Taiskin Tykit,0,1,5,23,5
+PuiU/86,FC Viikingit,1,4,5,23,5
+Afro Foot Club,MPS/Atletico Akatemia,5,2,5,23,5
+Nikinmäki United,FC POHU/Futboleros,3,4,5,23,5
+MPS/Atletico Akatemia,PK-35/2,3,1,5,23,5
+FC Parseh,Nikinmäki United,3,4,5,23,5
+FC POHU/Futboleros,SAPA/2,2,1,5,23,5
+Afro Foot Club,PuiU/86,3,0,5,23,5
+FC POHU/Futboleros,FC Viikingit,1,4,5,23,5
+ToTe/Taiskin Tykit,SAPA/2,3,1,5,23,5
+SAPA/2,PuiU/86,1,1,5,23,5
+FC Viikingit,MPS/Atletico Akatemia,1,1,5,23,5
+PK-35/2,FC Parseh,1,2,5,23,5
+FC POHU/Futboleros,ToTe/Taiskin Tykit,2,3,5,23,5
+Nikinmäki United,Afro Foot Club,2,1,5,23,5
+FC Parseh,FC Viikingit,3,6,5,23,5
+ToTe/Taiskin Tykit,Nikinmäki United,3,1,5,23,5
+PuiU/86,PK-35/2,3,2,5,23,5
+Afro Foot Club,FC POHU/Futboleros,4,3,5,23,5
+MPS/Atletico Akatemia,FC POHU/Futboleros,8,2,5,23,5
+FC Parseh,ToTe/Taiskin Tykit,1,1,5,23,5
+PuiU/86,Nikinmäki United,1,1,5,23,5
+SAPA/2,PK-35/2,0,5,5,23,5
+Afro Foot Club,FC Parseh,1,3,5,23,5
+ToTe/Taiskin Tykit,MPS/Atletico Akatemia,3,1,5,23,5
+PK-35/2,FC Viikingit,1,4,5,23,5
+Nikinmäki United,SAPA/2,3,3,5,23,5
+FC Parseh,FC POHU/Futboleros,6,3,5,23,5
+SAPA/2,Afro Foot Club,1,2,5,23,5
+PuiU/86,MPS/Atletico Akatemia,0,4,5,23,5
+PK-35/2,Nikinmäki United,2,3,5,23,5
+FC Viikingit,ToTe/Taiskin Tykit,2,3,5,23,5
+MPS/Atletico Akatemia,FC Parseh,3,2,5,23,5
+Afro Foot Club,PK-35/2,4,2,5,23,5
+ToTe/Taiskin Tykit,PuiU/86,4,0,5,23,5
+Nikinmäki United,FC Viikingit,0,2,5,23,5
+Afro Foot Club,ToTe/Taiskin Tykit,0,3,5,23,5
+PuiU/86,FC Parseh,1,4,5,23,5
+Nikinmäki United,MPS/Atletico Akatemia,0,1,5,23,5
+PK-35/2,FC POHU/Futboleros,7,1,5,23,5
+SAPA/2,FC Viikingit,1,4,5,23,5
+MPS/Atletico Akatemia,Afro Foot Club,2,2,5,23,5
+ToTe/Taiskin Tykit,PK-35/2,2,2,5,23,5
+FC Viikingit,PuiU/86,4,1,5,23,5
+FC Parseh,SAPA/2,1,3,5,23,5
+FC POHU/Futboleros,Nikinmäki United,2,3,5,23,5
+PuiU/86,Afro Foot Club,5,1,5,23,5
+SAPA/2,ToTe/Taiskin Tykit,0,1,5,23,5
+FC Viikingit,FC POHU/Futboleros,3,2,5,23,5
+PK-35/2,MPS/Atletico Akatemia,7,1,5,23,5
+Nikinmäki United,FC Parseh,0,4,5,23,5
+PuiU/86,SAPA/2,3,1,5,23,5
+FC Parseh,PK-35/2,4,0,5,23,5
+Afro Foot Club,Nikinmäki United,2,3,5,23,5
+ToTe/Taiskin Tykit,FC POHU/Futboleros,9,1,5,23,5
+MPS/Atletico Akatemia,FC Viikingit,1,2,5,23,5
+PK-35/2,PuiU/86,3,3,5,23,5
+FC Viikingit,FC Parseh,2,2,5,23,5
+FC POHU/Futboleros,Afro Foot Club,3,2,5,23,5
+Nikinmäki United,ToTe/Taiskin Tykit,1,2,5,23,5
+SAPA/2,MPS/Atletico Akatemia,1,4,5,23,5
+ToTe/Taiskin Tykit,FC Parseh,2,3,5,23,5
+PK-35/2,SAPA/2,3,0,5,23,5
+Afro Foot Club,FC Viikingit,0,2,5,23,5
+FC POHU/Futboleros,MPS/Atletico Akatemia,0,5,5,23,5
+Nikinmäki United,PuiU/86,4,3,5,23,5
+SAPA/2,Nikinmäki United,3,0,5,23,5
+MPS/Atletico Akatemia,ToTe/Taiskin Tykit,1,7,5,23,5
+PuiU/86,FC POHU/Futboleros,2,0,5,23,5
+FC Parseh,Afro Foot Club,5,5,5,23,5
+FC Viikingit,PK-35/2,2,4,5,23,5
+I-HK/Sensaatio,FC Inter Vuosaari,3,2,5,23,6
+SUMU,Ellas,10,2,5,23,6
+Jokerit FC,FC Kontu/KoVa,3,0,5,23,6
+Valtti/3,LPS/2,0,5,5,23,6
+LPS/2,I-HK/Sensaatio,4,0,5,23,6
+FC Kontu/KoVa,SUMU,3,2,5,23,6
+Millbrook FC,Valtti/3,5,1,5,23,6
+FC Inter Vuosaari,Jokerit FC,0,2,5,23,6
+I-HK/Sensaatio,SUMU,0,1,5,23,6
+Millbrook FC,LPS/2,4,4,5,23,6
+FC Inter Vuosaari,Ellas,4,4,5,23,6
+Valtti/3,Jokerit FC,2,2,5,23,6
+LPS/2,FC Inter Vuosaari,2,2,5,23,6
+FC Kontu/KoVa,I-HK/Sensaatio,3,1,5,23,6
+SUMU,Valtti/3,3,0,5,23,6
+Ellas,Millbrook FC,4,4,5,23,6
+I-HK/Sensaatio,Ellas,1,3,5,23,6
+Millbrook FC,Jokerit FC,3,2,5,23,6
+SUMU,LPS/2,1,3,5,23,6
+Valtti/3,FC Kontu/KoVa,1,1,5,23,6
+FC Kontu/KoVa,Millbrook FC,0,3,5,23,6
+Jokerit FC,SUMU,0,3,5,23,6
+Ellas,LPS/2,0,7,5,23,6
+FC Inter Vuosaari,Valtti/3,8,4,5,23,6
+Valtti/3,SUMU,1,2,5,23,6
+I-HK/Sensaatio,Jokerit FC,1,3,5,23,6
+Millbrook FC,FC Inter Vuosaari,2,1,5,23,6
+LPS/2,FC Kontu/KoVa,3,2,5,23,6
+Valtti/3,Ellas,0,2,5,23,6
+LPS/2,Jokerit FC,0,2,5,23,6
+Millbrook FC,I-HK/Sensaatio,4,0,5,23,6
+Ellas,FC Kontu/KoVa,3,4,5,23,6
+FC Inter Vuosaari,SUMU,2,1,5,23,6
+I-HK/Sensaatio,Valtti/3,1,2,5,23,6
+Jokerit FC,Ellas,3,0,5,23,6
+SUMU,Millbrook FC,2,1,5,23,6
+FC Kontu/KoVa,FC Inter Vuosaari,3,5,5,23,6
+LPS/2,Valtti/3,2,0,5,23,6
+FC Kontu/KoVa,Jokerit FC,0,8,5,23,6
+FC Inter Vuosaari,I-HK/Sensaatio,3,0,5,23,6
+Ellas,SUMU,0,4,5,23,6
+SUMU,FC Kontu/KoVa,1,0,5,23,6
+I-HK/Sensaatio,LPS/2,1,2,5,23,6
+Jokerit FC,FC Inter Vuosaari,0,3,5,23,6
+Valtti/3,Millbrook FC,3,2,5,23,6
+Jokerit FC,Valtti/3,3,0,5,23,6
+LPS/2,Millbrook FC,2,1,5,23,6
+SUMU,I-HK/Sensaatio,4,2,5,23,6
+Ellas,FC Inter Vuosaari,6,8,5,23,6
+I-HK/Sensaatio,FC Kontu/KoVa,4,2,5,23,6
+Millbrook FC,Ellas,4,1,5,23,6
+FC Inter Vuosaari,LPS/2,4,5,5,23,6
+FC Kontu/KoVa,Valtti/3,3,4,5,23,6
+Jokerit FC,Millbrook FC,4,3,5,23,6
+LPS/2,SUMU,4,4,5,23,6
+Ellas,I-HK/Sensaatio,3,1,5,23,6
+Millbrook FC,FC Kontu/KoVa,3,5,5,23,6
+SUMU,Jokerit FC,0,0,5,23,6
+LPS/2,Ellas,2,2,5,23,6
+Valtti/3,FC Inter Vuosaari,4,2,5,23,6
+FC Kontu/KoVa,LPS/2,2,2,5,23,6
+Jokerit FC,I-HK/Sensaatio,2,1,5,23,6
+Ellas,Valtti/3,1,3,5,23,6
+FC Inter Vuosaari,Millbrook FC,3,3,5,23,6
+I-HK/Sensaatio,Millbrook FC,0,2,5,23,6
+SUMU,FC Inter Vuosaari,2,1,5,23,6
+FC Kontu/KoVa,Ellas,4,0,5,23,6
+Jokerit FC,LPS/2,1,1,5,23,6
+Millbrook FC,SUMU,2,1,5,23,6
+Ellas,Jokerit FC,0,4,5,23,6
+FC Inter Vuosaari,FC Kontu/KoVa,2,1,5,23,6
+Valtti/3,I-HK/Sensaatio,1,0,5,23,6
+ToBK,NJS/3,2,2,5,23,7
+RiPS/2,Ares -86,6,3,5,23,7
+HyPS/2,FC Korso/United,3,4,5,23,7
+TuPS/3,Sibbo-Vargarna,1,3,5,23,7
+KoiPS/Dynamo,KP-75/SaPo,2,2,5,23,7
+ToBK,HyPS/2,3,4,5,23,7
+Sibbo-Vargarna,RiPS/2,3,2,5,23,7
+FC Korso/United,TuPS/3,7,1,5,23,7
+KP-75/SaPo,ToBK,3,4,5,23,7
+Ares -86,KoiPS/Dynamo,6,5,5,23,7
+NJS/3,HyPS/2,6,2,5,23,7
+Sibbo-Vargarna,KP-75/SaPo,3,0,5,23,7
+FC Korso/United,Sibbo-Vargarna,2,3,5,23,7
+Ares -86,NJS/3,0,14,5,23,7
+RiPS/2,ToBK,5,0,5,23,7
+TuPS/3,KoiPS/Dynamo,0,6,5,23,7
+HyPS/2,KP-75/SaPo,12,0,5,23,7
+ToBK,TuPS/3,6,1,5,23,7
+KP-75/SaPo,RiPS/2,0,4,5,23,7
+KoiPS/Dynamo,HyPS/2,2,2,5,23,7
+NJS/3,FC Korso/United,5,6,5,23,7
+ToBK,Sibbo-Vargarna,1,1,5,23,7
+FC Korso/United,KoiPS/Dynamo,1,3,5,23,7
+RiPS/2,NJS/3,2,3,5,23,7
+TuPS/3,KP-75/SaPo,4,1,5,23,7
+HyPS/2,Ares -86,7,2,5,23,7
+KP-75/SaPo,FC Korso/United,3,1,5,23,7
+KoiPS/Dynamo,ToBK,2,3,5,23,7
+Ares -86,TuPS/3,0,4,5,23,7
+NJS/3,Sibbo-Vargarna,3,2,5,23,7
+HyPS/2,RiPS/2,4,1,5,23,7
+FC Korso/United,Ares -86,3,1,5,23,7
+RiPS/2,KoiPS/Dynamo,1,2,5,23,7
+TuPS/3,NJS/3,1,7,5,23,7
+HyPS/2,Sibbo-Vargarna,0,1,5,23,7
+Sibbo-Vargarna,KoiPS/Dynamo,7,0,5,23,7
+FC Korso/United,RiPS/2,0,5,5,23,7
+TuPS/3,HyPS/2,4,4,5,23,7
+Ares -86,ToBK,0,6,5,23,7
+NJS/3,KP-75/SaPo,3,2,5,23,7
+ToBK,FC Korso/United,7,0,5,23,7
+KP-75/SaPo,Ares -86,4,3,5,23,7
+KoiPS/Dynamo,NJS/3,2,5,5,23,7
+RiPS/2,TuPS/3,3,5,5,23,7
+Sibbo-Vargarna,TuPS/3,7,1,5,23,7
+FC Korso/United,HyPS/2,1,3,5,23,7
+KP-75/SaPo,KoiPS/Dynamo,4,3,5,23,7
+Ares -86,RiPS/2,0,7,5,23,7
+NJS/3,ToBK,2,5,5,23,7
+ToBK,RiPS/2,9,2,5,23,7
+TuPS/3,Ares -86,10,0,5,23,7
+ToBK,KP-75/SaPo,4,1,5,23,7
+KoiPS/Dynamo,Ares -86,3,2,5,23,7
+RiPS/2,Sibbo-Vargarna,2,6,5,23,7
+TuPS/3,FC Korso/United,1,4,5,23,7
+HyPS/2,NJS/3,2,1,5,23,7
+Sibbo-Vargarna,FC Korso/United,4,0,5,23,7
+KP-75/SaPo,HyPS/2,3,3,5,23,7
+KoiPS/Dynamo,TuPS/3,2,7,5,23,7
+NJS/3,Ares -86,5,0,5,23,7
+Ares -86,Sibbo-Vargarna,0,2,5,23,7
+FC Korso/United,NJS/3,2,3,5,23,7
+RiPS/2,KP-75/SaPo,4,2,5,23,7
+HyPS/2,KoiPS/Dynamo,7,1,5,23,7
+TuPS/3,ToBK,4,1,5,23,7
+Sibbo-Vargarna,ToBK,2,0,5,23,7
+KP-75/SaPo,TuPS/3,3,3,5,23,7
+KoiPS/Dynamo,FC Korso/United,3,1,5,23,7
+Ares -86,HyPS/2,1,8,5,23,7
+NJS/3,RiPS/2,2,1,5,23,7
+Sibbo-Vargarna,NJS/3,6,2,5,23,7
+ToBK,KoiPS/Dynamo,4,2,5,23,7
+FC Korso/United,KP-75/SaPo,5,2,5,23,7
+RiPS/2,HyPS/2,2,2,5,23,7
+KP-75/SaPo,Sibbo-Vargarna,1,5,5,23,7
+KoiPS/Dynamo,RiPS/2,5,2,5,23,7
+HyPS/2,ToBK,1,1,5,23,7
+NJS/3,TuPS/3,8,1,5,23,7
+Ares -86,FC Korso/United,1,3,5,23,7
+ToBK,Ares -86,5,0,5,23,7
+KP-75/SaPo,NJS/3,2,5,5,23,7
+KoiPS/Dynamo,Sibbo-Vargarna,0,5,5,23,7
+RiPS/2,FC Korso/United,2,2,5,23,7
+HyPS/2,TuPS/3,3,0,5,23,7
+Sibbo-Vargarna,HyPS/2,7,0,5,23,7
+FC Korso/United,ToBK,0,4,5,23,7
+TuPS/3,RiPS/2,5,1,5,23,7
+NJS/3,KoiPS/Dynamo,4,4,5,23,7
+Ares -86,KP-75/SaPo,1,3,5,23,7
+Jäppärä,AskU,1,9,5,23,8
+Kiri,FC Kuusysi/2,4,1,5,23,8
+Nopsa,Korian Klubi,2,4,5,23,8
+Korian Klubi,AskU,2,3,5,23,8
+Jäntevä/Akatemia,Jäppärä,4,1,5,23,8
+Nopsa,Kiri,2,3,5,23,8
+KyPa,Union Plaani/17,1,2,5,23,8
+Union Plaani/17,Korian Klubi,3,1,5,23,8
+Jäntevä/Akatemia,Nopsa,3,1,5,23,8
+FC Kuusysi/2,KyPa,2,0,5,23,8
+Kiri,AskU,2,0,5,23,8
+AskU,Union Plaani/17,1,3,5,23,8
+Jäppärä,Kiri,6,6,5,23,8
+KyPa,Jäntevä/Akatemia,5,2,5,23,8
+Nopsa,FC Kuusysi/2,1,2,5,23,8
+Union Plaani/17,Nopsa,2,0,5,23,8
+Kiri,Jäntevä/Akatemia,11,3,5,23,8
+Korian Klubi,KyPa,2,3,5,23,8
+FC Kuusysi/2,Jäppärä,3,0,5,23,8
+Nopsa,KyPa,3,2,5,23,8
+Jäppärä,Korian Klubi,2,0,5,23,8
+Kiri,Union Plaani/17,2,2,5,23,8
+Jäppärä,Union Plaani/17,3,2,5,23,8
+KyPa,AskU,3,1,5,23,8
+Korian Klubi,Kiri,2,7,5,23,8
+FC Kuusysi/2,Jäntevä/Akatemia,3,6,5,23,8
+Union Plaani/17,Jäppärä,3,1,5,23,8
+Nopsa,AskU,0,4,5,23,8
+KyPa,Jäppärä,2,3,5,23,8
+Jäntevä/Akatemia,Korian Klubi,4,2,5,23,8
+FC Kuusysi/2,Union Plaani/17,1,5,5,23,8
+Jäppärä,Nopsa,2,1,5,23,8
+AskU,Jäntevä/Akatemia,5,1,5,23,8
+Korian Klubi,FC Kuusysi/2,4,2,5,23,8
+Kiri,KyPa,1,3,5,23,8
+Jäppärä,FC Kuusysi/2,7,0,5,23,8
+AskU,Jäppärä,8,1,5,23,8
+Jäntevä/Akatemia,Union Plaani/17,1,2,5,23,8
+Korian Klubi,Nopsa,1,6,5,23,8
+FC Kuusysi/2,Kiri,1,5,5,23,8
+Jäppärä,KyPa,4,1,5,23,8
+AskU,Korian Klubi,3,1,5,23,8
+Union Plaani/17,KyPa,4,0,5,23,8
+Kiri,Nopsa,3,1,5,23,8
+Jäppärä,Jäntevä/Akatemia,4,2,5,23,8
+Nopsa,Jäntevä/Akatemia,2,1,5,23,8
+AskU,Kiri,11,0,5,23,8
+KyPa,FC Kuusysi/2,2,1,5,23,8
+Korian Klubi,Union Plaani/17,7,2,5,23,8
+Kiri,Jäppärä,3,3,5,23,8
+Union Plaani/17,AskU,3,1,5,23,8
+Jäntevä/Akatemia,KyPa,0,2,5,23,8
+FC Kuusysi/2,Nopsa,1,0,5,23,8
+Jäntevä/Akatemia,Kiri,2,3,5,23,8
+Nopsa,Union Plaani/17,3,1,5,23,8
+KyPa,Korian Klubi,3,3,5,23,8
+Union Plaani/17,Kiri,3,2,5,23,8
+KyPa,Nopsa,2,2,5,23,8
+Korian Klubi,Jäppärä,5,3,5,23,8
+FC Kuusysi/2,AskU,0,2,5,23,8
+Jäntevä/Akatemia,FC Kuusysi/2,4,2,5,23,8
+Kiri,Korian Klubi,3,3,5,23,8
+AskU,KyPa,5,1,5,23,8
+Union Plaani/17,FC Kuusysi/2,2,3,5,23,8
+Korian Klubi,Jäntevä/Akatemia,2,3,5,23,8
+AskU,Nopsa,5,0,5,23,8
+KyPa,Kiri,3,4,5,23,8
+Jäntevä/Akatemia,AskU,1,2,5,23,8
+FC Kuusysi/2,Korian Klubi,3,4,5,23,8
+Nopsa,Jäppärä,4,4,5,23,8
+FC Kirkkonummi/2,EsPa/Keltavihree,1,0,5,22,1
+ViTa,NuPS/2,0,2,5,22,1
+KJS,KaPy,1,5,5,22,1
+EPS/2,Olarin Kiksi,3,2,5,22,1
+PEF,FC WILD/2,2,2,5,22,1
+FC WILD/2,ViTa,6,3,5,22,1
+Olarin Kiksi,FC Kirkkonummi/2,3,0,5,22,1
+EsPa/Keltavihree,KJS,6,0,5,22,1
+KaPy,PEF,0,2,5,22,1
+NuPS/2,EPS/2,5,0,5,22,1
+ViTa,KaPy,0,2,5,22,1
+FC Kirkkonummi/2,PEF,1,1,5,22,1
+EPS/2,KJS,4,0,5,22,1
+EsPa/Keltavihree,FC WILD/2,3,6,5,22,1
+NuPS/2,Olarin Kiksi,5,1,5,22,1
+Olarin Kiksi,EsPa/Keltavihree,2,3,5,22,1
+KaPy,FC Kirkkonummi/2,1,0,5,22,1
+FC WILD/2,NuPS/2,3,2,5,22,1
+KJS,ViTa,3,5,5,22,1
+EPS/2,KaPy,1,2,5,22,1
+PEF,Olarin Kiksi,5,1,5,22,1
+FC Kirkkonummi/2,FC WILD/2,2,2,5,22,1
+ViTa,EsPa/Keltavihree,0,8,5,22,1
+NuPS/2,KJS,5,1,5,22,1
+Olarin Kiksi,KJS,1,4,5,22,1
+EsPa/Keltavihree,EPS/2,4,0,5,22,1
+KaPy,NuPS/2,0,3,5,22,1
+ViTa,FC Kirkkonummi/2,0,13,5,22,1
+KJS,PEF,0,1,5,22,1
+FC WILD/2,Olarin Kiksi,4,1,5,22,1
+EPS/2,FC WILD/2,0,2,5,22,1
+ViTa,PEF,0,1,5,22,1
+FC Kirkkonummi/2,KJS,9,1,5,22,1
+Olarin Kiksi,KaPy,1,4,5,22,1
+ViTa,EPS/2,3,5,5,22,1
+EsPa/Keltavihree,PEF,5,2,5,22,1
+NuPS/2,FC Kirkkonummi/2,2,0,5,22,1
+FC WILD/2,KaPy,4,1,5,22,1
+PEF,NuPS/2,1,2,5,22,1
+FC Kirkkonummi/2,EPS/2,3,1,5,22,1
+KaPy,EsPa/Keltavihree,1,6,5,22,1
+ViTa,Olarin Kiksi,5,1,5,22,1
+KJS,FC WILD/2,0,7,5,22,1
+KaPy,ViTa,7,1,5,22,1
+FC WILD/2,KJS,7,1,5,22,1
+Olarin Kiksi,EPS/2,3,1,5,22,1
+EsPa/Keltavihree,FC Kirkkonummi/2,1,3,5,22,1
+KaPy,KJS,0,1,5,22,1
+FC WILD/2,PEF,2,2,5,22,1
+Olarin Kiksi,ViTa,6,0,5,22,1
+EPS/2,NuPS/2,2,2,5,22,1
+PEF,KaPy,3,4,5,22,1
+FC Kirkkonummi/2,Olarin Kiksi,3,3,5,22,1
+KJS,EsPa/Keltavihree,3,8,5,22,1
+ViTa,FC WILD/2,0,7,5,22,1
+Olarin Kiksi,NuPS/2,1,3,5,22,1
+KJS,EPS/2,6,1,5,22,1
+PEF,FC Kirkkonummi/2,8,2,5,22,1
+FC WILD/2,EsPa/Keltavihree,0,2,5,22,1
+EPS/2,PEF,2,1,5,22,1
+FC Kirkkonummi/2,KaPy,2,2,5,22,1
+EsPa/Keltavihree,Olarin Kiksi,4,1,5,22,1
+ViTa,KJS,4,1,5,22,1
+NuPS/2,FC WILD/2,3,2,5,22,1
+Olarin Kiksi,PEF,1,3,5,22,1
+EsPa/Keltavihree,ViTa,15,0,5,22,1
+KaPy,EPS/2,4,1,5,22,1
+KJS,NuPS/2,1,2,5,22,1
+FC WILD/2,FC Kirkkonummi/2,10,0,5,22,1
+FC Kirkkonummi/2,ViTa,4,2,5,22,1
+Olarin Kiksi,FC WILD/2,5,0,5,22,1
+EPS/2,EsPa/Keltavihree,0,2,5,22,1
+NuPS/2,KaPy,3,1,5,22,1
+PEF,ViTa,4,2,5,22,1
+EsPa/Keltavihree,NuPS/2,3,4,5,22,1
+KaPy,Olarin Kiksi,3,4,5,22,1
+KJS,FC Kirkkonummi/2,1,1,5,22,1
+FC WILD/2,EPS/2,8,0,5,22,1
+PEF,EsPa/Keltavihree,3,4,5,22,1
+FC Kirkkonummi/2,NuPS/2,2,2,5,22,1
+EPS/2,ViTa,1,1,5,22,1
+KaPy,FC WILD/2,3,2,5,22,1
+KJS,Olarin Kiksi,2,4,5,22,1
+EPS/2,FC Kirkkonummi/2,0,2,5,22,1
+EsPa/Keltavihree,KaPy,1,1,5,22,1
+NuPS/2,PEF,0,1,5,22,1
+PPV/Seos,Kasiysi,0,2,5,22,2
+Pöxyt/TN,PPJ/LeJa,2,9,5,22,2
+EsPa/Renat,LePa/2,3,2,5,22,2
+Atleettiklubi,FC POHU/Regents,5,5,5,22,2
+GrIFK/2,PEP,3,6,5,22,2
+PEP,PPV/Seos,2,2,5,22,2
+Kasiysi,EsPa/Renat,0,8,5,22,2
+PPJ/LeJa,GrIFK/2,7,0,5,22,2
+FC POHU/Regents,Pöxyt/TN,4,10,5,22,2
+LePa/2,Atleettiklubi,6,0,5,22,2
+EsPa/Renat,PEP,3,0,5,22,2
+PPJ/LeJa,Kasiysi,7,1,5,22,2
+Pöxyt/TN,PPV/Seos,7,2,5,22,2
+Atleettiklubi,GrIFK/2,1,9,5,22,2
+LePa/2,FC POHU/Regents,4,2,5,22,2
+PEP,Pöxyt/TN,3,7,5,22,2
+Kasiysi,LePa/2,4,2,5,22,2
+PPV/Seos,Atleettiklubi,3,5,5,22,2
+FC POHU/Regents,PPJ/LeJa,1,5,5,22,2
+GrIFK/2,EsPa/Renat,4,8,5,22,2
+EsPa/Renat,PPJ/LeJa,6,2,5,22,2
+PPV/Seos,FC POHU/Regents,3,1,5,22,2
+Pöxyt/TN,Kasiysi,10,6,5,22,2
+Atleettiklubi,PEP,2,2,5,22,2
+LePa/2,GrIFK/2,0,1,5,22,2
+EsPa/Renat,Pöxyt/TN,2,0,5,22,2
+PEP,LePa/2,0,2,5,22,2
+Kasiysi,FC POHU/Regents,3,1,5,22,2
+PPJ/LeJa,Atleettiklubi,4,0,5,22,2
+Kasiysi,PPJ/LeJa,4,3,5,22,2
+GrIFK/2,PPV/Seos,10,0,5,22,2
+FC POHU/Regents,PEP,4,2,5,22,2
+PPV/Seos,EsPa/Renat,1,9,5,22,2
+Pöxyt/TN,GrIFK/2,3,6,5,22,2
+Atleettiklubi,Kasiysi,2,4,5,22,2
+LePa/2,PPJ/LeJa,7,2,5,22,2
+Kasiysi,PEP,1,5,5,22,2
+PPJ/LeJa,PPV/Seos,2,2,5,22,2
+FC POHU/Regents,GrIFK/2,4,6,5,22,2
+Atleettiklubi,EsPa/Renat,2,10,5,22,2
+LePa/2,Pöxyt/TN,1,2,5,22,2
+EsPa/Renat,FC POHU/Regents,13,0,5,22,2
+PEP,PPJ/LeJa,2,0,5,22,2
+Pöxyt/TN,Atleettiklubi,2,5,5,22,2
+PPV/Seos,LePa/2,1,3,5,22,2
+GrIFK/2,Kasiysi,2,1,5,22,2
+PEP,FC POHU/Regents,2,1,5,22,2
+PEP,GrIFK/2,1,3,5,22,2
+PPJ/LeJa,Pöxyt/TN,6,2,5,22,2
+FC POHU/Regents,Atleettiklubi,1,7,5,22,2
+LePa/2,EsPa/Renat,0,4,5,22,2
+Atleettiklubi,PPJ/LeJa,2,5,5,22,2
+EsPa/Renat,Kasiysi,3,1,5,22,2
+Atleettiklubi,LePa/2,0,7,5,22,2
+PPV/Seos,PEP,0,1,5,22,2
+GrIFK/2,PPJ/LeJa,1,0,5,22,2
+PEP,EsPa/Renat,1,2,5,22,2
+FC POHU/Regents,LePa/2,2,7,5,22,2
+PPV/Seos,Pöxyt/TN,3,0,5,22,2
+GrIFK/2,Atleettiklubi,3,1,5,22,2
+EsPa/Renat,GrIFK/2,2,2,5,22,2
+PPJ/LeJa,FC POHU/Regents,4,2,5,22,2
+Pöxyt/TN,PEP,1,0,5,22,2
+Atleettiklubi,PPV/Seos,7,1,5,22,2
+LePa/2,Kasiysi,4,0,5,22,2
+PEP,Atleettiklubi,0,4,5,22,2
+FC POHU/Regents,PPV/Seos,0,3,5,22,2
+Kasiysi,Pöxyt/TN,2,1,5,22,2
+GrIFK/2,LePa/2,5,3,5,22,2
+PPJ/LeJa,EsPa/Renat,0,3,5,22,2
+FC POHU/Regents,Kasiysi,1,5,5,22,2
+PPV/Seos,GrIFK/2,5,1,5,22,2
+Pöxyt/TN,EsPa/Renat,0,8,5,22,2
+LePa/2,PEP,5,1,5,22,2
+EsPa/Renat,PPV/Seos,2,0,5,22,2
+Kasiysi,Atleettiklubi,2,7,5,22,2
+PPJ/LeJa,LePa/2,2,0,5,22,2
+GrIFK/2,Pöxyt/TN,4,1,5,22,2
+EsPa/Renat,Atleettiklubi,3,2,5,22,2
+PEP,Kasiysi,3,2,5,22,2
+Pöxyt/TN,LePa/2,3,6,5,22,2
+PPV/Seos,PPJ/LeJa,2,8,5,22,2
+GrIFK/2,FC POHU/Regents,9,1,5,22,2
+Kasiysi,GrIFK/2,2,2,5,22,2
+PPJ/LeJa,PEP,4,1,5,22,2
+FC POHU/Regents,EsPa/Renat,1,6,5,22,2
+Atleettiklubi,Pöxyt/TN,3,2,5,22,2
+LePa/2,PPV/Seos,5,0,5,22,2
+PPJ/Lauttasaari,FC POHU/Futboleros,5,3,5,22,3
+FC POHU/Futboleros,Ponnistus/2,4,3,5,22,3
+HJK/Kantsu,FC FC,5,1,5,22,3
+PPJ/Lauttasaari,FC Babylon,5,0,5,22,3
+CLE,PPV,6,1,5,22,3
+EsPa/United,FC Puimur/2,3,3,5,22,3
+FC Babylon,CLE,1,2,5,22,3
+Ponnistus/2,PPJ/Lauttasaari,0,8,5,22,3
+PPV,HJK/Kantsu,0,6,5,22,3
+FC Puimur/2,FC POHU/Futboleros,6,1,5,22,3
+FC FC,EsPa/United,6,1,5,22,3
+PPV,PPJ/Lauttasaari,3,3,5,22,3
+CLE,FC POHU/Futboleros,6,0,5,22,3
+HJK/Kantsu,FC POHU/Futboleros,9,0,5,22,3
+CLE,EsPa/United,11,0,5,22,3
+FC Babylon,PPV,1,1,5,22,3
+FC FC,Ponnistus/2,0,4,5,22,3
+PPJ/Lauttasaari,FC Puimur/2,13,1,5,22,3
+EsPa/United,PPJ/Lauttasaari,0,4,5,22,3
+FC Puimur/2,HJK/Kantsu,3,5,5,22,3
+PPV,FC FC,6,2,5,22,3
+FC POHU/Futboleros,CLE,1,3,5,22,3
+Ponnistus/2,FC Babylon,1,3,5,22,3
+CLE,PPJ/Lauttasaari,1,3,5,22,3
+HJK/Kantsu,Ponnistus/2,7,2,5,22,3
+FC Babylon,EsPa/United,1,0,5,22,3
+FC POHU/Futboleros,PPV,3,3,5,22,3
+CLE,FC Puimur/2,4,2,5,22,3
+PPJ/Lauttasaari,FC FC,2,0,5,22,3
+FC Puimur/2,FC Babylon,3,2,5,22,3
+Ponnistus/2,PPV,3,0,5,22,3
+FC FC,CLE,1,6,5,22,3
+EsPa/United,FC POHU/Futboleros,4,2,5,22,3
+PPJ/Lauttasaari,HJK/Kantsu,2,0,5,22,3
+FC POHU/Futboleros,PPJ/Lauttasaari,1,11,5,22,3
+HJK/Kantsu,EsPa/United,6,1,5,22,3
+FC Babylon,FC FC,1,0,5,22,3
+CLE,Ponnistus/2,1,0,5,22,3
+PPV,FC Puimur/2,2,1,5,22,3
+Ponnistus/2,FC Puimur/2,3,2,5,22,3
+PPV,EsPa/United,1,4,5,22,3
+FC Babylon,HJK/Kantsu,2,2,5,22,3
+FC FC,FC POHU/Futboleros,1,2,5,22,3
+HJK/Kantsu,CLE,1,1,5,22,3
+FC POHU/Futboleros,FC Babylon,3,4,5,22,3
+FC Puimur/2,FC FC,2,4,5,22,3
+EsPa/United,Ponnistus/2,3,1,5,22,3
+PPJ/Lauttasaari,PPV,7,1,5,22,3
+CLE,HJK/Kantsu,0,0,5,22,3
+FC FC,FC Puimur/2,0,3,5,22,3
+Ponnistus/2,EsPa/United,2,0,5,22,3
+FC Babylon,PPJ/Lauttasaari,1,2,5,22,3
+PPV,CLE,2,6,5,22,3
+Ponnistus/2,FC POHU/Futboleros,4,1,5,22,3
+FC Puimur/2,EsPa/United,3,3,5,22,3
+FC FC,HJK/Kantsu,0,3,5,22,3
+EsPa/United,FC FC,8,1,5,22,3
+HJK/Kantsu,PPV,9,1,5,22,3
+FC POHU/Futboleros,FC Puimur/2,3,3,5,22,3
+CLE,FC Babylon,4,2,5,22,3
+PPJ/Lauttasaari,Ponnistus/2,2,2,5,22,3
+EsPa/United,CLE,1,6,5,22,3
+PPV,FC Babylon,1,2,5,22,3
+FC POHU/Futboleros,HJK/Kantsu,1,6,5,22,3
+FC Puimur/2,PPJ/Lauttasaari,2,5,5,22,3
+Ponnistus/2,FC FC,2,0,5,22,3
+HJK/Kantsu,FC Puimur/2,9,2,5,22,3
+FC Babylon,Ponnistus/2,0,2,5,22,3
+FC FC,PPV,1,6,5,22,3
+PPJ/Lauttasaari,EsPa/United,4,2,5,22,3
+EsPa/United,FC Babylon,3,1,5,22,3
+Ponnistus/2,HJK/Kantsu,2,5,5,22,3
+FC Puimur/2,CLE,0,2,5,22,3
+FC FC,PPJ/Lauttasaari,0,3,5,22,3
+PPV,FC POHU/Futboleros,3,5,5,22,3
+HJK/Kantsu,PPJ/Lauttasaari,1,1,5,22,3
+FC Babylon,FC Puimur/2,2,2,5,22,3
+CLE,FC FC,6,1,5,22,3
+PPV,Ponnistus/2,3,0,5,22,3
+FC POHU/Futboleros,EsPa/United,2,3,5,22,3
+FC Puimur/2,PPV,3,1,5,22,3
+Ponnistus/2,CLE,3,4,5,22,3
+EsPa/United,HJK/Kantsu,1,5,5,22,3
+FC FC,FC Babylon,0,6,5,22,3
+HJK/Kantsu,FC Babylon,1,1,5,22,3
+FC POHU/Futboleros,FC FC,4,1,5,22,3
+EsPa/United,PPV,1,2,5,22,3
+PPJ/Lauttasaari,CLE,4,0,5,22,3
+FC Puimur/2,Ponnistus/2,1,5,5,22,3
+FC Babylon,FC POHU/Futboleros,6,1,5,22,3
+HJK/Yellow,FC Kiffen/2,2,3,5,22,4
+Vesa/Töölö,HePu,5,3,5,22,4
+Colo-Colo,FC POHU/Simpsons,1,1,5,22,4
+FC Germania,FC Kiffen/2,2,3,5,22,4
+Etu-Töölön Urhot,Ellas,1,1,5,22,4
+Tavastia,HJK/Yellow,6,2,5,22,4
+Etu-Töölön Urhot,HJK/Yellow,0,3,5,22,4
+Ellas,FC Germania,1,3,5,22,4
+HJK/Yellow,Colo-Colo,0,4,5,22,4
+FC POHU/Simpsons,Vesa/Töölö,3,0,5,22,4
+FC Kiffen/2,Tavastia,4,4,5,22,4
+HePu,Etu-Töölön Urhot,2,4,5,22,4
+FC POHU/Simpsons,HePu,7,0,5,22,4
+Vesa/Töölö,FC Germania,3,2,5,22,4
+Colo-Colo,FC Kiffen/2,2,2,5,22,4
+Etu-Töölön Urhot,Tavastia,1,0,5,22,4
+Ellas,HJK/Yellow,1,0,5,22,4
+Vesa/Töölö,Colo-Colo,2,3,5,22,4
+HJK/Yellow,FC POHU/Simpsons,1,4,5,22,4
+FC Germania,Colo-Colo,1,2,5,22,4
+Tavastia,Vesa/Töölö,1,0,5,22,4
+FC Kiffen/2,Etu-Töölön Urhot,2,4,5,22,4
+HePu,Ellas,1,2,5,22,4
+FC POHU/Simpsons,FC Germania,0,3,5,22,4
+Tavastia,HePu,1,0,5,22,4
+Colo-Colo,Ellas,1,2,5,22,4
+Vesa/Töölö,FC Kiffen/2,1,2,5,22,4
+Ellas,Vesa/Töölö,2,4,5,22,4
+HJK/Yellow,HePu,2,2,5,22,4
+Colo-Colo,Etu-Töölön Urhot,4,4,5,22,4
+FC Kiffen/2,FC POHU/Simpsons,0,5,5,22,4
+FC Germania,Tavastia,1,0,5,22,4
+Etu-Töölön Urhot,FC Germania,0,4,5,22,4
+Tavastia,Colo-Colo,2,2,5,22,4
+FC POHU/Simpsons,Ellas,4,2,5,22,4
+Vesa/Töölö,HJK/Yellow,2,1,5,22,4
+HePu,FC Kiffen/2,2,2,5,22,4
+FC POHU/Simpsons,Etu-Töölön Urhot,1,4,5,22,4
+Ellas,Tavastia,0,2,5,22,4
+HePu,FC Germania,1,2,5,22,4
+Tavastia,FC POHU/Simpsons,2,1,5,22,4
+Etu-Töölön Urhot,Vesa/Töölö,7,1,5,22,4
+FC Germania,HJK/Yellow,2,0,5,22,4
+FC Kiffen/2,Ellas,1,5,5,22,4
+Colo-Colo,HePu,0,1,5,22,4
+Etu-Töölön Urhot,FC POHU/Simpsons,1,1,5,22,4
+Tavastia,Ellas,3,1,5,22,4
+FC Kiffen/2,HJK/Yellow,4,1,5,22,4
+Colo-Colo,Vesa/Töölö,7,2,5,22,4
+FC Germania,HePu,1,1,5,22,4
+FC POHU/Simpsons,Colo-Colo,3,2,5,22,4
+HJK/Yellow,Tavastia,1,1,5,22,4
+FC Kiffen/2,FC Germania,3,5,5,22,4
+Ellas,Etu-Töölön Urhot,2,6,5,22,4
+HePu,Vesa/Töölö,4,1,5,22,4
+Etu-Töölön Urhot,HePu,0,5,5,22,4
+Tavastia,FC Kiffen/2,5,0,5,22,4
+Vesa/Töölö,FC POHU/Simpsons,3,0,5,22,4
+Colo-Colo,HJK/Yellow,5,1,5,22,4
+FC Germania,Ellas,0,1,5,22,4
+HePu,FC POHU/Simpsons,2,1,5,22,4
+FC Kiffen/2,Colo-Colo,3,2,5,22,4
+HJK/Yellow,Ellas,0,1,5,22,4
+FC Germania,Vesa/Töölö,3,1,5,22,4
+Tavastia,Etu-Töölön Urhot,1,3,5,22,4
+Etu-Töölön Urhot,FC Kiffen/2,14,0,5,22,4
+Vesa/Töölö,Tavastia,7,2,5,22,4
+FC POHU/Simpsons,HJK/Yellow,1,1,5,22,4
+Ellas,HePu,0,1,5,22,4
+Colo-Colo,FC Germania,2,2,5,22,4
+Ellas,Colo-Colo,2,1,5,22,4
+FC Kiffen/2,Vesa/Töölö,2,5,5,22,4
+HJK/Yellow,Etu-Töölön Urhot,8,2,5,22,4
+FC Germania,FC POHU/Simpsons,2,3,5,22,4
+HePu,Tavastia,2,0,5,22,4
+Etu-Töölön Urhot,Colo-Colo,2,2,5,22,4
+Vesa/Töölö,Ellas,2,3,5,22,4
+FC POHU/Simpsons,FC Kiffen/2,10,0,5,22,4
+HePu,HJK/Yellow,1,2,5,22,4
+Tavastia,FC Germania,2,4,5,22,4
+HJK/Yellow,Vesa/Töölö,3,2,5,22,4
+Ellas,FC POHU/Simpsons,1,2,5,22,4
+Colo-Colo,Tavastia,0,2,5,22,4
+FC Kiffen/2,HePu,1,1,5,22,4
+FC Germania,Etu-Töölön Urhot,2,0,5,22,4
+HJK/Yellow,FC Germania,2,3,5,22,4
+FC POHU/Simpsons,Tavastia,2,2,5,22,4
+Ellas,FC Kiffen/2,1,2,5,22,4
+HePu,Colo-Colo,0,0,5,22,4
+Vesa/Töölö,Etu-Töölön Urhot,4,1,5,22,4
+Käpylä Maanantai,FC KaKe,4,3,5,22,5
+Jokerit FC,FC Hieho,2,5,5,22,5
+ToTe/Ratapihan Dynamo,HJK/Lsalo,1,11,5,22,5
+FC POHU/KY United,SAPA/2,7,2,5,22,5
+LPS/Kuninkaat,FC Spital,0,0,5,22,5
+HJK/Lsalo,FC KaKe,5,1,5,22,5
+FC Hieho,LPS/Kuninkaat,2,1,5,22,5
+SAPA/2,Jokerit FC,4,2,5,22,5
+FC Spital,ToTe/Ratapihan Dynamo,3,1,5,22,5
+FC KaKe,FC POHU/KY United,2,6,5,22,5
+HJK/Lsalo,Käpylä Maanantai,4,1,5,22,5
+FC Spital,LPS/Kuninkaat,2,0,5,22,5
+ToTe/Ratapihan Dynamo,FC POHU/KY United,5,2,5,22,5
+FC KaKe,FC Hieho,1,2,5,22,5
+LPS/Kuninkaat,SAPA/2,0,2,5,22,5
+FC Spital,HJK/Lsalo,4,4,5,22,5
+Käpylä Maanantai,Jokerit FC,1,1,5,22,5
+SAPA/2,Käpylä Maanantai,1,0,5,22,5
+Jokerit FC,ToTe/Ratapihan Dynamo,5,2,5,22,5
+FC Hieho,FC Spital,2,1,5,22,5
+FC POHU/KY United,HJK/Lsalo,0,2,5,22,5
+Jokerit FC,HJK/Lsalo,3,6,5,22,5
+FC Spital,FC POHU/KY United,1,1,5,22,5
+ToTe/Ratapihan Dynamo,SAPA/2,3,8,5,22,5
+LPS/Kuninkaat,FC KaKe,2,2,5,22,5
+Käpylä Maanantai,FC Hieho,2,4,5,22,5
+SAPA/2,FC Spital,2,1,5,22,5
+FC POHU/KY United,Jokerit FC,0,0,5,22,5
+LPS/Kuninkaat,Käpylä Maanantai,6,2,5,22,5
+FC KaKe,ToTe/Ratapihan Dynamo,2,2,5,22,5
+FC Hieho,HJK/Lsalo,3,5,5,22,5
+Käpylä Maanantai,FC POHU/KY United,0,2,5,22,5
+Jokerit FC,LPS/Kuninkaat,2,2,5,22,5
+HJK/Lsalo,SAPA/2,3,1,5,22,5
+ToTe/Ratapihan Dynamo,FC Hieho,3,5,5,22,5
+FC Spital,FC KaKe,4,1,5,22,5
+FC Hieho,SAPA/2,4,1,5,22,5
+ToTe/Ratapihan Dynamo,LPS/Kuninkaat,1,5,5,22,5
+HJK/Lsalo,FC POHU/KY United,2,2,5,22,5
+FC Spital,Käpylä Maanantai,2,2,5,22,5
+FC KaKe,Jokerit FC,0,1,5,22,5
+SAPA/2,FC KaKe,7,1,5,22,5
+LPS/Kuninkaat,HJK/Lsalo,7,4,5,22,5
+Jokerit FC,FC Spital,1,2,5,22,5
+FC POHU/KY United,FC Hieho,2,2,5,22,5
+Käpylä Maanantai,ToTe/Ratapihan Dynamo,1,2,5,22,5
+LPS/Kuninkaat,Jokerit FC,2,2,5,22,5
+SAPA/2,HJK/Lsalo,4,7,5,22,5
+FC Hieho,ToTe/Ratapihan Dynamo,3,0,5,22,5
+FC KaKe,FC Spital,1,6,5,22,5
+FC Hieho,Jokerit FC,2,0,5,22,5
+SAPA/2,FC POHU/KY United,1,3,5,22,5
+FC KaKe,Käpylä Maanantai,5,0,5,22,5
+HJK/Lsalo,ToTe/Ratapihan Dynamo,4,0,5,22,5
+LPS/Kuninkaat,FC Hieho,5,1,5,22,5
+Jokerit FC,SAPA/2,0,4,5,22,5
+FC POHU/KY United,FC KaKe,2,1,5,22,5
+Käpylä Maanantai,HJK/Lsalo,1,2,5,22,5
+ToTe/Ratapihan Dynamo,FC Spital,1,3,5,22,5
+FC POHU/KY United,ToTe/Ratapihan Dynamo,7,1,5,22,5
+Jokerit FC,Käpylä Maanantai,2,2,5,22,5
+FC Hieho,FC KaKe,5,0,5,22,5
+SAPA/2,LPS/Kuninkaat,2,3,5,22,5
+HJK/Lsalo,FC Spital,3,4,5,22,5
+Käpylä Maanantai,SAPA/2,2,0,5,22,5
+LPS/Kuninkaat,FC POHU/KY United,1,1,5,22,5
+FC Spital,FC Hieho,1,3,5,22,5
+FC KaKe,HJK/Lsalo,2,4,5,22,5
+ToTe/Ratapihan Dynamo,Jokerit FC,7,0,5,22,5
+FC Hieho,Käpylä Maanantai,3,1,5,22,5
+FC POHU/KY United,FC Spital,0,2,5,22,5
+HJK/Lsalo,Jokerit FC,6,2,5,22,5
+SAPA/2,ToTe/Ratapihan Dynamo,1,1,5,22,5
+FC KaKe,LPS/Kuninkaat,2,6,5,22,5
+HJK/Lsalo,FC Hieho,3,3,5,22,5
+Jokerit FC,FC POHU/KY United,1,2,5,22,5
+FC Spital,SAPA/2,3,0,5,22,5
+Käpylä Maanantai,LPS/Kuninkaat,1,6,5,22,5
+ToTe/Ratapihan Dynamo,FC KaKe,1,1,5,22,5
+Jokerit FC,FC KaKe,7,1,5,22,5
+Käpylä Maanantai,FC Spital,1,5,5,22,5
+SAPA/2,FC Hieho,1,2,5,22,5
+LPS/Kuninkaat,ToTe/Ratapihan Dynamo,0,1,5,22,5
+HJK/Lsalo,LPS/Kuninkaat,2,3,5,22,5
+FC KaKe,SAPA/2,1,4,5,22,5
+FC Spital,Jokerit FC,6,0,5,22,5
+ToTe/Ratapihan Dynamo,Käpylä Maanantai,3,0,5,22,5
+FC Hieho,FC POHU/KY United,1,1,5,22,5
+SUMU,MPS/Atletico Akatemia,4,2,5,22,6
+I-HK,FC Kontu/KoVa,2,3,5,22,6
+LPS/2,I-HK,1,2,5,22,6
+FC Kontu/KoVa,PuiU/86,9,2,5,22,6
+Atlantis FC/PM,SUMU,5,0,5,22,6
+MPS/Atletico Akatemia,FC Viikingit/Mordor,2,3,5,22,6
+FC Kontu/KoVa,LPS/2,3,1,5,22,6
+SUMU,I-HK,2,5,5,22,6
+FC Viikingit/Mordor,FC Kontu/KoVa,1,5,5,22,6
+Atlantis FC/PM,MPS/Atletico Akatemia,7,1,5,22,6
+MPS/Atletico Akatemia,LPS/2,4,4,5,22,6
+I-HK,FC Viikingit/Mordor,9,3,5,22,6
+PuiU/86,SUMU,2,3,5,22,6
+PuiU/86,MPS/Atletico Akatemia,2,5,5,22,6
+SUMU,FC Kontu/KoVa,1,0,5,22,6
+FC Viikingit/Mordor,LPS/2,1,3,5,22,6
+Atlantis FC/PM,I-HK,2,2,5,22,6
+I-HK,PuiU/86,3,0,5,22,6
+LPS/2,SUMU,4,1,5,22,6
+FC Kontu/KoVa,Atlantis FC/PM,0,6,5,22,6
+MPS/Atletico Akatemia,FC Kontu/KoVa,3,0,5,22,6
+PuiU/86,FC Viikingit/Mordor,1,1,5,22,6
+Atlantis FC/PM,LPS/2,8,0,5,22,6
+LPS/2,PuiU/86,1,3,5,22,6
+SUMU,FC Viikingit/Mordor,2,2,5,22,6
+MPS/Atletico Akatemia,I-HK,3,2,5,22,6
+FC Viikingit/Mordor,Atlantis FC/PM,1,3,5,22,6
+PuiU/86,Atlantis FC/PM,0,6,5,22,6
+FC Viikingit/Mordor,MPS/Atletico Akatemia,4,0,5,22,6
+LPS/2,FC Kontu/KoVa,1,6,5,22,6
+Atlantis FC/PM,PuiU/86,5,3,5,22,6
+MPS/Atletico Akatemia,SUMU,2,1,5,22,6
+FC Kontu/KoVa,I-HK,2,6,5,22,6
+SUMU,Atlantis FC/PM,2,1,5,22,6
+PuiU/86,FC Kontu/KoVa,3,6,5,22,6
+I-HK,LPS/2,5,2,5,22,6
+MPS/Atletico Akatemia,Atlantis FC/PM,2,10,5,22,6
+FC Kontu/KoVa,FC Viikingit/Mordor,2,0,5,22,6
+SUMU,PuiU/86,1,2,5,22,6
+FC Viikingit/Mordor,I-HK,2,2,5,22,6
+LPS/2,MPS/Atletico Akatemia,2,2,5,22,6
+MPS/Atletico Akatemia,PuiU/86,1,3,5,22,6
+I-HK,Atlantis FC/PM,0,11,5,22,6
+FC Kontu/KoVa,SUMU,3,2,5,22,6
+LPS/2,FC Viikingit/Mordor,2,2,5,22,6
+PuiU/86,I-HK,4,3,5,22,6
+SUMU,LPS/2,4,5,5,22,6
+Atlantis FC/PM,FC Kontu/KoVa,8,1,5,22,6
+FC Viikingit/Mordor,PuiU/86,2,1,5,22,6
+FC Kontu/KoVa,MPS/Atletico Akatemia,0,4,5,22,6
+LPS/2,Atlantis FC/PM,0,7,5,22,6
+I-HK,MPS/Atletico Akatemia,3,0,5,22,6
+PuiU/86,LPS/2,0,6,5,22,6
+FC Viikingit/Mordor,SUMU,1,1,5,22,6
+PK-09,RiRa,1,5,5,22,7
+PPS,RiPS/2,3,2,5,22,7
+KP-75/SaPo,Ares -86,4,2,5,22,7
+KoiPS/Dynamo,TuPS/2,4,2,5,22,7
+I-HK/Sensaatio,KP-75/SaPo,1,1,5,22,7
+RiPS/2,KoiPS/Dynamo,3,0,5,22,7
+Ares -86,PPS,0,3,5,22,7
+TuPS/2,PK-09,2,1,5,22,7
+I-HK/Sensaatio,Ares -86,1,4,5,22,7
+KP-75/SaPo,KoiPS/Dynamo,2,4,5,22,7
+RiPS/2,RiRa,2,2,5,22,7
+PPS,PK-09,3,0,5,22,7
+PK-09,KP-75/SaPo,0,5,5,22,7
+RiRa,I-HK/Sensaatio,6,0,5,22,7
+Ares -86,RiPS/2,1,1,5,22,7
+TuPS/2,PPS,1,5,5,22,7
+I-HK/Sensaatio,KoiPS/Dynamo,1,1,5,22,7
+PK-09,Ares -86,1,1,5,22,7
+KP-75/SaPo,TuPS/2,3,3,5,22,7
+PPS,RiRa,1,2,5,22,7
+KoiPS/Dynamo,PK-09,5,1,5,22,7
+RiPS/2,KP-75/SaPo,4,1,5,22,7
+RiRa,Ares -86,5,3,5,22,7
+TuPS/2,I-HK/Sensaatio,2,0,5,22,7
+I-HK/Sensaatio,RiPS/2,2,8,5,22,7
+KP-75/SaPo,RiRa,4,6,5,22,7
+PPS,KoiPS/Dynamo,8,2,5,22,7
+Ares -86,TuPS/2,3,2,5,22,7
+I-HK/Sensaatio,PPS,1,2,5,22,7
+RiRa,TuPS/2,2,0,5,22,7
+RiPS/2,PK-09,10,1,5,22,7
+Ares -86,KoiPS/Dynamo,1,1,5,22,7
+PK-09,I-HK/Sensaatio,3,1,5,22,7
+KoiPS/Dynamo,RiRa,2,2,5,22,7
+TuPS/2,RiPS/2,1,2,5,22,7
+PPS,KP-75/SaPo,5,1,5,22,7
+RiPS/2,PPS,4,3,5,22,7
+Ares -86,KP-75/SaPo,4,2,5,22,7
+RiRa,PK-09,4,1,5,22,7
+TuPS/2,KoiPS/Dynamo,2,4,5,22,7
+PPS,I-HK/Sensaatio,9,3,5,22,7
+PK-09,TuPS/2,1,1,5,22,7
+KP-75/SaPo,I-HK/Sensaatio,6,2,5,22,7
+KoiPS/Dynamo,RiPS/2,2,4,5,22,7
+PPS,Ares -86,3,0,5,22,7
+PK-09,PPS,1,2,5,22,7
+RiRa,RiPS/2,5,1,5,22,7
+KoiPS/Dynamo,KP-75/SaPo,1,3,5,22,7
+Ares -86,I-HK/Sensaatio,3,2,5,22,7
+I-HK/Sensaatio,RiRa,1,8,5,22,7
+KP-75/SaPo,PK-09,8,4,5,22,7
+RiPS/2,Ares -86,1,4,5,22,7
+PPS,TuPS/2,2,1,5,22,7
+TuPS/2,KP-75/SaPo,3,3,5,22,7
+RiRa,PPS,6,1,5,22,7
+KoiPS/Dynamo,I-HK/Sensaatio,4,1,5,22,7
+Ares -86,PK-09,1,3,5,22,7
+I-HK/Sensaatio,TuPS/2,0,4,5,22,7
+PK-09,KoiPS/Dynamo,4,1,5,22,7
+KP-75/SaPo,RiPS/2,3,2,5,22,7
+Ares -86,RiRa,1,7,5,22,7
+RiRa,KP-75/SaPo,3,0,5,22,7
+KoiPS/Dynamo,PPS,1,2,5,22,7
+RiPS/2,I-HK/Sensaatio,2,0,5,22,7
+TuPS/2,Ares -86,8,3,5,22,7
+TuPS/2,RiRa,2,4,5,22,7
+KoiPS/Dynamo,Ares -86,10,0,5,22,7
+PK-09,RiPS/2,0,2,5,22,7
+I-HK/Sensaatio,PK-09,2,3,5,22,7
+KP-75/SaPo,PPS,0,1,5,22,7
+RiRa,KoiPS/Dynamo,3,0,5,22,7
+RiPS/2,TuPS/2,2,0,5,22,7
+HaTP,Union Plaani/17,3,4,5,22,8
+Nopsa,Korian Klubi,6,4,5,22,8
+KelA,Kiri,6,2,5,22,8
+FC Kuusysi/2,JäPS/U23,2,6,5,22,8
+Jäppärä,KelA,0,1,5,22,8
+Kiri,Nopsa,10,0,5,22,8
+Korian Klubi,FC Kuusysi/2,5,1,5,22,8
+JäPS/U23,HaTP,18,2,5,22,8
+KelA,Union Plaani/17,5,1,5,22,8
+Kiri,Korian Klubi,6,2,5,22,8
+Nopsa,HaTP,4,1,5,22,8
+JäPS/U23,Jäppärä,1,2,5,22,8
+Union Plaani/17,FC Kuusysi/2,6,2,5,22,8
+HaTP,KelA,0,20,5,22,8
+Jäppärä,Kiri,2,2,5,22,8
+Korian Klubi,JäPS/U23,4,2,5,22,8
+KelA,JäPS/U23,6,1,5,22,8
+Nopsa,Union Plaani/17,1,3,5,22,8
+Kiri,HaTP,8,3,5,22,8
+Jäppärä,FC Kuusysi/2,6,3,5,22,8
+KelA,FC Kuusysi/2,6,0,5,22,8
+Jäppärä,Korian Klubi,1,5,5,22,8
+Union Plaani/17,Kiri,5,3,5,22,8
+JäPS/U23,Nopsa,3,1,5,22,8
+KelA,Jäppärä,6,0,5,22,8
+Jäppärä,Nopsa,8,0,5,22,8
+Kiri,JäPS/U23,3,2,5,22,8
+Korian Klubi,Union Plaani/17,3,1,5,22,8
+FC Kuusysi/2,HaTP,6,0,5,22,8
+Jäppärä,Union Plaani/17,1,2,5,22,8
+Kiri,FC Kuusysi/2,7,1,5,22,8
+Korian Klubi,HaTP,3,1,5,22,8
+HaTP,Jäppärä,1,6,5,22,8
+Union Plaani/17,JäPS/U23,3,2,5,22,8
+FC Kuusysi/2,Nopsa,5,0,5,22,8
+KelA,Korian Klubi,4,0,5,22,8
+Jäppärä,HaTP,7,1,5,22,8
+Union Plaani/17,HaTP,7,3,5,22,8
+Kiri,KelA,0,5,5,22,8
+Korian Klubi,Nopsa,3,2,5,22,8
+JäPS/U23,FC Kuusysi/2,6,1,5,22,8
+KelA,Nopsa,4,2,5,22,8
+Union Plaani/17,Jäppärä,3,1,5,22,8
+HaTP,JäPS/U23,0,7,5,22,8
+Nopsa,Kiri,2,2,5,22,8
+FC Kuusysi/2,Korian Klubi,4,1,5,22,8
+HaTP,Nopsa,1,4,5,22,8
+Union Plaani/17,KelA,0,8,5,22,8
+Jäppärä,JäPS/U23,3,5,5,22,8
+Korian Klubi,Kiri,1,8,5,22,8
+KelA,HaTP,8,2,5,22,8
+Kiri,Jäppärä,2,1,5,22,8
+FC Kuusysi/2,Union Plaani/17,3,2,5,22,8
+JäPS/U23,Korian Klubi,8,1,5,22,8
+Korian Klubi,KelA,2,6,5,22,8
+HaTP,Kiri,2,6,5,22,8
+Union Plaani/17,Nopsa,5,2,5,22,8
+FC Kuusysi/2,Jäppärä,3,1,5,22,8
+JäPS/U23,KelA,0,2,5,22,8
+Kiri,Union Plaani/17,7,4,5,22,8
+Korian Klubi,Jäppärä,3,3,5,22,8
+FC Kuusysi/2,KelA,2,7,5,22,8
+Nopsa,JäPS/U23,0,2,5,22,8
+HaTP,FC Kuusysi/2,2,3,5,22,8
+Nopsa,Jäppärä,3,3,5,22,8
+Union Plaani/17,Korian Klubi,0,1,5,22,8
+JäPS/U23,Kiri,4,0,5,22,8
+HaTP,Korian Klubi,1,3,5,22,8
+FC Kuusysi/2,Kiri,0,1,5,22,8
+Nopsa,FC Kuusysi/2,0,3,5,22,8
+JäPS/U23,Union Plaani/17,3,0,5,22,8
+PuM,Olarin Kiksi,2,2,5,21,1
+PEF/KEPU,PuM,0,7,5,21,1
+PEF/KEPU,EPS/2,2,3,5,21,1
+IIF,PuM,7,0,5,21,1
+KaPy,Hukat,0,0,5,21,1
+NuPS/2,Olarin Kiksi,2,1,5,21,1
+EsPa/Keltavihree,FC WILD,1,7,5,21,1
+Olarin Kiksi,KaPy,2,3,5,21,1
+EPS/2,NuPS/2,1,1,5,21,1
+PuM,EsPa/Keltavihree,1,8,5,21,1
+Hukat,PEF/KEPU,5,2,5,21,1
+FC WILD,IIF,7,2,5,21,1
+EPS/2,EsPa/Keltavihree,0,3,5,21,1
+Olarin Kiksi,IIF,2,5,5,21,1
+NuPS/2,KaPy,2,0,5,21,1
+FC WILD,Hukat,10,1,5,21,1
+KaPy,FC WILD,3,0,5,21,1
+PEF/KEPU,Olarin Kiksi,0,3,5,21,1
+Hukat,NuPS/2,1,0,5,21,1
+EPS/2,KaPy,3,0,5,21,1
+IIF,Hukat,4,4,5,21,1
+EsPa/Keltavihree,PEF/KEPU,10,0,5,21,1
+FC WILD,NuPS/2,6,0,5,21,1
+Olarin Kiksi,EPS/2,2,0,5,21,1
+KaPy,IIF,2,2,5,21,1
+Hukat,EsPa/Keltavihree,3,2,5,21,1
+PEF/KEPU,FC WILD,0,13,5,21,1
+NuPS/2,PuM,2,0,5,21,1
+PuM,Hukat,2,0,5,21,1
+EPS/2,FC WILD,1,3,5,21,1
+Olarin Kiksi,EsPa/Keltavihree,0,5,5,21,1
+NuPS/2,IIF,0,4,5,21,1
+PEF/KEPU,KaPy,0,4,5,21,1
+IIF,PEF/KEPU,11,2,5,21,1
+PuM,KaPy,0,5,5,21,1
+Hukat,EPS/2,5,3,5,21,1
+EsPa/Keltavihree,NuPS/2,1,1,5,21,1
+FC WILD,Olarin Kiksi,7,2,5,21,1
+KaPy,EsPa/Keltavihree,0,5,5,21,1
+IIF,EPS/2,3,3,5,21,1
+PuM,FC WILD,1,16,5,21,1
+Hukat,Olarin Kiksi,1,5,5,21,1
+NuPS/2,PEF/KEPU,5,1,5,21,1
+PPV/Seos,FC POHU/Futboleros,2,0,5,21,2
+FC Babylon/2,PEP,2,6,5,21,2
+FC POHU/Futboleros,Pöxyt/TN,2,3,5,21,2
+FC Babylon/2,RiRa/VGS,1,2,5,21,2
+PEP,VJS/2,2,3,5,21,2
+PPV/Seos,Kasiysi/Rocky,1,2,5,21,2
+FC POHU/Futboleros,VJS/2,0,6,5,21,2
+RiRa/VGS,PPV/Seos,2,0,5,21,2
+Kasiysi/Rocky,FC Babylon/2,0,2,5,21,2
+VJS/2,AC Rastaala,2,2,5,21,2
+FC LP,FC POHU/Futboleros,1,1,5,21,2
+Pöxyt/TN,PEP,2,2,5,21,2
+FC POHU/Futboleros,Kasiysi/Rocky,2,5,5,21,2
+FC POHU/Futboleros,RiRa/VGS,0,3,5,21,2
+Kasiysi/Rocky,FC LP,5,0,5,21,2
+PEP,AC Rastaala,1,3,5,21,2
+VJS/2,FC Babylon/2,4,0,5,21,2
+Pöxyt/TN,PPV/Seos,5,2,5,21,2
+PPV/Seos,FC Babylon/2,1,2,5,21,2
+RiRa/VGS,Pöxyt/TN,1,3,5,21,2
+AC Rastaala,Kasiysi/Rocky,7,4,5,21,2
+FC LP,PEP,0,4,5,21,2
+Kasiysi/Rocky,PEP,2,1,5,21,2
+FC LP,FC Babylon/2,6,0,5,21,2
+Pöxyt/TN,AC Rastaala,1,2,5,21,2
+RiRa/VGS,VJS/2,3,4,5,21,2
+VJS/2,Pöxyt/TN,10,3,5,21,2
+PEP,RiRa/VGS,1,1,5,21,2
+AC Rastaala,FC Babylon/2,6,1,5,21,2
+FC LP,PPV/Seos,3,2,5,21,2
+VJS/2,PPV/Seos,1,1,5,21,2
+Pöxyt/TN,Kasiysi/Rocky,3,1,5,21,2
+FC LP,RiRa/VGS,0,5,5,21,2
+FC POHU/Futboleros,AC Rastaala,1,3,5,21,2
+FC Babylon/2,FC POHU/Futboleros,1,2,5,21,2
+RiRa/VGS,AC Rastaala,0,1,5,21,2
+PPV/Seos,PEP,6,0,5,21,2
+Pöxyt/TN,FC LP,7,0,5,21,2
+Kasiysi/Rocky,VJS/2,1,4,5,21,2
+VJS/2,FC LP,5,2,5,21,2
+RiRa/VGS,Kasiysi/Rocky,4,1,5,21,2
+FC Babylon/2,Pöxyt/TN,0,5,5,21,2
+PEP,FC POHU/Futboleros,2,0,5,21,2
+AC Rastaala,PPV/Seos,3,2,5,21,2
+PPJ/Lauttasaari,PETO,2,1,5,21,3
+PPJ/Lauttasaari,KäPa/NoLe,2,2,5,21,3
+PETO,Strikers/Bertil,6,0,5,21,3
+FC POHU/Regents,CLE,1,4,5,21,3
+HJK/Kantsu,PPJ/LeJa,5,5,5,21,3
+FC Puimur/2,FC FC,2,1,5,21,3
+Strikers/Bertil,HJK/Kantsu,0,2,5,21,3
+CLE,FC Puimur/2,3,4,5,21,3
+KäPa/NoLe,PETO,2,1,5,21,3
+FC FC,FC POHU/Regents,1,1,5,21,3
+PPJ/LeJa,PPJ/Lauttasaari,1,3,5,21,3
+PETO,PPJ/LeJa,2,1,5,21,3
+KäPa/NoLe,FC Puimur/2,1,1,5,21,3
+Strikers/Bertil,CLE,0,3,5,21,3
+HJK/Kantsu,FC FC,2,0,5,21,3
+PPJ/LeJa,FC POHU/Regents,1,5,5,21,3
+FC POHU/Regents,FC Puimur/2,4,1,5,21,3
+PPJ/LeJa,FC FC,4,0,5,21,3
+CLE,PETO,1,2,5,21,3
+Strikers/Bertil,PPJ/Lauttasaari,2,7,5,21,3
+HJK/Kantsu,KäPa/NoLe,2,4,5,21,3
+FC Puimur/2,Strikers/Bertil,1,2,5,21,3
+FC POHU/Regents,HJK/Kantsu,1,2,5,21,3
+CLE,PPJ/Lauttasaari,4,2,5,21,3
+FC FC,KäPa/NoLe,3,4,5,21,3
+KäPa/NoLe,FC POHU/Regents,5,1,5,21,3
+KäPa/NoLe,PPJ/LeJa,1,0,5,21,3
+HJK/Kantsu,CLE,4,1,5,21,3
+Strikers/Bertil,FC POHU/Regents,0,2,5,21,3
+PETO,FC Puimur/2,2,1,5,21,3
+PPJ/Lauttasaari,FC FC,3,0,5,21,3
+HJK/Kantsu,PETO,2,3,5,21,3
+Strikers/Bertil,FC FC,1,4,5,21,3
+PPJ/Lauttasaari,FC Puimur/2,1,5,5,21,3
+FC Puimur/2,HJK/Kantsu,0,3,5,21,3
+FC FC,PETO,1,4,5,21,3
+PPJ/LeJa,Strikers/Bertil,2,3,5,21,3
+CLE,KäPa/NoLe,3,3,5,21,3
+FC POHU/Regents,PPJ/Lauttasaari,2,3,5,21,3
+FC Puimur/2,PPJ/LeJa,0,1,5,21,3
+PETO,FC POHU/Regents,2,1,5,21,3
+FC FC,CLE,0,4,5,21,3
+KäPa/NoLe,Strikers/Bertil,6,0,5,21,3
+PPJ/Lauttasaari,HJK/Kantsu,4,2,5,21,3
+HePu,Vesa/Töölö,2,8,5,21,4
+Colo-Colo,ToTe/Ratapihan Dynamo,1,0,5,21,4
+FC POHU/JäPa,HIFK/3,2,1,5,21,4
+HJK/Yellow,FC POHU/JäPa,4,3,5,21,4
+Tavastia,HePu,6,4,5,21,4
+FC Kiffen/2,PK-35/2,0,8,5,21,4
+HJK/Yellow,Vesa/Töölö,1,0,5,21,4
+Colo-Colo,HIFK/3,3,1,5,21,4
+PK-35/2,Tavastia,3,1,5,21,4
+Vesa/Töölö,Colo-Colo,2,5,5,21,4
+HePu,FC POHU/JäPa,0,9,5,21,4
+HIFK/3,FC Kiffen/2,2,3,5,21,4
+ToTe/Ratapihan Dynamo,HJK/Yellow,1,2,5,21,4
+PK-35/2,Colo-Colo,4,1,5,21,4
+FC POHU/JäPa,ToTe/Ratapihan Dynamo,7,2,5,21,4
+FC Kiffen/2,Tavastia,1,1,5,21,4
+HIFK/3,HJK/Yellow,5,2,5,21,4
+HJK/Yellow,Colo-Colo,3,6,5,21,4
+ToTe/Ratapihan Dynamo,HIFK/3,4,3,5,21,4
+FC POHU/JäPa,PK-35/2,2,4,5,21,4
+HePu,FC Kiffen/2,3,4,5,21,4
+Vesa/Töölö,Tavastia,0,2,5,21,4
+Tavastia,HIFK/3,2,2,5,21,4
+ToTe/Ratapihan Dynamo,PK-35/2,0,3,5,21,4
+Colo-Colo,HePu,5,1,5,21,4
+Vesa/Töölö,FC Kiffen/2,3,3,5,21,4
+Tavastia,Colo-Colo,0,0,5,21,4
+HePu,HJK/Yellow,3,1,5,21,4
+FC POHU/JäPa,Vesa/Töölö,8,3,5,21,4
+FC Kiffen/2,ToTe/Ratapihan Dynamo,4,6,5,21,4
+PK-35/2,HIFK/3,5,0,5,21,4
+FC Kiffen/2,Colo-Colo,2,6,5,21,4
+HePu,ToTe/Ratapihan Dynamo,0,2,5,21,4
+PK-35/2,HJK/Yellow,2,1,5,21,4
+HIFK/3,Vesa/Töölö,1,3,5,21,4
+FC POHU/JäPa,Tavastia,1,2,5,21,4
+HIFK/3,HePu,1,2,5,21,4
+Colo-Colo,FC POHU/JäPa,0,3,5,21,4
+ToTe/Ratapihan Dynamo,Tavastia,0,2,5,21,4
+Vesa/Töölö,PK-35/2,1,2,5,21,4
+HJK/Yellow,FC Kiffen/2,0,5,5,21,4
+ToTe/Ratapihan Dynamo,Vesa/Töölö,2,2,5,21,4
+PK-35/2,HePu,5,1,5,21,4
+FC Kiffen/2,FC POHU/JäPa,3,4,5,21,4
+Tavastia,HJK/Yellow,2,0,5,21,4
+HJK/Töölö,FC Germania,1,6,5,21,5
+Ruisku,Jokerit FC,0,1,5,21,5
+FC POHU/Simpsons,Ruisku,2,3,5,21,5
+Käpylä Maanantai,Dynamo/Estofut,3,1,5,21,5
+Jokerit FC,SAPA/2,1,2,5,21,5
+FC POHU/Simpsons,Valtti/2,1,1,5,21,5
+FC Germania,Jokerit FC,2,3,5,21,5
+SAPA/2,Käpylä Maanantai,4,0,5,21,5
+Ruisku,Valtti/2,0,2,5,21,5
+Dynamo/Estofut,HJK/Töölö,9,2,5,21,5
+Ruisku,SAPA/2,0,2,5,21,5
+SAPA/2,Valtti/2,1,10,5,21,5
+FC Germania,FC POHU/Simpsons,2,0,5,21,5
+Dynamo/Estofut,Ruisku,4,0,5,21,5
+Jokerit FC,Käpylä Maanantai,0,1,5,21,5
+HJK/Töölö,Ruisku,4,6,5,21,5
+HJK/Töölö,SAPA/2,1,5,5,21,5
+Dynamo/Estofut,Jokerit FC,6,2,5,21,5
+Ruisku,Käpylä Maanantai,1,1,5,21,5
+Käpylä Maanantai,FC Germania,0,1,5,21,5
+FC POHU/Simpsons,HJK/Töölö,3,2,5,21,5
+Valtti/2,Dynamo/Estofut,3,1,5,21,5
+Käpylä Maanantai,Valtti/2,3,4,5,21,5
+SAPA/2,FC Germania,2,0,5,21,5
+Dynamo/Estofut,FC POHU/Simpsons,3,0,5,21,5
+Jokerit FC,Valtti/2,3,0,5,21,5
+FC Germania,Ruisku,1,0,5,21,5
+SAPA/2,FC POHU/Simpsons,1,4,5,21,5
+HJK/Töölö,Käpylä Maanantai,4,3,5,21,5
+FC Germania,Dynamo/Estofut,2,5,5,21,5
+FC POHU/Simpsons,Jokerit FC,4,1,5,21,5
+Valtti/2,HJK/Töölö,6,1,5,21,5
+Valtti/2,FC Germania,1,2,5,21,5
+Jokerit FC,HJK/Töölö,5,1,5,21,5
+SAPA/2,Dynamo/Estofut,2,9,5,21,5
+Käpylä Maanantai,FC POHU/Simpsons,0,0,5,21,5
+FC Hieho,FC Kontu/Vepa,2,1,5,21,6
+PuiU/86,FC Viikingit/Mordor,2,4,5,21,6
+MPS/Atletico Akatemia,FC Hieho,1,1,5,21,6
+Chicken Wings,PuiU/86,3,2,5,21,6
+FC Viikingit/Mordor,FC KaKe/Otsot,1,5,5,21,6
+LPS/2,SUMU,3,1,5,21,6
+FC Kontu/Vepa,Valtti/R.O.U.,7,4,5,21,6
+FC KaKe/Otsot,PuiU/86,3,1,5,21,6
+Valtti/R.O.U.,LPS/2,1,6,5,21,6
+MPS/Atletico Akatemia,FC Kontu/Vepa,0,0,5,21,6
+LPS/2,FC Hieho,1,2,5,21,6
+SUMU,MPS/Atletico Akatemia,1,2,5,21,6
+FC KaKe/Otsot,Chicken Wings,2,5,5,21,6
+Valtti/R.O.U.,PuiU/86,0,4,5,21,6
+LPS/2,FC KaKe/Otsot,7,3,5,21,6
+SUMU,Chicken Wings,1,0,5,21,6
+FC Hieho,FC Viikingit/Mordor,2,4,5,21,6
+PuiU/86,FC Kontu/Vepa,6,3,5,21,6
+Valtti/R.O.U.,MPS/Atletico Akatemia,2,8,5,21,6
+Chicken Wings,FC Viikingit/Mordor,4,2,5,21,6
+SUMU,FC KaKe/Otsot,1,1,5,21,6
+FC KaKe/Otsot,FC Hieho,3,1,5,21,6
+PuiU/86,MPS/Atletico Akatemia,7,0,5,21,6
+FC Viikingit/Mordor,Valtti/R.O.U.,5,1,5,21,6
+Chicken Wings,LPS/2,3,1,5,21,6
+FC Kontu/Vepa,SUMU,0,3,5,21,6
+FC Viikingit/Mordor,LPS/2,2,1,5,21,6
+FC Hieho,SUMU,3,0,5,21,6
+Valtti/R.O.U.,Chicken Wings,2,2,5,21,6
+MPS/Atletico Akatemia,FC KaKe/Otsot,3,0,5,21,6
+LPS/2,PuiU/86,3,3,5,21,6
+FC Kontu/Vepa,FC Viikingit/Mordor,3,3,5,21,6
+LPS/2,FC Kontu/Vepa,1,4,5,21,6
+FC Hieho,Chicken Wings,2,5,5,21,6
+SUMU,PuiU/86,0,1,5,21,6
+Valtti/R.O.U.,FC KaKe/Otsot,0,2,5,21,6
+MPS/Atletico Akatemia,FC Viikingit/Mordor,1,3,5,21,6
+PuiU/86,FC Hieho,2,2,5,21,6
+SUMU,Valtti/R.O.U.,4,2,5,21,6
+Chicken Wings,MPS/Atletico Akatemia,4,0,5,21,6
+FC KaKe/Otsot,FC Kontu/Vepa,3,0,5,21,6
+MPS/Atletico Akatemia,LPS/2,2,3,5,21,6
+FC Kontu/Vepa,Chicken Wings,1,6,5,21,6
+FC Hieho,Valtti/R.O.U.,4,4,5,21,6
+FC Viikingit/Mordor,SUMU,1,2,5,21,6
+AskU,Sibbo-Vargarna,2,5,5,21,7
+PPS,HAlku,2,3,5,21,7
+RiPS/2,KelA,4,3,5,21,7
+JäPS/U23,TuPS/2,4,2,5,21,7
+Keika/Kotkat,I-HK,0,1,5,21,7
+KelA,Keika/Kotkat,6,3,5,21,7
+I-HK,AskU,2,3,5,21,7
+TuPS/2,PPS,1,1,5,21,7
+HAlku,JäPS/U23,2,4,5,21,7
+Sibbo-Vargarna,RiPS/2,6,0,5,21,7
+AskU,RiPS/2,0,3,5,21,7
+KelA,HAlku,1,1,5,21,7
+I-HK,PPS,3,3,5,21,7
+Sibbo-Vargarna,JäPS/U23,7,5,5,21,7
+Keika/Kotkat,TuPS/2,1,2,5,21,7
+AskU,KelA,2,3,5,21,7
+PPS,JäPS/U23,2,0,5,21,7
+HAlku,RiPS/2,0,0,5,21,7
+TuPS/2,I-HK,1,4,5,21,7
+Keika/Kotkat,Sibbo-Vargarna,1,2,5,21,7
+PPS,Keika/Kotkat,0,3,5,21,7
+I-HK,RiPS/2,4,1,5,21,7
+HAlku,AskU,4,0,5,21,7
+TuPS/2,Sibbo-Vargarna,0,1,5,21,7
+RiPS/2,PPS,1,1,5,21,7
+AskU,TuPS/2,0,2,5,21,7
+Sibbo-Vargarna,I-HK,2,0,5,21,7
+KelA,PPS,0,3,5,21,7
+RiPS/2,JäPS/U23,2,4,5,21,7
+Keika/Kotkat,HAlku,1,2,5,21,7
+KelA,TuPS/2,7,0,5,21,7
+I-HK,HAlku,2,0,5,21,7
+JäPS/U23,AskU,3,1,5,21,7
+RiPS/2,Keika/Kotkat,5,0,5,21,7
+Sibbo-Vargarna,PPS,1,3,5,21,7
+I-HK,KelA,4,2,5,21,7
+PPS,AskU,3,3,5,21,7
+HAlku,Sibbo-Vargarna,2,1,5,21,7
+JäPS/U23,Keika/Kotkat,3,5,5,21,7
+TuPS/2,RiPS/2,0,3,5,21,7
+AskU,Keika/Kotkat,1,4,5,21,7
+KelA,JäPS/U23,3,7,5,21,7
+TuPS/2,HAlku,1,2,5,21,7
+JäPS/U23,I-HK,4,3,5,21,7
+Sibbo-Vargarna,KelA,6,1,5,21,7
+HaTP,Jäntevä,0,13,5,21,8
+Kiri,Naseva,3,2,5,21,8
+Jäppärä,Union Plaani/17,2,1,5,21,8
+Kumu JT/edustus,FC Kuusysi/2,7,2,5,21,8
+LIK,Korian Klubi,2,9,5,21,8
+Jäntevä,Jäppärä,0,0,5,21,8
+Union Plaani/17,Kumu JT/edustus,3,3,5,21,8
+Naseva,LIK,5,5,5,21,8
+FC Kuusysi/2,HaTP,7,2,5,21,8
+Korian Klubi,Kiri,2,2,5,21,8
+HaTP,Kumu JT/edustus,1,7,5,21,8
+Jäntevä,Korian Klubi,3,3,5,21,8
+Jäppärä,Naseva,1,3,5,21,8
+Union Plaani/17,LIK,4,0,5,21,8
+FC Kuusysi/2,Kiri,4,1,5,21,8
+Jäppärä,FC Kuusysi/2,2,6,5,21,8
+Korian Klubi,HaTP,3,1,5,21,8
+Jäntevä,Kumu JT/edustus,2,2,5,21,8
+LIK,Kiri,2,1,5,21,8
+Naseva,Union Plaani/17,1,2,5,21,8
+Korian Klubi,Kumu JT/edustus,0,0,5,21,8
+Union Plaani/17,HaTP,4,3,5,21,8
+LIK,Jäppärä,7,4,5,21,8
+Kiri,Jäntevä,1,3,5,21,8
+Naseva,FC Kuusysi/2,1,0,5,21,8
+Jäppärä,Korian Klubi,2,2,5,21,8
+Kiri,Union Plaani/17,5,1,5,21,8
+FC Kuusysi/2,Jäntevä,1,2,5,21,8
+LIK,Kumu JT/edustus,2,9,5,21,8
+Naseva,Korian Klubi,1,6,5,21,8
+HaTP,Kiri,2,4,5,21,8
+Jäntevä,LIK,6,1,5,21,8
+Kumu JT/edustus,Naseva,8,0,5,21,8
+FC Kuusysi/2,Union Plaani/17,4,0,5,21,8
+Jäntevä,Naseva,4,0,5,21,8
+Jäppärä,HaTP,3,0,5,21,8
+Union Plaani/17,Korian Klubi,0,1,5,21,8
+Kumu JT/edustus,Kiri,5,1,5,21,8
+FC Kuusysi/2,LIK,2,3,5,21,8
+Kiri,Jäppärä,1,0,5,21,8
+Union Plaani/17,Jäntevä,1,2,5,21,8
+Naseva,HaTP,2,2,5,21,8
+Korian Klubi,FC Kuusysi/2,6,0,5,21,8
+HaTP,LIK,6,4,5,21,8
+Kumu JT/edustus,Jäppärä,3,3,5,21,8
+IIF,BK-46/Akademi,6,2,5,20,11
+NuPS/2,FC RaHi,6,0,5,20,11
+FC LP,EPS/2,1,1,5,20,11
+Atleettiklubi,PEF/KEPU,4,0,5,20,11
+GrIFK/2,PuM,1,1,5,20,11
+Kilo IF/1,EBK/Reservi,0,2,5,20,11
+PEF/KEPU,IIF,0,2,5,20,11
+FC RaHi,Kilo IF/1,2,3,5,20,11
+KaPy,NuPS/2,1,3,5,20,11
+EPS/2,GrIFK/2,3,0,5,20,11
+Tolsa,FC LP,7,0,5,20,11
+EBK/Reservi,Hukat,7,2,5,20,11
+PuM,Atleettiklubi,1,5,5,20,11
+Kilo IF/1,KaPy,0,6,5,20,11
+IIF,PuM,2,0,5,20,11
+Atleettiklubi,EPS/2,4,1,5,20,11
+FC LP,EBK/Reservi,2,7,5,20,11
+BK-46/Akademi,PEF/KEPU,5,2,5,20,11
+GrIFK/2,Tolsa,0,1,5,20,11
+EPS/2,IIF,2,5,5,20,11
+Tolsa,Atleettiklubi,3,8,5,20,11
+FC RaHi,FC LP,6,1,5,20,11
+KaPy,Hukat,2,1,5,20,11
+EBK/Reservi,GrIFK/2,6,1,5,20,11
+NuPS/2,Kilo IF/1,3,0,5,20,11
+PuM,BK-46/Akademi,1,3,5,20,11
+PEF/KEPU,PuM,2,1,5,20,11
+IIF,Tolsa,3,1,5,20,11
+Atleettiklubi,EBK/Reservi,1,6,5,20,11
+BK-46/Akademi,EPS/2,2,1,5,20,11
+FC LP,KaPy,0,2,5,20,11
+NuPS/2,Hukat,3,2,5,20,11
+GrIFK/2,FC RaHi,2,3,5,20,11
+Tolsa,BK-46/Akademi,4,0,5,20,11
+EPS/2,PEF/KEPU,1,3,5,20,11
+Kilo IF/1,Hukat,2,1,5,20,11
+FC RaHi,Atleettiklubi,1,2,5,20,11
+KaPy,GrIFK/2,1,0,5,20,11
+EBK/Reservi,IIF,3,1,5,20,11
+NuPS/2,FC LP,4,2,5,20,11
+PuM,EPS/2,3,0,5,20,11
+PEF/KEPU,Tolsa,0,2,5,20,11
+IIF,FC RaHi,2,0,5,20,11
+FC LP,Kilo IF/1,3,2,5,20,11
+Atleettiklubi,KaPy,5,1,5,20,11
+GrIFK/2,NuPS/2,3,3,5,20,11
+Kilo IF/1,GrIFK/2,1,2,5,20,11
+FC RaHi,BK-46/Akademi,4,4,5,20,11
+KaPy,IIF,2,1,5,20,11
+Tolsa,PuM,2,0,5,20,11
+EBK/Reservi,PEF/KEPU,9,1,5,20,11
+Hukat,FC LP,8,0,5,20,11
+NuPS/2,Atleettiklubi,1,2,5,20,11
+PEF/KEPU,FC RaHi,2,1,5,20,11
+PuM,EBK/Reservi,2,5,5,20,11
+IIF,NuPS/2,4,2,5,20,11
+EPS/2,Tolsa,1,3,5,20,11
+BK-46/Akademi,KaPy,0,1,5,20,11
+Atleettiklubi,Kilo IF/1,4,0,5,20,11
+GrIFK/2,Hukat,3,2,5,20,11
+Kilo IF/1,IIF,2,4,5,20,11
+FC RaHi,PuM,1,2,5,20,11
+EBK/Reservi,EPS/2,4,2,5,20,11
+FC LP,GrIFK/2,9,4,5,20,11
+Hukat,Atleettiklubi,4,2,5,20,11
+KaPy,PEF/KEPU,6,1,5,20,11
+NuPS/2,BK-46/Akademi,4,1,5,20,11
+BK-46/Akademi,Kilo IF/1,0,0,5,20,11
+PEF/KEPU,NuPS/2,1,3,5,20,11
+EPS/2,FC RaHi,1,0,5,20,11
+PuM,KaPy,4,3,5,20,11
+IIF,Hukat,2,1,5,20,11
+Tolsa,EBK/Reservi,2,1,5,20,11
+Atleettiklubi,FC LP,4,3,5,20,11
+Kilo IF/1,PEF/KEPU,1,1,5,20,11
+FC RaHi,Tolsa,0,6,5,20,11
+KaPy,EPS/2,5,2,5,20,11
+Hukat,BK-46/Akademi,2,1,5,20,11
+NuPS/2,PuM,2,3,5,20,11
+FC LP,IIF,0,3,5,20,11
+GrIFK/2,Atleettiklubi,0,2,5,20,11
+PEF/KEPU,Hukat,1,4,5,20,11
+Hukat,FC RaHi,2,1,5,20,11
+Kilo IF/1,EPS/2,0,1,5,20,11
+FC LP,PEF/KEPU,2,1,5,20,11
+KaPy,EBK/Reservi,1,2,5,20,11
+Hukat,PuM,4,2,5,20,11
+NuPS/2,Tolsa,3,0,5,20,11
+Atleettiklubi,IIF,2,1,5,20,11
+GrIFK/2,BK-46/Akademi,5,2,5,20,11
+Tolsa,Kilo IF/1,3,0,5,20,11
+PuM,FC LP,4,7,5,20,11
+PEF/KEPU,GrIFK/2,3,0,5,20,11
+FC RaHi,KaPy,3,6,5,20,11
+EPS/2,Hukat,3,2,5,20,11
+EBK/Reservi,NuPS/2,2,3,5,20,11
+BK-46/Akademi,Atleettiklubi,5,2,5,20,11
+IIF,GrIFK/2,2,1,5,20,11
+EPS/2,NuPS/2,0,2,5,20,11
+PuM,Kilo IF/1,1,3,5,20,11
+BK-46/Akademi,FC LP,1,1,5,20,11
+EBK/Reservi,FC RaHi,11,0,5,20,11
+Tolsa,KaPy,1,0,5,20,11
+Hukat,Tolsa,1,4,5,20,11
+LJS,Pöxyt/TN,6,1,5,20,12
+FC Babylon,Keika/Kotkat,2,1,5,20,12
+PPV,PEP,3,3,5,20,12
+FC Kiffen/2,PETO,6,1,5,20,12
+ToTe/Avauspotku,FC POHU/Regents,1,12,5,20,12
+Vesa/Töölö,LeJa/Juniors,1,1,5,20,12
+Kilo IF/3,VJS/2,0,6,5,20,12
+FC Babylon,LeJa/Juniors,3,0,5,20,12
+VJS/2,Vesa/Töölö,3,3,5,20,12
+PETO,ToTe/Avauspotku,3,1,5,20,12
+CLE/B,FC Babylon,2,2,5,20,12
+FC POHU/Regents,Kilo IF/3,3,2,5,20,12
+LeJa/Juniors,PPV,1,0,5,20,12
+Keika/Kotkat,FC Kiffen/2,3,2,5,20,12
+PEP,LJS,4,3,5,20,12
+Kilo IF/3,PETO,0,5,5,20,12
+FC Kiffen/2,CLE/B,2,2,5,20,12
+Pöxyt/TN,PEP,2,3,5,20,12
+LJS,LeJa/Juniors,4,0,5,20,12
+PPV,VJS/2,2,1,5,20,12
+ToTe/Avauspotku,Keika/Kotkat,1,5,5,20,12
+Vesa/Töölö,FC POHU/Regents,1,5,5,20,12
+VJS/2,LJS,0,6,5,20,12
+PETO,Vesa/Töölö,2,0,5,20,12
+FC Babylon,FC Kiffen/2,3,7,5,20,12
+FC POHU/Regents,PPV,0,2,5,20,12
+LeJa/Juniors,Pöxyt/TN,1,4,5,20,12
+CLE/B,ToTe/Avauspotku,7,2,5,20,12
+Keika/Kotkat,Kilo IF/3,4,2,5,20,12
+LJS,FC POHU/Regents,4,1,5,20,12
+Kilo IF/3,CLE/B,1,3,5,20,12
+Pöxyt/TN,VJS/2,2,3,5,20,12
+ToTe/Avauspotku,FC Babylon,0,6,5,20,12
+Vesa/Töölö,Keika/Kotkat,2,2,5,20,12
+PPV,PETO,0,4,5,20,12
+PEP,LeJa/Juniors,1,2,5,20,12
+VJS/2,PEP,3,3,5,20,12
+FC Kiffen/2,ToTe/Avauspotku,3,3,5,20,12
+PETO,LJS,2,3,5,20,12
+FC Babylon,Kilo IF/3,5,1,5,20,12
+FC POHU/Regents,Pöxyt/TN,1,4,5,20,12
+CLE/B,Vesa/Töölö,1,2,5,20,12
+Keika/Kotkat,PPV,2,4,5,20,12
+LJS,Keika/Kotkat,5,1,5,20,12
+Vesa/Töölö,FC Babylon,0,3,5,20,12
+Kilo IF/3,FC Kiffen/2,2,9,5,20,12
+Pöxyt/TN,PETO,1,6,5,20,12
+PPV,CLE/B,1,2,5,20,12
+LeJa/Juniors,VJS/2,0,5,5,20,12
+PEP,FC POHU/Regents,3,1,5,20,12
+FC Kiffen/2,Vesa/Töölö,1,1,5,20,12
+FC Babylon,PPV,7,2,5,20,12
+PETO,PEP,2,2,5,20,12
+ToTe/Avauspotku,Kilo IF/3,4,4,5,20,12
+FC POHU/Regents,LeJa/Juniors,1,0,5,20,12
+CLE/B,LJS,0,4,5,20,12
+Keika/Kotkat,Pöxyt/TN,1,1,5,20,12
+LJS,FC Babylon,4,0,5,20,12
+PPV,FC Kiffen/2,1,5,5,20,12
+PEP,Keika/Kotkat,6,1,5,20,12
+Pöxyt/TN,CLE/B,6,1,5,20,12
+VJS/2,FC POHU/Regents,1,1,5,20,12
+Vesa/Töölö,ToTe/Avauspotku,3,1,5,20,12
+LeJa/Juniors,PETO,1,4,5,20,12
+PETO,VJS/2,1,3,5,20,12
+FC Kiffen/2,LJS,0,5,5,20,12
+FC Babylon,Pöxyt/TN,1,3,5,20,12
+ToTe/Avauspotku,PPV,1,1,5,20,12
+CLE/B,PEP,1,0,5,20,12
+Keika/Kotkat,LeJa/Juniors,0,3,5,20,12
+Kilo IF/3,Vesa/Töölö,2,0,5,20,12
+LJS,ToTe/Avauspotku,10,1,5,20,12
+PEP,FC Babylon,1,3,5,20,12
+Pöxyt/TN,FC Kiffen/2,11,2,5,20,12
+PPV,Kilo IF/3,3,3,5,20,12
+VJS/2,Keika/Kotkat,0,3,5,20,12
+LeJa/Juniors,CLE/B,3,3,5,20,12
+FC POHU/Regents,PETO,0,4,5,20,12
+Kilo IF/3,LJS,0,3,5,20,12
+FC Kiffen/2,PEP,6,2,5,20,12
+ToTe/Avauspotku,Pöxyt/TN,6,1,5,20,12
+CLE/B,VJS/2,1,1,5,20,12
+Vesa/Töölö,PPV,2,2,5,20,12
+Keika/Kotkat,FC POHU/Regents,0,3,5,20,12
+FC Kiffen/2,VJS/2,4,2,5,20,12
+FC Babylon,FC POHU/Regents,2,1,5,20,12
+Kilo IF/3,PEP,1,5,5,20,12
+PPV,LJS,0,7,5,20,12
+ToTe/Avauspotku,LeJa/Juniors,0,5,5,20,12
+Vesa/Töölö,Pöxyt/TN,0,1,5,20,12
+CLE/B,PETO,1,4,5,20,12
+Pöxyt/TN,PPV,4,3,5,20,12
+PETO,FC Babylon,1,2,5,20,12
+FC POHU/Regents,FC Kiffen/2,3,5,5,20,12
+VJS/2,ToTe/Avauspotku,2,3,5,20,12
+LeJa/Juniors,Kilo IF/3,3,1,5,20,12
+Keika/Kotkat,CLE/B,0,3,5,20,12
+PEP,Vesa/Töölö,1,3,5,20,12
+PETO,Keika/Kotkat,3,1,5,20,12
+PEP,ToTe/Avauspotku,17,0,5,20,12
+Pöxyt/TN,Kilo IF/3,7,1,5,20,12
+LeJa/Juniors,FC Kiffen/2,3,6,5,20,12
+VJS/2,FC Babylon,1,5,5,20,12
+FC POHU/Regents,CLE/B,2,1,5,20,12
+LJS,Vesa/Töölö,0,0,5,20,12
+HePu,FC Kiffen/3,2,6,5,20,13
+Strikers/Bertil,FC POHU/Futboleros,1,1,5,20,13
+FC POHU/Simpsons,ToTe/Legends,1,6,5,20,13
+FC FC,SAPA/2,4,1,5,20,13
+PPV/Seos,FC Puimur/2,2,2,5,20,13
+HIFK/4,HJK/Yellow,1,2,5,20,13
+FC Degis,Colo-Colo,3,6,5,20,13
+FC POHU/Futboleros,HIFK/4,1,2,5,20,13
+FC Aztecas,FC Degis,1,2,5,20,13
+FC Puimur/2,Strikers/Bertil,3,1,5,20,13
+FC Kiffen/3,FC POHU/Simpsons,8,2,5,20,13
+Colo-Colo,HePu,3,1,5,20,13
+ToTe/Legends,PPV/Seos,0,3,5,20,13
+HJK/Yellow,FC FC,1,3,5,20,13
+FC POHU/Simpsons,Colo-Colo,2,3,5,20,13
+HIFK/4,FC Puimur/2,1,2,5,20,13
+SAPA/2,HJK/Yellow,1,1,5,20,13
+Strikers/Bertil,ToTe/Legends,3,2,5,20,13
+PPV/Seos,FC Kiffen/3,0,2,5,20,13
+FC FC,FC POHU/Futboleros,4,0,5,20,13
+HePu,FC Aztecas,1,2,5,20,13
+FC POHU/Futboleros,SAPA/2,1,3,5,20,13
+FC Kiffen/3,Strikers/Bertil,4,2,5,20,13
+Colo-Colo,PPV/Seos,3,3,5,20,13
+ToTe/Legends,HIFK/4,7,0,5,20,13
+FC Aztecas,FC POHU/Simpsons,2,1,5,20,13
+FC Puimur/2,FC FC,2,0,5,20,13
+FC Degis,HePu,0,3,5,20,13
+HePu,HJK/Yellow,1,5,5,20,13
+PPV/Seos,FC Aztecas,5,1,5,20,13
+FC FC,ToTe/Legends,1,3,5,20,13
+SAPA/2,FC Puimur/2,2,2,5,20,13
+HIFK/4,FC Kiffen/3,2,2,5,20,13
+Strikers/Bertil,Colo-Colo,2,5,5,20,13
+HJK/Yellow,FC POHU/Futboleros,3,2,5,20,13
+FC POHU/Simpsons,FC Degis,3,1,5,20,13
+FC Puimur/2,HJK/Yellow,3,0,5,20,13
+FC Kiffen/3,FC FC,3,0,5,20,13
+FC Aztecas,Strikers/Bertil,4,2,5,20,13
+ToTe/Legends,SAPA/2,3,0,5,20,13
+HePu,FC POHU/Simpsons,3,2,5,20,13
+Colo-Colo,HIFK/4,2,2,5,20,13
+FC Degis,PPV/Seos,0,3,5,20,13
+FC POHU/Simpsons,SAPA/2,0,1,5,20,13
+Strikers/Bertil,FC Degis,3,1,5,20,13
+FC POHU/Futboleros,FC Puimur/2,4,1,5,20,13
+SAPA/2,FC Kiffen/3,3,4,5,20,13
+HIFK/4,FC Aztecas,3,0,5,20,13
+HJK/Yellow,ToTe/Legends,0,1,5,20,13
+PPV/Seos,HePu,2,2,5,20,13
+FC FC,Colo-Colo,5,3,5,20,13
+FC Puimur/2,ToTe/Legends,0,2,5,20,13
+FC POHU/Simpsons,PPV/Seos,3,2,5,20,13
+HePu,Strikers/Bertil,1,0,5,20,13
+ToTe/Legends,FC POHU/Futboleros,1,0,5,20,13
+Colo-Colo,SAPA/2,3,4,5,20,13
+FC Kiffen/3,HJK/Yellow,4,1,5,20,13
+FC Aztecas,FC FC,1,2,5,20,13
+FC Degis,HIFK/4,2,4,5,20,13
+Strikers/Bertil,HIFK/4,4,0,5,20,13
+FC POHU/Futboleros,FC Kiffen/3,3,2,5,20,13
+Strikers/Bertil,FC POHU/Simpsons,4,4,5,20,13
+HJK/Yellow,Colo-Colo,1,1,5,20,13
+HIFK/4,HePu,1,4,5,20,13
+FC FC,FC Degis,4,1,5,20,13
+FC POHU/Futboleros,PPV/Seos,1,1,5,20,13
+SAPA/2,FC Aztecas,3,1,5,20,13
+FC POHU/Simpsons,HIFK/4,0,2,5,20,13
+HePu,FC FC,4,3,5,20,13
+Colo-Colo,FC POHU/Futboleros,4,1,5,20,13
+FC Aztecas,HJK/Yellow,0,2,5,20,13
+PPV/Seos,Strikers/Bertil,2,2,5,20,13
+FC Kiffen/3,FC Puimur/2,3,1,5,20,13
+FC Degis,SAPA/2,6,2,5,20,13
+HJK/Yellow,FC Degis,1,2,5,20,13
+FC POHU/Futboleros,FC Aztecas,4,3,5,20,13
+FC FC,FC POHU/Simpsons,2,0,5,20,13
+HIFK/4,PPV/Seos,2,1,5,20,13
+ToTe/Legends,FC Kiffen/3,4,0,5,20,13
+FC Puimur/2,Colo-Colo,3,2,5,20,13
+SAPA/2,HePu,2,1,5,20,13
+FC Degis,FC POHU/Futboleros,3,5,5,20,13
+PPV/Seos,FC FC,2,0,5,20,13
+FC Aztecas,FC Puimur/2,2,2,5,20,13
+Colo-Colo,ToTe/Legends,1,3,5,20,13
+FC Puimur/2,FC POHU/Simpsons,2,0,5,20,13
+FC POHU/Simpsons,FC POHU/Futboleros,1,1,5,20,13
+HIFK/4,FC FC,1,0,5,20,13
+Strikers/Bertil,SAPA/2,2,3,5,20,13
+FC Aztecas,FC Kiffen/3,0,7,5,20,13
+PPV/Seos,HJK/Yellow,1,1,5,20,13
+HePu,FC Puimur/2,3,0,5,20,13
+FC Degis,ToTe/Legends,4,1,5,20,13
+HJK/Yellow,Strikers/Bertil,4,1,5,20,13
+FC Kiffen/3,FC Degis,8,0,5,20,13
+Colo-Colo,FC Aztecas,3,2,5,20,13
+ToTe/Legends,HePu,1,1,5,20,13
+SAPA/2,HIFK/4,1,3,5,20,13
+ToTe/Legends,FC Aztecas,1,1,5,20,13
+FC FC,Strikers/Bertil,1,2,5,20,13
+FC POHU/Futboleros,HePu,2,2,5,20,13
+FC Puimur/2,FC Degis,2,6,5,20,13
+SAPA/2,PPV/Seos,2,0,5,20,13
+HJK/Yellow,FC POHU/Simpsons,2,1,5,20,13
+FC Kiffen/3,Colo-Colo,1,5,5,20,13
+HJK/Kantsu,FC POHU/United,2,3,5,20,14
+Käpylä Maanantai,Dynamo/Estofut,1,4,5,20,14
+ToTe/Ratapihan Dynamo,Ponnistus,0,13,5,20,14
+AFC EMU,FC Germania,1,7,5,20,14
+AC StaSi,Veijarit,2,2,5,20,14
+FC Viikingit/Mordor,Chicken Wings,1,3,5,20,14
+Valtti/2,SUMU,0,5,5,20,14
+FC POHU/United,AC StaSi,11,1,5,20,14
+SUMU,AFC EMU,0,3,5,20,14
+Dynamo/Estofut,FC Viikingit/Mordor,6,4,5,20,14
+Veijarit,Käpylä Maanantai,1,9,5,20,14
+Chicken Wings,ToTe/Ratapihan Dynamo,6,4,5,20,14
+Jokerit FC,Valtti/2,2,0,5,20,14
+FC Germania,HJK/Kantsu,3,1,5,20,14
+SUMU,FC POHU/United,5,2,5,20,14
+HJK/Kantsu,SUMU,3,1,5,20,14
+Ponnistus,Chicken Wings,3,2,5,20,14
+FC Viikingit/Mordor,Veijarit,8,2,5,20,14
+AC StaSi,FC Germania,2,8,5,20,14
+ToTe/Ratapihan Dynamo,Dynamo/Estofut,1,7,5,20,14
+Käpylä Maanantai,FC POHU/United,2,1,5,20,14
+AFC EMU,Jokerit FC,0,3,5,20,14
+FC POHU/United,FC Viikingit/Mordor,5,0,5,20,14
+SUMU,AC StaSi,5,1,5,20,14
+Dynamo/Estofut,Ponnistus,0,4,5,20,14
+Valtti/2,AFC EMU,8,0,5,20,14
+Veijarit,ToTe/Ratapihan Dynamo,2,1,5,20,14
+Jokerit FC,HJK/Kantsu,2,3,5,20,14
+FC Germania,Käpylä Maanantai,3,0,5,20,14
+HJK/Kantsu,Valtti/2,1,1,5,20,14
+FC Viikingit/Mordor,FC Germania,1,2,5,20,14
+Ponnistus,Veijarit,20,0,5,20,14
+Chicken Wings,Dynamo/Estofut,1,4,5,20,14
+ToTe/Ratapihan Dynamo,FC POHU/United,1,4,5,20,14
+AC StaSi,Jokerit FC,0,9,5,20,14
+Käpylä Maanantai,SUMU,2,1,5,20,14
+FC POHU/United,Ponnistus,3,1,5,20,14
+SUMU,FC Viikingit/Mordor,1,3,5,20,14
+Veijarit,Chicken Wings,2,9,5,20,14
+AFC EMU,HJK/Kantsu,1,7,5,20,14
+FC Germania,ToTe/Ratapihan Dynamo,4,0,5,20,14
+Jokerit FC,Käpylä Maanantai,5,1,5,20,14
+Valtti/2,AC StaSi,6,0,5,20,14
+FC Viikingit/Mordor,AFC EMU,8,2,5,20,14
+Ponnistus,FC Germania,3,3,5,20,14
+FC Viikingit/Mordor,Jokerit FC,3,2,5,20,14
+ToTe/Ratapihan Dynamo,SUMU,3,1,5,20,14
+Käpylä Maanantai,Valtti/2,0,0,5,20,14
+AC StaSi,AFC EMU,4,1,5,20,14
+Chicken Wings,FC POHU/United,3,0,5,20,14
+Dynamo/Estofut,Veijarit,9,2,5,20,14
+AFC EMU,Käpylä Maanantai,1,0,5,20,14
+HJK/Kantsu,AC StaSi,4,4,5,20,14
+FC POHU/United,Dynamo/Estofut,1,2,5,20,14
+SUMU,Ponnistus,1,3,5,20,14
+FC Germania,Chicken Wings,0,2,5,20,14
+Jokerit FC,ToTe/Ratapihan Dynamo,1,2,5,20,14
+Valtti/2,FC Viikingit/Mordor,2,2,5,20,14
+Chicken Wings,SUMU,5,1,5,20,14
+Ponnistus,Jokerit FC,8,2,5,20,14
+Veijarit,FC POHU/United,0,7,5,20,14
+Käpylä Maanantai,HJK/Kantsu,1,4,5,20,14
+Dynamo/Estofut,FC Germania,3,2,5,20,14
+ToTe/Ratapihan Dynamo,Valtti/2,2,3,5,20,14
+HJK/Kantsu,FC Viikingit/Mordor,1,1,5,20,14
+SUMU,Dynamo/Estofut,0,6,5,20,14
+AC StaSi,Käpylä Maanantai,0,6,5,20,14
+AFC EMU,ToTe/Ratapihan Dynamo,5,0,5,20,14
+Jokerit FC,Chicken Wings,1,1,5,20,14
+FC Germania,Veijarit,1,0,5,20,14
+Valtti/2,Ponnistus,0,1,5,20,14
+FC POHU/United,FC Germania,1,1,5,20,14
+FC Viikingit/Mordor,AC StaSi,7,0,5,20,14
+Veijarit,SUMU,1,4,5,20,14
+Dynamo/Estofut,Jokerit FC,0,6,5,20,14
+ToTe/Ratapihan Dynamo,HJK/Kantsu,3,3,5,20,14
+Ponnistus,AFC EMU,6,0,5,20,14
+Chicken Wings,Valtti/2,4,3,5,20,14
+HJK/Kantsu,Ponnistus,4,3,5,20,14
+Käpylä Maanantai,FC Viikingit/Mordor,2,1,5,20,14
+AC StaSi,ToTe/Ratapihan Dynamo,0,3,5,20,14
+AFC EMU,Chicken Wings,0,8,5,20,14
+Jokerit FC,Veijarit,2,2,5,20,14
+Valtti/2,Dynamo/Estofut,0,1,5,20,14
+Dynamo/Estofut,AC StaSi,6,1,5,20,14
+HJK/Kantsu,Dynamo/Estofut,2,2,5,20,14
+FC Viikingit/Mordor,ToTe/Ratapihan Dynamo,3,1,5,20,14
+Käpylä Maanantai,Ponnistus,2,8,5,20,14
+Jokerit FC,FC Germania,4,1,5,20,14
+AC StaSi,Chicken Wings,0,8,5,20,14
+AFC EMU,Veijarit,5,0,5,20,14
+Valtti/2,FC POHU/United,3,1,5,20,14
+FC POHU/United,AFC EMU,3,2,5,20,14
+SUMU,Jokerit FC,4,4,5,20,14
+FC Germania,Valtti/2,4,1,5,20,14
+Veijarit,HJK/Kantsu,1,2,5,20,14
+Ponnistus,FC Viikingit/Mordor,6,0,5,20,14
+Chicken Wings,Käpylä Maanantai,5,1,5,20,14
+Chicken Wings,HJK/Kantsu,8,1,5,20,14
+FC POHU/United,Jokerit FC,0,3,5,20,14
+ToTe/Ratapihan Dynamo,Käpylä Maanantai,4,2,5,20,14
+Dynamo/Estofut,AFC EMU,5,1,5,20,14
+Veijarit,Valtti/2,0,5,5,20,14
+Ponnistus,AC StaSi,3,1,5,20,14
+FC Germania,SUMU,1,3,5,20,14
+KP-75/SaPo,PPS,2,4,5,20,15
+TiPS/2,SUMU/sob,1,4,5,20,15
+FC Vantaa,FC KaKe/Otsot,0,0,5,20,15
+KelA,FC Hieho,2,3,5,20,15
+SibboV,MPS/Atletico Akatemia,2,2,5,20,15
+KoiPS/Tarmo,FC Kontu/Vepa,3,4,5,20,15
+TuPS/2,Valtti/R.O.U.,3,5,5,20,15
+MPS/Atletico Akatemia,KP-75/SaPo,12,3,5,20,15
+I-HK,SibboV,7,0,5,20,15
+PPS,KelA,4,1,5,20,15
+FC Hieho,FC Vantaa,0,1,5,20,15
+FC KaKe/Otsot,TuPS/2,2,1,5,20,15
+FC Kontu/Vepa,TiPS/2,1,3,5,20,15
+Valtti/R.O.U.,KoiPS/Tarmo,4,2,5,20,15
+SUMU/sob,FC Kontu/Vepa,5,1,5,20,15
+KP-75/SaPo,I-HK,1,3,5,20,15
+TiPS/2,Valtti/R.O.U.,5,4,5,20,15
+FC Vantaa,PPS,0,6,5,20,15
+KoiPS/Tarmo,FC KaKe/Otsot,2,0,5,20,15
+TuPS/2,FC Hieho,2,4,5,20,15
+Valtti/R.O.U.,SUMU/sob,0,5,5,20,15
+I-HK,KelA,4,2,5,20,15
+FC KaKe/Otsot,TiPS/2,1,11,5,20,15
+MPS/Atletico Akatemia,FC Vantaa,4,0,5,20,15
+PPS,TuPS/2,4,0,5,20,15
+SibboV,KP-75/SaPo,7,1,5,20,15
+FC Hieho,KoiPS/Tarmo,5,2,5,20,15
+SUMU/sob,FC KaKe/Otsot,4,2,5,20,15
+KelA,SibboV,3,1,5,20,15
+FC Vantaa,I-HK,2,3,5,20,15
+TuPS/2,MPS/Atletico Akatemia,2,3,5,20,15
+FC Kontu/Vepa,Valtti/R.O.U.,2,2,5,20,15
+TiPS/2,FC Hieho,1,0,5,20,15
+KoiPS/Tarmo,PPS,2,2,5,20,15
+KP-75/SaPo,KelA,2,2,5,20,15
+I-HK,TuPS/2,0,1,5,20,15
+FC KaKe/Otsot,FC Kontu/Vepa,3,2,5,20,15
+MPS/Atletico Akatemia,KoiPS/Tarmo,5,3,5,20,15
+PPS,TiPS/2,6,7,5,20,15
+FC Hieho,SUMU/sob,2,5,5,20,15
+SibboV,FC Vantaa,7,1,5,20,15
+SUMU/sob,PPS,4,0,5,20,15
+TuPS/2,SibboV,4,2,5,20,15
+FC Kontu/Vepa,FC Hieho,0,3,5,20,15
+TiPS/2,MPS/Atletico Akatemia,5,3,5,20,15
+KoiPS/Tarmo,I-HK,1,1,5,20,15
+Valtti/R.O.U.,FC KaKe/Otsot,1,0,5,20,15
+FC Vantaa,KP-75/SaPo,3,1,5,20,15
+MPS/Atletico Akatemia,SUMU/sob,0,2,5,20,15
+KelA,FC Vantaa,3,4,5,20,15
+KP-75/SaPo,TuPS/2,2,10,5,20,15
+I-HK,TiPS/2,1,0,5,20,15
+PPS,FC Kontu/Vepa,2,3,5,20,15
+FC Hieho,Valtti/R.O.U.,6,3,5,20,15
+SibboV,KoiPS/Tarmo,5,3,5,20,15
+KelA,MPS/Atletico Akatemia,2,1,5,20,15
+SUMU/sob,I-HK,3,1,5,20,15
+FC KaKe/Otsot,FC Hieho,1,2,5,20,15
+TuPS/2,KelA,2,3,5,20,15
+FC Kontu/Vepa,MPS/Atletico Akatemia,1,2,5,20,15
+TiPS/2,SibboV,6,2,5,20,15
+KoiPS/Tarmo,KP-75/SaPo,1,2,5,20,15
+Valtti/R.O.U.,PPS,1,6,5,20,15
+MPS/Atletico Akatemia,Valtti/R.O.U.,1,5,5,20,15
+KelA,KoiPS/Tarmo,2,4,5,20,15
+KP-75/SaPo,TiPS/2,3,1,5,20,15
+I-HK,FC Kontu/Vepa,0,0,5,20,15
+PPS,FC KaKe/Otsot,2,2,5,20,15
+FC Vantaa,TuPS/2,1,3,5,20,15
+SibboV,SUMU/sob,1,5,5,20,15
+SUMU/sob,KP-75/SaPo,2,1,5,20,15
+FC KaKe/Otsot,MPS/Atletico Akatemia,1,0,5,20,15
+TiPS/2,KelA,6,2,5,20,15
+FC Hieho,PPS,2,5,5,20,15
+FC Kontu/Vepa,SibboV,1,1,5,20,15
+KoiPS/Tarmo,FC Vantaa,4,0,5,20,15
+Valtti/R.O.U.,I-HK,2,2,5,20,15
+MPS/Atletico Akatemia,FC Hieho,0,2,5,20,15
+KelA,SUMU/sob,4,0,5,20,15
+KP-75/SaPo,FC Kontu/Vepa,1,3,5,20,15
+SibboV,Valtti/R.O.U.,4,2,5,20,15
+I-HK,FC KaKe/Otsot,0,1,5,20,15
+FC Vantaa,TiPS/2,0,3,5,20,15
+TuPS/2,KoiPS/Tarmo,2,2,5,20,15
+SibboV,FC Hieho,2,2,5,20,15
+KP-75/SaPo,FC KaKe/Otsot,1,3,5,20,15
+I-HK,PPS,2,2,5,20,15
+FC Vantaa,FC Kontu/Vepa,2,1,5,20,15
+TuPS/2,SUMU/sob,0,3,5,20,15
+KoiPS/Tarmo,TiPS/2,1,7,5,20,15
+KelA,Valtti/R.O.U.,6,2,5,20,15
+MPS/Atletico Akatemia,I-HK,2,1,5,20,15
+SUMU/sob,KoiPS/Tarmo,2,2,5,20,15
+FC KaKe/Otsot,KelA,2,2,5,20,15
+PPS,SibboV,4,1,5,20,15
+FC Hieho,KP-75/SaPo,0,1,5,20,15
+FC Kontu/Vepa,TuPS/2,1,2,5,20,15
+Valtti/R.O.U.,FC Vantaa,4,3,5,20,15
+PPS,MPS/Atletico Akatemia,5,1,5,20,15
+Valtti/R.O.U.,KP-75/SaPo,1,0,5,20,15
+FC Hieho,I-HK,3,1,5,20,15
+TiPS/2,TuPS/2,5,1,5,20,15
+FC KaKe/Otsot,SibboV,0,0,5,20,15
+FC Kontu/Vepa,KelA,2,1,5,20,15
+SUMU/sob,FC Vantaa,4,0,5,20,15
+Jäppärä,MyMy,1,2,5,20,16
+Union Plaani/akatemia,Naseva,6,1,5,20,16
+HAlku,VoPpK,2,4,5,20,16
+RiPS/2,LIK,6,3,5,20,16
+PeKa/2,Kiri,0,14,5,20,16
+PK-09,Kumu JT/edustus,4,0,5,20,16
+FC Kuusysi/2,HaTP,1,0,5,20,16
+HaTP,Jäppärä,0,4,5,20,16
+Kiri,FC Kuusysi/2,8,2,5,20,16
+Kumu JT/edustus,HAlku,0,4,5,20,16
+VoPpK,Union Plaani/akatemia,0,3,5,20,16
+LIK,PK-09,3,4,5,20,16
+Jäntevä,PeKa/2,5,4,5,20,16
+Jäppärä,Kiri,3,0,5,20,16
+HAlku,LIK,7,0,5,20,16
+Naseva,VoPpK,2,1,5,20,16
+Union Plaani/akatemia,Kumu JT/edustus,4,1,5,20,16
+PK-09,MyMy,0,2,5,20,16
+RiPS/2,HaTP,5,4,5,20,16
+FC Kuusysi/2,Jäntevä,1,3,5,20,16
+HaTP,PK-09,4,3,5,20,16
+Kiri,RiPS/2,2,1,5,20,16
+Kumu JT/edustus,Naseva,0,1,5,20,16
+Jäntevä,Jäppärä,2,2,5,20,16
+LIK,Union Plaani/akatemia,5,4,5,20,16
+PeKa/2,FC Kuusysi/2,2,3,5,20,16
+Jäppärä,PeKa/2,2,7,5,20,16
+PK-09,Kiri,4,0,5,20,16
+VoPpK,Kumu JT/edustus,3,2,5,20,16
+HAlku,HaTP,9,1,5,20,16
+RiPS/2,Jäntevä,5,0,5,20,16
+Union Plaani/akatemia,MyMy,1,3,5,20,16
+Naseva,LIK,3,2,5,20,16
+HaTP,Union Plaani/akatemia,4,3,5,20,16
+Kiri,HAlku,2,3,5,20,16
+LIK,VoPpK,5,4,5,20,16
+MyMy,Naseva,4,1,5,20,16
+Jäntevä,PK-09,1,3,5,20,16
+PeKa/2,RiPS/2,1,5,5,20,16
+FC Kuusysi/2,Jäppärä,1,0,5,20,16
+Kumu JT/edustus,LIK,6,0,5,20,16
+HAlku,Jäntevä,7,2,5,20,16
+PK-09,PeKa/2,3,0,5,20,16
+Union Plaani/akatemia,Kiri,3,2,5,20,16
+VoPpK,MyMy,1,5,5,20,16
+RiPS/2,FC Kuusysi/2,3,4,5,20,16
+Naseva,HaTP,2,0,5,20,16
+HaTP,VoPpK,6,0,5,20,16
+MyMy,Kumu JT/edustus,1,0,5,20,16
+Jäppärä,RiPS/2,2,1,5,20,16
+Kiri,Naseva,9,2,5,20,16
+PeKa/2,HAlku,0,10,5,20,16
+Jäntevä,Union Plaani/akatemia,2,2,5,20,16
+FC Kuusysi/2,PK-09,0,6,5,20,16
+Kumu JT/edustus,HaTP,3,2,5,20,16
+HAlku,FC Kuusysi/2,3,0,5,20,16
+VoPpK,Kiri,1,2,5,20,16
+LIK,MyMy,2,2,5,20,16
+Naseva,Jäntevä,3,1,5,20,16
+Union Plaani/akatemia,PeKa/2,7,1,5,20,16
+PK-09,Jäppärä,2,1,5,20,16
+Jäppärä,HAlku,1,0,5,20,16
+RiPS/2,PK-09,1,1,5,20,16
+Kiri,Kumu JT/edustus,2,3,5,20,16
+Jäntevä,VoPpK,0,3,5,20,16
+HaTP,LIK,2,0,5,20,16
+FC Kuusysi/2,Union Plaani/akatemia,1,2,5,20,16
+PeKa/2,Naseva,5,1,5,20,16
+MyMy,RiPS/2,1,0,5,20,16
+Union Plaani/akatemia,Jäppärä,0,1,5,20,16
+Kumu JT/edustus,Jäntevä,3,2,5,20,16
+VoPpK,PeKa/2,3,2,5,20,16
+LIK,Kiri,3,2,5,20,16
+MyMy,HaTP,3,3,5,20,16
+Naseva,FC Kuusysi/2,1,1,5,20,16
+HAlku,RiPS/2,5,1,5,20,16
+Jäppärä,Naseva,10,2,5,20,16
+RiPS/2,Union Plaani/akatemia,3,1,5,20,16
+Kiri,MyMy,1,3,5,20,16
+Jäntevä,LIK,2,2,5,20,16
+FC Kuusysi/2,VoPpK,2,4,5,20,16
+PK-09,HAlku,1,0,5,20,16
+PeKa/2,Kumu JT/edustus,1,2,5,20,16
+Naseva,RiPS/2,0,1,5,20,16
+MyMy,HAlku,2,2,5,20,16
+Jäntevä,HaTP,2,1,5,20,16
+Jäppärä,Kumu JT/edustus,5,3,5,20,16
+RiPS/2,VoPpK,2,1,5,20,16
+HAlku,Union Plaani/akatemia,9,1,5,20,16
+PK-09,Naseva,3,1,5,20,16
+FC Kuusysi/2,LIK,4,0,5,20,16
+PeKa/2,MyMy,1,6,5,20,16
+HaTP,PeKa/2,1,1,5,20,16
+Kiri,Jäntevä,4,1,5,20,16
+Kumu JT/edustus,RiPS/2,3,3,5,20,16
+VoPpK,PK-09,1,3,5,20,16
+LIK,Jäppärä,5,0,5,20,16
+MyMy,FC Kuusysi/2,3,0,5,20,16
+Naseva,HAlku,4,3,5,20,16
+HaTP,Kiri,3,1,5,20,16
+VoPpK,Jäppärä,2,3,5,20,16
+Kumu JT/edustus,FC Kuusysi/2,2,2,5,20,16
+MyMy,Jäntevä,10,1,5,20,16
+LIK,PeKa/2,5,1,5,20,16
+Union Plaani/akatemia,PK-09,1,5,5,20,16
