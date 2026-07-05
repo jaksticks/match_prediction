@@ -129,7 +129,7 @@ def create_model(df):
     """
 
     logging.info("Creating the Dixon-Coles model...")
-    xi = 0.0009
+    xi = 0.0018
     weights = pb.models.dixon_coles_weights(df["date"], xi)
 
     clf = pb.models.DixonColesGoalModel(
