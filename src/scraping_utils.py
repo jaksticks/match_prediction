@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import datetime as dt
+import re
 from pathlib import Path
 import logging
 import penaltyblog as pb
@@ -75,32 +76,49 @@ def get_fixtures(driver):
     return fixtures
 
 def get_table(driver):
+    rows = driver.find_elements(By.CSS_SELECTOR, 'table tbody tr')
 
-    # get teams
-    elements = driver.find_elements(By.CLASS_NAME, 'text-start')
-    teams = [elem.text for elem in elements]
-    teams = teams[7::5]
+    parsed_rows = []
+    for row in rows:
+        cells = [cell.text.strip() for cell in row.find_elements(By.CSS_SELECTOR, 'th, td')]
+        if not cells:
+            continue
 
-    # get stats
-    elements = driver.find_elements(By.CLASS_NAME, 'text-center')
-    stats = [elem.text for elem in elements]
-    stats = stats[6::]
+        rank_index = next((index for index, value in enumerate(cells) if value.isdigit()), None)
+        if rank_index is None:
+            continue
 
-    table = pd.DataFrame(columns=['Rk', 'Squad', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts'])
-    table.Rk = np.arange(1, len(teams)+1)
-    table.Squad = teams
-    table.MP = stats[0::6]
-    table.W = stats[1::6]
-    table.D = stats[2::6]
-    table.L = stats[3::6]
-    table.GF = [x.split('–')[0] for x in stats[4::6]]
-    table.GA = [x.split('–')[1] for x in stats[4::6]]
-    table.GD = table['GF'].astype(int) - table['GA'].astype(int)
-    table.Pts = stats[5::6]
+        squad_index = rank_index + 1
+        stats_index = squad_index + 1
+        if len(cells) <= stats_index + 5:
+            continue
 
-    # convert to numeric
-    table[['Rk', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts']] = (
-        table[['Rk', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts']].apply(pd.to_numeric, errors='coerce')
-    )
+        rank = cells[rank_index]
+        squad = cells[squad_index]
+        gf_ga_parts = re.split(r'\s*[\-–]\s*', cells[stats_index + 4])
+        if len(gf_ga_parts) != 2:
+            continue
+
+        parsed_rows.append(
+            {
+                'Rk': rank,
+                'Squad': squad,
+                'MP': cells[stats_index],
+                'W': cells[stats_index + 1],
+                'D': cells[stats_index + 2],
+                'L': cells[stats_index + 3],
+                'GF': gf_ga_parts[0],
+                'GA': gf_ga_parts[1],
+                'GD': int(gf_ga_parts[0]) - int(gf_ga_parts[1]),
+                'Pts': cells[stats_index + 5],
+            }
+        )
+
+    table = pd.DataFrame(parsed_rows, columns=['Rk', 'Squad', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts'])
+
+    if not table.empty:
+        table[['Rk', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts']] = (
+            table[['Rk', 'MP', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts']].apply(pd.to_numeric, errors='coerce')
+        )
 
     return table
